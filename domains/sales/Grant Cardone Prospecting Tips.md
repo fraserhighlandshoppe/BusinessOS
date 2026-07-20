@@ -1,3 +1,22 @@
+---
+title: "Grant Cardone Prospecting Tips"
+description: "Prospecting strategies from Grant Cardone - lead types, world-class attitude, daily practices"
+author: "Grant Cardone"
+source: "https://cardoneuniversity.com"
+date: "2015"
+tags:
+  - guru:grant-cardone
+  - domain:sales
+  - type:strategy
+  - confidence:high
+  - process:prospecting
+categories:
+  - Sales
+  - Prospecting
+  - Lead Generation
+  - Grant Cardone
+---
+
 # Grant Cardone Prospecting Tips
 
 ## Lead Types
@@ -80,6 +99,9 @@ Prospecting is life/salvation of business future.
 - Crank out calls relentlessly to fill pipeline
 
 ## Related
-- [[Grant Cardone Prospecting Tips]]
 - [[Grant Cardone Sales System]]
+- [[Grant Cardone Sales Cycle]]
 - [[Cold Email Marketing]]
+
+## References
+1. Grant Cardone, "Prospecting Tips", Cardone University, 2015. URL: https://cardoneuniversity.com
