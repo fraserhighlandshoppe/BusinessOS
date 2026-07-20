@@ -1,3 +1,23 @@
+---
+title: "Product Photography SOP"
+description: "Standard operating procedure for product photography - equipment, setup, shooting process, post-processing"
+author: "Fraser Highland Shoppe"
+source: "https://fraserhighlandshoppe.com"
+date: "2024"
+tags:
+  - domain:operations
+  - type:sop
+  - confidence:high
+  - skill:photography
+  - skill:content-creation
+categories:
+  - Operations
+  - SOP
+  - Photography
+  - E-commerce
+
+---
+
 # Product Photography SOP
 
 Standard operating procedure for product photography.
@@ -149,3 +169,11 @@ Standard operating procedure for product photography.
 - Check light bulbs/batteries
 - Update editing presets
 - Review and update this SOP
+
+## References
+1. Fraser Highland Shoppe, "Product Photography SOP", fraserhighlandshoppe.com, 2024.
+2. Shopify, "E-commerce Product Photography Guide", shopify.com, 2024.
+
+## Related
+- [[FHS FA Create Product]]
+- [[Image Standards]]
