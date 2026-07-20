@@ -1,3 +1,23 @@
+---
+title: "Inventory Lifecycle Management"
+description: "Standard operating procedure for product inventory management - lifecycle stages, dead stock, reorder points, ABC analysis"
+author: "Fraser Highland Shoppe"
+source: "https://fraserhighlandshoppe.com"
+date: "2024"
+tags:
+  - domain:operations
+  - type:sop
+  - confidence:high
+  - skill:inventory-management
+  - skill:operations
+categories:
+  - Operations
+  - SOP
+  - Inventory Management
+  - Supply Chain
+
+---
+
 # Inventory Lifecycle Management
 
 Standard operating procedure for product inventory management.
@@ -164,3 +184,12 @@ Reorder Point = (Avg Daily Sales × Lead Time) + Safety Stock
 - Christmas shopping
 - Holiday gifts
 - Year-end clearances
+
+## References
+1. Fraser Highland Shoppe, "Inventory Management SOP", fraserhighlandshoppe.com, 2024.
+2. Supply Chain Management Best Practices, supplychain.org, 2024.
+
+## Related
+- [[FHS FA Inventory Transfer]]
+- [[FHS FA Receive a Shipment]]
+- [[Facebook Marketplace Liquidation]]
