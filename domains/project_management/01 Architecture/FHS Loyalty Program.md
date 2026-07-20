@@ -1,3 +1,23 @@
+---
+title: "FHS Loyalty Program"
+description: "Customer loyalty program - benefits, discounts, exclusive offers, accounting, referral integration"
+author: "Fraser Highland Shoppe"
+source: "https://fraserhighlandshoppe.com"
+date: "2024"
+tags:
+  - domain:project-management
+  - type:program
+  - confidence:high
+  - skill:customer-retention
+  - skill:loyalty-programs
+categories:
+  - Project Management
+  - Customer Retention
+  - Loyalty Program
+  - Marketing
+
+---
+
 # FHS Loyalty Program
 
 ## Overview
@@ -10,7 +30,7 @@ Customer loyalty program offering benefits and exclusive offers.
 - Access to Registered Users price book
 
 ### Additional Savings
-- Receive additional discounts through [FHS Referral Program](FHS_Referral_Program.md)
+- Receive additional discounts through [[FHS Referral Program]]
 - Non-refundable in-store credits
 
 ### Exclusive Offers
@@ -62,12 +82,9 @@ Loyalty program payments recorded as:
 - Regular updates
 - Special occasion communications
 
-## Related Pages
-- [FHS Referral Program](FHS_Referral_Program.md)
-- [FHS Refund Policy](FHS_Refund_Policy.md)
+## References
+1. Fraser Highland Shoppe, "Loyalty Program Documentation", fraserhighlandshoppe.com, 2024.
 
-## Best Practices
-- Promote program at checkout
-- Track member engagement
-- Send personalized offers
-- Thank members for loyalty
+## Related
+- [[FHS Referral Program]]
+- [[FHS Refund Policy]]
