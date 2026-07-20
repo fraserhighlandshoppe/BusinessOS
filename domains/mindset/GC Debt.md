@@ -1,3 +1,22 @@
+---
+title: "Grant Cardone Debt"
+description: "Grant Cardone's debt philosophy - debt as income production tool, not consumption"
+author: "Grant Cardone"
+source: "https://www.grantcardone.com"
+date: "2024"
+tags:
+  - domain:mindset
+  - type:framework
+  - confidence:high
+  - guru:grant-cardone
+  - principle:debt-strategy
+  - financial-mindset
+categories:
+  - Mindset
+  - Finance
+  - Debt Strategy
+---
+
 # Grant Cardone Debt
 
 ## Debt Truths

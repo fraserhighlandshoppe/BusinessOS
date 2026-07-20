@@ -1,3 +1,22 @@
+---
+title: "10X Growth Conference 2024"
+description: "Key themes and insights from Grant Cardone's 10X Growth Conference 2024"
+author: "Grant Cardone"
+source: "https://www.grantcardone.com"
+date: "2024"
+tags:
+  - domain:mindset
+  - type:framework
+  - confidence:high
+  - guru:grant-cardone
+  - event:10x-growth-conference
+  - growth-strategy
+categories:
+  - Mindset
+  - Events
+  - Growth
+---
+
 # 10X Growth Conference 2024
 
 ## Key Themes

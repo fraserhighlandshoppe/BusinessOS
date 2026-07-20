@@ -1,3 +1,22 @@
+---
+title: "How to be a Leader"
+description: "Grant Cardone's leadership principles - authenticity, work ethic, feedback, mentoring"
+author: "Grant Cardone"
+source: "https://cardoneuniversity.com"
+date: "2024"
+tags:
+  - domain:mindset
+  - type:framework
+  - confidence:high
+  - guru:grant-cardone
+  - principle:leadership
+  - management
+categories:
+  - Mindset
+  - Leadership
+  - Management
+---
+
 # How to be a Leader
 
 ## Source

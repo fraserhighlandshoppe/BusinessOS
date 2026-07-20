@@ -1,3 +1,22 @@
+---
+title: "10X Income"
+description: "Grant Cardone's income multiplication principles and mindset shifts"
+author: "Grant Cardone"
+source: "https://www.grantcardone.com"
+date: "2024"
+tags:
+  - domain:mindset
+  - type:framework
+  - confidence:high
+  - guru:grant-cardone
+  - principle:income-multiplication
+  - financial-growth
+categories:
+  - Mindset
+  - Income Growth
+  - Financial Planning
+---
+
 # 10X Income
 
 Ref: Grant Cardone Pages

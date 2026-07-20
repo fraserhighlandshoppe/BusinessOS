@@ -1,3 +1,22 @@
+---
+title: "Customer Avatars"
+description: "Target customer profiles for Highland Games retail and marketing"
+author: "Business Operating System"
+source: "https://www.grantcardone.com"
+date: "2024"
+tags:
+  - domain:marketing
+  - type:framework
+  - confidence:high
+  - framework:customer-avatars
+  - target-audience
+  - grant-cardone
+categories:
+  - Knowledge Base
+  - Frameworks
+  - Marketing
+---
+
 # Customer Avatars
 
 Ported from the FHS wiki `FHS Marketing Plan` (Ideal Customer sections). The

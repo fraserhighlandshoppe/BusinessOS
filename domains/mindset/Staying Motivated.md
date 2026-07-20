@@ -1,3 +1,22 @@
+---
+title: "Staying Motivated - Grant Cardone"
+description: "Grant Cardone's strategies for staying motivated - challenge yourself, daily targets, mentorship"
+author: "Grant Cardone"
+source: "https://www.grantcardone.com"
+date: "2024"
+tags:
+  - domain:mindset
+  - type:framework
+  - confidence:high
+  - guru:grant-cardone
+  - principle:motivation
+  - mindset:motivation
+categories:
+  - Mindset
+  - Motivation
+  - Personal Development
+---
+
 # Staying Motivated - Grant Cardone
 
 ## Challenge Yourself First

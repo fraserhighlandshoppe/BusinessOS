@@ -1,3 +1,22 @@
+---
+title: "GC Wealth Creation Formula"
+description: "Grant Cardone's 4-step wealth creation process - income, increase, save, invest"
+author: "Grant Cardone"
+source: "https://www.grantcardone.com"
+date: "2024"
+tags:
+  - domain:mindset
+  - type:framework
+  - confidence:high
+  - guru:grant-cardone
+  - principle:wealth-creation
+  - finance:wealth-building
+categories:
+  - Mindset
+  - Finance
+  - Wealth Creation
+---
+
 # GC Wealth Creation Formula
 
 ## Ways to Create Financial Wealth

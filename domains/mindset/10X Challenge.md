@@ -1,3 +1,22 @@
+---
+title: "10X Challenge - Mindset: Big Goals, Big Think"
+description: "Grant Cardone's 10X challenge for setting big goals and building discipline"
+author: "Grant Cardone"
+source: "https://www.grantcardone.com"
+date: "2024"
+tags:
+  - domain:mindset
+  - type:framework
+  - confidence:high
+  - guru:grant-cardone
+  - principle:10x-challenge
+  - mindset:goals
+categories:
+  - Mindset
+  - Goals
+  - Discipline
+---
+
 # 10X Challenge - Mindset: Big Goals, Big Think
 
 ## Ref: Grant Cardone Pages

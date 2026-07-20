@@ -1,3 +1,22 @@
+---
+title: "50 Habits of Successful People"
+description: "50 habits of successful people compiled from Grant Cardone's leadership, investing, and business pages"
+author: "Grant Cardone"
+source: "https://www.grantcardone.com"
+date: "2024"
+tags:
+  - domain:mindset
+  - type:framework
+  - confidence:high
+  - guru:grant-cardone
+  - principle:habits
+  - mindset:success
+categories:
+  - Mindset
+  - Personal Development
+  - Success Habits
+---
+
 # 50 Habits of Successful People
 
 Ref: Leadership Pages, Investing Pages, Business Pages

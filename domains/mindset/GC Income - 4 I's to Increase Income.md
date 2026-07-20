@@ -1,3 +1,22 @@
+---
+title: "The 4 I's to Increasing Income"
+description: "Grant Cardone's 4-step income increase framework - Intelligence, Implementation, Investments, I can do it"
+author: "Grant Cardone"
+source: "https://www.grantcardone.com"
+date: "2024"
+tags:
+  - domain:mindset
+  - type:framework
+  - confidence:high
+  - guru:grant-cardone
+  - principle:income-multiplication
+  - financial-growth
+categories:
+  - Mindset
+  - Finance
+  - Income Growth
+---
+
 # The 4 I's to Increasing Income
 
 Ref: Grant Cardone

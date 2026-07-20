@@ -1,3 +1,22 @@
+---
+title: "10X Growth"
+description: "Grant Cardone's 10X growth philosophy - challenge, action, attention, promotion"
+author: "Grant Cardone"
+source: "https://www.grantcardone.com"
+date: "2024"
+tags:
+  - domain:mindset
+  - type:framework
+  - confidence:high
+  - guru:grant-cardone
+  - principle:growth
+  - principle:10x
+categories:
+  - Mindset
+  - Growth
+  - Principles
+---
+
 # 10X Growth
 
 ## Pillars of Growth

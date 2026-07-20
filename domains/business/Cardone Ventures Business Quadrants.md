@@ -1,3 +1,22 @@
+---
+title: "Cardone Ventures Business Quadrants"
+description: "Grant Cardone's business quadrants - Marketing, People, Operations, Finances"
+author: "Grant Cardone"
+source: "https://www.grantcardone.com"
+date: "2024"
+tags:
+  - domain:business
+  - type:framework
+  - confidence:high
+  - guru:grant-cardone
+  - business:quadrants
+  - management-framework
+categories:
+  - Business
+  - Management
+  - Business Framework
+---
+
 # Cardone Ventures Business Quadrants
 
 ## The Four Quadrants

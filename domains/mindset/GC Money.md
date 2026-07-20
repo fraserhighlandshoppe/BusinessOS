@@ -1,3 +1,22 @@
+---
+title: "Money - Grant Cardone"
+description: "Grant Cardone's money mindset and wealth creation principles"
+author: "Grant Cardone"
+source: "https://www.grantcardone.com"
+date: "2024"
+tags:
+  - domain:mindset
+  - type:framework
+  - confidence:high
+  - guru:grant-cardone
+  - principle:wealth
+  - financial-mindset
+categories:
+  - Mindset
+  - Finance
+  - Wealth Creation
+---
+
 # Money - Grant Cardone
 
 ## The Money Mindset

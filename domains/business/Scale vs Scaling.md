@@ -1,3 +1,22 @@
+---
+title: "Scale vs Scaling"
+description: "Difference between maximizing what you have (scale) vs rapid expansion (scaling)"
+author: "Grant Cardone"
+source: "https://www.grantcardone.com"
+date: "2024"
+tags:
+  - domain:business
+  - type:framework
+  - confidence:high
+  - guru:grant-cardone
+  - business:growth
+  - scaling-strategy
+categories:
+  - Business
+  - Growth Strategy
+  - Scaling
+---
+
 # Scale vs Scaling
 
 ## Definitions

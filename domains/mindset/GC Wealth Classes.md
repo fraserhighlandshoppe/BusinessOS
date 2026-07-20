@@ -1,3 +1,22 @@
+---
+title: "Grant Cardone Wealth Classes"
+description: "Grant Cardone's wealth classification system - Poverty to Wealthy income ranges"
+author: "Grant Cardone"
+source: "https://www.grantcardone.com"
+date: "2024"
+tags:
+  - domain:mindset
+  - type:framework
+  - confidence:high
+  - guru:grant-cardone
+  - principle:wealth-classification
+  - financial-mindset
+categories:
+  - Mindset
+  - Finance
+  - Wealth Classification
+---
+
 # Grant Cardone Wealth Classes
 
 ## Key Principle

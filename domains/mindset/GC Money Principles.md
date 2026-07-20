@@ -1,3 +1,22 @@
+---
+title: "GC Money Principles"
+description: "Grant Cardone's 10 money principles - protect capital, invest 40%, leverage debt"
+author: "Grant Cardone"
+source: "https://www.grantcardone.com"
+date: "2024"
+tags:
+  - domain:mindset
+  - type:framework
+  - confidence:high
+  - guru:grant-cardone
+  - principle:wealth-management
+  - financial-principles
+categories:
+  - Mindset
+  - Finance
+  - Wealth Management
+---
+
 # GC Money Principles
 
 ## Source

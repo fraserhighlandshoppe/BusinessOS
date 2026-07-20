@@ -1,3 +1,22 @@
+---
+title: "Grant Cardone Virtual Bootcamp"
+description: "Key takeaways from Grant Cardone Virtual Bootcamp - commitment, scaling, core values"
+author: "Grant Cardone"
+source: "https://www.grantcardone.com"
+date: "2024"
+tags:
+  - domain:mindset
+  - type:framework
+  - confidence:high
+  - guru:grant-cardone
+  - event:virtual-bootcamp
+  - startup-growth
+categories:
+  - Mindset
+  - Events
+  - Growth
+---
+
 # Grant Cardone Virtual Bootcamp
 
 ## Three Pillars

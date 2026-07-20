@@ -1,3 +1,22 @@
+---
+title: "Grant Cardone Limiting Beliefs"
+description: "Identification and elimination of limiting beliefs that hold back success"
+author: "Grant Cardone"
+source: "https://www.grantcardone.com"
+date: "2024"
+tags:
+  - domain:mindset
+  - type:framework
+  - confidence:high
+  - guru:grant-cardone
+  - principle:limiting-beliefs
+  - mindset-shift
+categories:
+  - Mindset
+  - Psychology
+  - Success Principles
+---
+
 # Grant Cardone Limiting Beliefs
 
 ## The Voice in Your Head

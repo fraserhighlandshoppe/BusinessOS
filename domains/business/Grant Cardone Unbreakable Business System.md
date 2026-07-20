@@ -1,3 +1,22 @@
+---
+title: "Unbreakable Business System"
+description: "Grant Cardone's business framework - marketing, lead generation, offer creation"
+author: "Grant Cardone"
+source: "https://www.grantcardone.com"
+date: "2024"
+tags:
+  - domain:business
+  - type:framework
+  - confidence:high
+  - guru:grant-cardone
+  - business:system
+  - marketing-strategy
+categories:
+  - Business
+  - Strategy
+  - Marketing
+---
+
 # Unbreakable Business System
 
 ## Money and Mindset

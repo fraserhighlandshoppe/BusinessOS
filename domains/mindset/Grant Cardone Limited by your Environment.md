@@ -1,3 +1,22 @@
+---
+title: "Are You Limited by Your Surroundings?"
+description: "Grant Cardone on how environment, focus, and parental influence limit business growth"
+author: "Grant Cardone"
+source: "https://www.grantcardone.com"
+date: "2024"
+tags:
+  - domain:mindset
+  - type:framework
+  - confidence:high
+  - guru:grant-cardone
+  - principle:environment
+  - growth-mindset
+categories:
+  - Mindset
+  - Growth
+  - Environment
+---
+
 # Are You Limited by Your Surroundings?
 
 ## Business Reality

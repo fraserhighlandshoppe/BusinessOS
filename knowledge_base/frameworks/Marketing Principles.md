@@ -1,3 +1,21 @@
+---
+title: "Marketing Principles"
+description: "Core marketing principles distilled from FHS wiki and industry best practices"
+author: "Business Operating System"
+source: "https://www.grantcardone.com"
+date: "2024"
+tags:
+  - domain:marketing
+  - type:framework
+  - confidence:high
+  - framework:marketing-principles
+  - grant-cardone
+categories:
+  - Knowledge Base
+  - Frameworks
+  - Marketing
+---
+
 # Marketing Principles
 
 Core marketing principles distilled from FHS wiki and industry best practices.

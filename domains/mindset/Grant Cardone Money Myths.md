@@ -1,3 +1,22 @@
+---
+title: "Grant Cardone Money Myths"
+description: "Debunking common money myths - money is easy, good debt, saving vs investing"
+author: "Grant Cardone"
+source: "https://www.grantcardone.com"
+date: "2024"
+tags:
+  - domain:mindset
+  - type:framework
+  - confidence:high
+  - guru:grant-cardone
+  - principle:wealth-myths
+  - financial-mindset
+categories:
+  - Mindset
+  - Finance
+  - Wealth Mindset
+---
+
 # Grant Cardone Money Myths
 
 ## Money Myths Debunked

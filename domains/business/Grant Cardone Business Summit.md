@@ -1,3 +1,22 @@
+---
+title: "Grant Cardone Business Summit"
+description: "Key insights from Grant Cardone Business Summit - growth strategy, mindset, scaling"
+author: "Grant Cardone"
+source: "https://www.grantcardone.com"
+date: "2024"
+tags:
+  - domain:business
+  - type:framework
+  - confidence:high
+  - guru:grant-cardone
+  - business:summit
+  - growth-strategy
+categories:
+  - Business
+  - Events
+  - Growth Strategy
+---
+
 # Grant Cardone Business Summit
 
 Grant re-iterated his [[Grant Cardone Money Tips]]

@@ -1,3 +1,22 @@
+---
+title: "Grant Cardone Exiting the Business"
+description: "Grant Cardone's business exit strategy - planned vs forced exit, building for value"
+author: "Grant Cardone"
+source: "https://www.grantcardone.com"
+date: "2024"
+tags:
+  - domain:business
+  - type:framework
+  - confidence:high
+  - guru:grant-cardone
+  - business:exiting
+  - business-value
+categories:
+  - Business
+  - Strategy
+  - Exit Planning
+---
+
 # Grant Cardone Exiting the Business
 
 ## The Reality

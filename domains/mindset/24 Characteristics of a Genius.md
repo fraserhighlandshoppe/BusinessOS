@@ -1,3 +1,22 @@
+---
+title: "24 Characteristics of a Genius"
+description: "Grant Cardone's 24 characteristics of genius - drive, courage, communication, perfectionism"
+author: "Grant Cardone"
+source: "https://geniusworld.com"
+date: "2024"
+tags:
+  - domain:mindset
+  - type:framework
+  - confidence:high
+  - guru:grant-cardone
+  - principle:genius-characteristics
+  - mindset:personal-development
+categories:
+  - Mindset
+  - Personal Development
+  - Character
+---
+
 # 24 Characteristics of a Genius
 
 Source: Grant Cardone (Growth Con 2024)

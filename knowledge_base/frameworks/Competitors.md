@@ -1,3 +1,21 @@
+---
+title: "Competitors"
+description: "Competitive analysis for Fraser Highland Shoppe"
+author: "Business Operating System"
+source: "https://www.fraserhighlandshoppe.com"
+date: "2024"
+tags:
+  - domain:operations
+  - type:framework
+  - confidence:high
+  - framework:competitive-analysis
+  - market-research
+categories:
+  - Knowledge Base
+  - Frameworks
+  - Operations
+---
+
 # Competitors
 
 Analysis for Fraser Highland Shoppe. Combines the FHS wiki `FHS Competition`

@@ -1,3 +1,22 @@
+---
+title: "Customer Journey & Sales Cycle"
+description: "Grant Cardone sales cycle blended with Digital Marketer and Mautic journey maps"
+author: "Business Operating System"
+source: "https://www.grantcardone.com"
+date: "2024"
+tags:
+  - domain:marketing
+  - type:framework
+  - confidence:high
+  - framework:customer-journey
+  - grant-cardone
+  - sales-cycle
+categories:
+  - Knowledge Base
+  - Frameworks
+  - Marketing
+---
+
 # Customer Journey & Sales Cycle
 
 Ported from the FHS wiki `FHS Sales Cycle and Customer Journey`. This blends

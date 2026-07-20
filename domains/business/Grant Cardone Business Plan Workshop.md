@@ -1,3 +1,22 @@
+---
+title: "Grant Cardone Business Plan Workshop"
+description: "Grant Cardone's business planning methodology - revenue goals, resources, execution"
+author: "Grant Cardone"
+source: "https://www.grantcardone.com"
+date: "2024"
+tags:
+  - domain:business
+  - type:framework
+  - confidence:high
+  - guru:grant-cardone
+  - business:planning
+  - startup-growth
+categories:
+  - Business
+  - Planning
+  - Startup
+---
+
 # Grant Cardone Business Plan Workshop
 
 ## Multiple Income Flows Required

@@ -1,3 +1,21 @@
+---
+title: "Industry"
+description: "Highland Games & Pipe Bands market analysis and dynamics"
+author: "Business Operating System"
+source: "https://www.pbs.org.uk"
+date: "2024"
+tags:
+  - domain:operations
+  - type:framework
+  - confidence:high
+  - framework:industry-analysis
+  - niche-market
+categories:
+  - Knowledge Base
+  - Frameworks
+  - Operations
+---
+
 # Industry
 
 Ported from the FHS wiki `Industry.md` and related pages.

@@ -1,3 +1,22 @@
+---
+title: "Grant Cardone Money Rules"
+description: "Grant Cardone's money rules - never spend until you get it, 40% rule, rent not own"
+author: "Grant Cardone"
+source: "https://www.grantcardone.com"
+date: "2024"
+tags:
+  - domain:mindset
+  - type:framework
+  - confidence:high
+  - guru:grant-cardone
+  - principle:wealth-rules
+  - financial-management
+categories:
+  - Mindset
+  - Finance
+  - Wealth Management
+---
+
 # Grant Cardone Money Rules
 
 ## Rules to Get Your Money Right

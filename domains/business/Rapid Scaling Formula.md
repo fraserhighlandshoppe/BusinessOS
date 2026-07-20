@@ -1,3 +1,22 @@
+---
+title: "Rapid Scaling Formula"
+description: "Grant Cardone's formula for rapid business growth and scaling"
+author: "Grant Cardone"
+source: "https://www.grantcardone.com"
+date: "2024"
+tags:
+  - domain:business
+  - type:framework
+  - confidence:high
+  - guru:grant-cardone
+  - business:scaling
+  - growth-strategy
+categories:
+  - Business
+  - Scaling
+  - Growth Strategy
+---
+
 # Rapid Scaling Formula
 
 ## 1, 3, and 5 Year Goals

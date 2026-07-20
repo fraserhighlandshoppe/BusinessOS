@@ -1,3 +1,22 @@
+---
+title: "Grant Cardone 10X Boot Camp"
+description: "Key principles from Grant Cardone 10X Boot Camp - intention, awareness, decision making"
+author: "Grant Cardone"
+source: "https://www.grantcardone.com"
+date: "2024"
+tags:
+  - domain:mindset
+  - type:framework
+  - confidence:high
+  - guru:grant-cardone
+  - event:10x-bootcamp
+  - growth-mindset
+categories:
+  - Mindset
+  - Events
+  - Growth
+---
+
 # Grant Cardone 10X Boot Camp
 
 ## Key Principles

@@ -1,3 +1,21 @@
+---
+title: "Customer Questions"
+description: "FAQ compilation for Fraser Highland Shoppe customers and prospects"
+author: "Business Operating System"
+source: "https://www.fraserhighlandshoppe.com"
+date: "2024"
+tags:
+  - domain:marketing
+  - type:framework
+  - confidence:high
+  - framework:faq
+  - customer-service
+categories:
+  - Knowledge Base
+  - Frameworks
+  - Marketing
+---
+
 # Customer Questions
 
 Ported from the FHS wiki `Customer Questions.md` and related pages. Common questions from customers, prospects, and community members.

@@ -1,3 +1,22 @@
+---
+title: "GC Millionaire Math"
+description: "Grant Cardone's wealth multiplication math - exponential growth through marketing"
+author: "Grant Cardone"
+source: "https://www.grantcardone.com"
+date: "2024"
+tags:
+  - domain:mindset
+  - type:framework
+  - confidence:high
+  - guru:grant-cardone
+  - principle:wealth-multiplication
+  - math:wealth-creation
+categories:
+  - Mindset
+  - Finance
+  - Wealth Creation
+---
+
 # GC Millionaire Math
 
 ## Source
