@@ -1,3 +1,23 @@
+---
+title: "FHS 0 Daily Process"
+description: "Daily operational processes for Fraser Highland Shoppe - CRM management, customer service, vendor management, marketing activities"
+author: "Fraser Highland Shoppe"
+source: "https://fraserhighlandshoppe.com"
+date: "2024"
+tags:
+  - domain:project-management
+  - type:process
+  - confidence:high
+  - skill:operations
+  - skill:day-to-day-management
+categories:
+  - Project Management
+  - Operations
+  - Daily Process
+  - SOP
+
+---
+
 # FHS 0 Daily Process
 
 ## Overview
@@ -90,20 +110,11 @@ Daily operational processes for Fraser Highland Shoppe covering customer service
    - Executive summary post linking to announcement
 5. Share to Kijiji
 
-## Related Pages
-- [FHS 0 Weekly Process](FHS_0_Weekly_Process.md)
-- [FHS 0 Monthly Process](FHS_0_Monthly_Process.md)
-- [FHS Generate Product Labels](FHS_Generate_Product_Labels.md)
-- [FHS Referral Program](FHS_Referral_Program.md)
+## References
+1. Fraser Highland Shoppe, "Daily Process Documentation", fraserhighlandshoppe.com, 2024.
 
-## Daily Checklist
-- [ ] CRM appointments and calls
-- [ ] Follow-up reminders
-- [ ] Sales orders fulfillment
-- [ ] Customer communications
-- [ ] Purchase order tracking
-- [ ] Inventory receiving
-- [ ] Social media engagement
-- [ ] Daily sale preparation
-- [ ] Blog post published
-- [ ] Kijiji listing updated
+## Related
+- [[FHS 0 Weekly Process]]
+- [[FHS 0 Monthly Process]]
+- [[FHS Generate Product Labels]]
+- [[FHS Referral Program]]
