@@ -1,3 +1,23 @@
+---
+title: "5 Free Tools You Can Use to Amplify Your Email Marketing"
+description: "5 free email marketing tools - A/B testing, email buttons, GIF creation, headline analysis, sender reputation"
+author: "Various Experts"
+source: "https://www.campaignmonitor.com"
+date: "2024"
+tags:
+  - domain:email
+  - type:tools
+  - confidence:high
+  - skill:email-marketing
+  - skill:tool-utilization
+categories:
+  - Email
+  - Tools
+  - Marketing Tools
+  - Optimization
+
+---
+
 # 5 Free Tools You Can Use to Amplify Your Email Marketing
 
 ## A/B Significance Tester
@@ -39,6 +59,11 @@ Split testing helps determine what works for your audience. Use Kissmetrics free
 - Buttons beat text hyperlinks
 - 22% higher click-through rate
 - 38% higher earnings per click
+
+## References
+1. Campaign Monitor, "Email Marketing Tools", campaignmonitor.com, 2024.
+2. CoSchedule, "Headline Analyzer", coconsole.com, 2024.
+3. ReturnPath, "Sender Score Tool", returnpath.com, 2024.
 
 ## Related
 - [[Cold Email Marketing]]
