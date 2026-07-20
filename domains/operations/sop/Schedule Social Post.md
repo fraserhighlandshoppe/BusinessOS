@@ -1,3 +1,23 @@
+---
+title: "Schedule Social Post"
+description: "Standard operating procedure for creating and scheduling social media posts - 4-part formula, 80/20 rule, content types"
+author: "Fraser Highland Shoppe"
+source: "https://fraserhighlandshoppe.com"
+date: "2024"
+tags:
+  - domain:operations
+  - type:sop
+  - confidence:high
+  - skill:social-media
+  - skill:content-scheduling
+categories:
+  - Operations
+  - SOP
+  - Social Media
+  - Content Marketing
+
+---
+
 # Schedule Social Post
 
 Standard operating procedure for creating and scheduling social media posts.
@@ -84,3 +104,12 @@ Find your sweet spots by checking insight stats.
 - Reach/impressions
 - Click-through rate (for link posts)
 - Comments and shares
+
+## References
+1. Fraser Highland Shoppe, "Social Media Scheduling SOP", fraserhighlandshoppe.com, 2024.
+2. Hootsuite, "Social Media Scheduling Guide", hootsuite.com, 2024.
+
+## Related
+- [[Create Campaign]]
+- [[DM 21 Day Launch]]
+- [[Social Selling]]
