@@ -1,3 +1,23 @@
+---
+title: "FHS Job Offer to Hired Process"
+description: "Onboarding process for new employees - HRIS setup, IT systems, orientation checklist"
+author: "Fraser Highland Shoppe"
+source: "https://fraserhighlandshoppe.com"
+date: "2024"
+tags:
+  - domain:project-management
+  - type:process
+  - confidence:high
+  - skill:hr
+  - skill:onboarding
+categories:
+  - Project Management
+  - HR
+  - Onboarding
+  - Employee Integration
+
+---
+
 # FHS Job Offer to Hired Process
 
 ## Overview
@@ -6,7 +26,7 @@ Process for onboarding new employees after job offer acceptance.
 ## Prerequisites
 - Job offer presented and accepted
 - Candidate has passed interview process
-- See [FHS Applicant Process](FHS_Applicant_Process.md)
+- See [[FHS Applicant Process]]
 
 ## Information Required
 
@@ -48,14 +68,14 @@ Process for onboarding new employees after job offer acceptance.
 
 ### Step 3: Enroll in New Employee Orientation
 Orientation materials:
-- [FHS Core Values](Core%20Values.md)
-- [FHS Vision](Vision.md)
-- [FHS Employee Policies](FHS_Employee_Policies.md)
-- [FHS Business Plan](FHS_Business_Plan.md)
-- [FHS Marketing Plan](FHS_Marketing_Plan.md)
-- [FHS Refund Policy](FHS_Refund_Policy.md)
-- [FHS Sales Process](FHS_Sales_Process.md)
-- [FHS Referral Program](FHS_Referral_Program.md)
+- [[FHS Core Values]]
+- [[FHS Vision]]
+- [[FHS Employee Policies]]
+- [[FHS Business Plan]]
+- [[FHS Marketing Plan]]
+- [[FHS Refund Policy]]
+- [[FHS Sales Process]]
+- [[FHS Referral Program]]
 
 ## New Employee Orientation Checklist
 
@@ -78,17 +98,13 @@ Orientation materials:
 - [ ] Feedback collection
 - [ ] Adjustment implementation
 
-## Related Pages
-- [FHS Core Values](Core%20Values.md)
-- [FHS Vision](Vision.md)
-- [FHS Employee Policies](FHS_Employee_Policies.md)
-- [FHS Business Plan](FHS_Business_Plan.md)
-- [FHS Marketing Plan](FHS_Marketing_Plan.md)
-- [FHS Applicant Process](FHS_Applicant_Process.md)
+## References
+1. Fraser Highland Shoppe, "Onboarding Process Documentation", fraserhighlandshoppe.com, 2024.
 
-## Best Practices
-- Complete system access before first day
-- Document all access grants
-- Schedule orientation within first week
-- Review role requirements with manager
-- Set initial 30-60-90 day goals
+## Related
+- [[FHS Core Values]]
+- [[FHS Vision]]
+- [[FHS Employee Policies]]
+- [[FHS Business Plan]]
+- [[FHS Marketing Plan]]
+- [[FHS Applicant Process]]
