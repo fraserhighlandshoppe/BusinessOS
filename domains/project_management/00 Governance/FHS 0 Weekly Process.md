@@ -1,3 +1,23 @@
+---
+title: "FHS 0 Weekly Process"
+description: "Weekly operational processes for Fraser Highland Shoppe - cash management, marketing, accounts payable, inventory"
+author: "Fraser Highland Shoppe"
+source: "https://fraserhighlandshoppe.com"
+date: "2024"
+tags:
+  - domain:project-management
+  - type:process
+  - confidence:high
+  - skill:operations
+  - skill:week-to-week-management
+categories:
+  - Project Management
+  - Operations
+  - Weekly Process
+  - SOP
+
+---
+
 # FHS 0 Weekly Process
 
 ## Overview
@@ -34,19 +54,10 @@ Weekly operational processes for Fraser Highland Shoppe.
 1. **Monthly Inventory Forecast Report** (Report 312)
 2. **Weekly Inventory Count**
 
-## Related Pages
-- [FHS 0 Daily Process](FHS_0_Daily_Process.md)
-- [FHS 0 Monthly Process](FHS_0_Monthly_Process.md)
-- [FHS 0 Yearly Process](FHS_0_Yearly_Process.md)
+## References
+1. Fraser Highland Shoppe, "Weekly Process Documentation", fraserhighlandshoppe.com, 2024.
 
-## Weekly Checklist
-- [ ] Cash box balanced
-- [ ] Bank accounts reconciled
-- [ ] Cash flow reviewed
-- [ ] Newsletter article prepared
-- [ ] Weekly sale item created
-- [ ] GST tax report submitted
-- [ ] Mastercard transfer setup
-- [ ] Invoices entered and filed
-- [ ] Inventory forecast reviewed
-- [ ] Weekly inventory count
+## Related
+- [[FHS 0 Daily Process]]
+- [[FHS 0 Monthly Process]]
+- [[FHS 0 Yearly Process]]
