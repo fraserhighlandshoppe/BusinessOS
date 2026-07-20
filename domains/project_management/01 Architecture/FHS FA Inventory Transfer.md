@@ -1,3 +1,23 @@
+---
+title: "FHS FA Inventory Transfer"
+description: "Process for transferring inventory between warehouse locations in FrontAccounting - transfer creation, printing, verification"
+author: "Fraser Highland Shoppe"
+source: "https://frontaccounting.com"
+date: "2024"
+tags:
+  - domain:project-management
+  - type:sop
+  - confidence:high
+  - skill:inventory-management
+  - skill:frontaccounting
+categories:
+  - Project Management
+  - SOP
+  - Inventory Management
+  - FrontAccounting
+
+---
+
 # FHS FA Inventory Transfer
 
 ## Overview
@@ -39,13 +59,9 @@ On next page:
 - Verify quantities transferred
 - Confirm location update
 
-## Related Pages
-- [FHS FA Receive Shipment](FHS_FA_Receive_a_Shipment.md)
-- [FHS 0 Monthly Process](FHS_0_Monthly_Process.md)
+## References
+1. FrontAccounting, "Inventory Transfer Documentation", frontaccounting.com, 2024.
 
-## Best Practices
-- Always verify item codes before transfer
-- Use memos to describe transfer purpose
-- Print and file transfer documents
-- Update inventory counts after transfer
-- Reconcile physical vs. system inventory
+## Related
+- [[FHS FA Receive Shipment]]
+- [[FHS 0 Monthly Process]]
