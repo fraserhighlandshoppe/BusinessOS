@@ -1,3 +1,23 @@
+---
+title: "Facebook Marketplace Strategy"
+description: "Facebook Marketplace strategy for dead stock liquidation and excess inventory - listing requirements, pricing, automation"
+author: "Fraser Highland Shoppe"
+source: "https://www.facebook.com/business"
+date: "2024"
+tags:
+  - domain:operations
+  - type:strategy
+  - confidence:high
+  - skill:social-commerce
+  - skill:inventory-management
+categories:
+  - Operations
+  - Strategy
+  - Social Commerce
+  - Inventory Management
+
+---
+
 # Facebook Marketplace Strategy
 
 For dead stock liquidation and excess inventory.
@@ -85,3 +105,12 @@ Serious inquiries welcome!
 - Accurate product condition
 - No prohibited items (per Facebook policy)
 - Clear pickup terms
+
+## References
+1. Facebook Business, "Marketplace Selling Guide", facebook.com/business, 2024.
+2. Fraser Highland Shoppe, "Facebook Marketplace Strategy", fraserhighlandshoppe.com, 2024.
+
+## Related
+- [[Facebook Marketplace Liquidation]]
+- [[Inventory Lifecycle Management]]
+- [[Social Media Strategy]]
