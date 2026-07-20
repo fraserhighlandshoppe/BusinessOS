@@ -1,3 +1,23 @@
+---
+title: "FHS FA Creating a Purchase Order"
+description: "Standard operating procedure for creating purchase orders in FrontAccounting - PO creation, receiving, invoicing"
+author: "Fraser Highland Shoppe"
+source: "https://frontaccounting.com"
+date: "2024"
+tags:
+  - domain:project-management
+  - type:sop
+  - confidence:high
+  - skill:purchasing
+  - skill:frontaccounting
+categories:
+  - Project Management
+  - SOP
+  - Purchasing
+  - FrontAccounting
+
+---
+
 # FHS FA Creating a Purchase Order
 
 ## Overview
@@ -47,13 +67,11 @@ For immediate orders, can skip PO creation and:
 2. Generates PO, Reception, and Invoice in one step
 3. Faster processing for routine purchases
 
-## Related Pages
-- [FHS FA Receive Shipment](FHS_FA_Receive_Shipment.md)
-- [FHS FA Paying a Supplier](FHS_FA_Paying_a_Supplier.md)
-- [FHS FA Invoicing a Supplier Shipment](FHS_FA_Invoicing_a_Supplier_Shipment.md)
+## References
+1. FrontAccounting, "Purchase Order Documentation", frontaccounting.com, 2024.
+2. Fraser Highland Shoppe, "Purchasing SOP", fraserhighlandshoppe.com, 2024.
 
-## Best Practices
-- Always estimate shipping costs
-- Use notes/memory box for important details
-- Email POs when possible for faster processing
-- Receive items at time of PO creation if already arrived
+## Related
+- [[FHS FA Receive Shipment]]
+- [[FHS FA Paying a Supplier]]
+- [[FHS FA Invoicing a Supplier Shipment]]

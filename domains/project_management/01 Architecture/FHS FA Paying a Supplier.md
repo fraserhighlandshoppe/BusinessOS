@@ -1,3 +1,23 @@
+---
+title: "FHS FA Paying a Supplier"
+description: "Process for paying suppliers in FrontAccounting - payment timing, payment entry, remittance generation"
+author: "Fraser Highland Shoppe"
+source: "https://frontaccounting.com"
+date: "2024"
+tags:
+  - domain:project-management
+  - type:sop
+  - confidence:high
+  - skill:payments
+  - skill:frontaccounting
+categories:
+  - Project Management
+  - SOP
+  - Payments
+  - FrontAccounting
+
+---
+
 # FHS FA Paying a Supplier
 
 ## Overview
@@ -8,7 +28,7 @@ FrontAccounting allows payment:
 - **Before**: Payment made before creating Supplier Invoice
 - **After**: Payment made after creating Supplier Invoice
 
-**If paid before invoicing**: Later use [FA Allocate Supplier Payment](FA_Allocate_Supplier_Payment.md)
+**If paid before invoicing**: Later use [[FA Allocate Supplier Payment]]
 
 ## Step-by-Step Process
 
@@ -32,12 +52,9 @@ On the next screen:
 - Select **Print this Remittance**
 - **1 copy** must go to bookkeeper (gets attached to invoice)
 
-## Related Pages
-- [FHS FA Invoicing a Supplier Shipment](FHS_FA_Invoicing_a_Supplier_Shipment.md)
-- [FA Allocate Supplier Payment](FA_Allocate_Supplier_Payment.md)
+## References
+1. FrontAccounting, "Payment Processing Documentation", frontaccounting.com, 2024.
 
-## Best Practices
-- Always keep remittance copies for records
-- Match payment dates to bank statements
-- Verify allocations match invoice amounts
-- Process payments promptly to maintain good vendor relationships
+## Related
+- [[FHS FA Invoicing a Supplier Shipment]]
+- [[FA Allocate Supplier Payment]]

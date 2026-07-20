@@ -1,3 +1,23 @@
+---
+title: "FHS FA Receive a Shipment"
+description: "Process for receiving supplier shipments in FrontAccounting - selecting PO, receiving items, inventory update"
+author: "Fraser Highland Shoppe"
+source: "https://frontaccounting.com"
+date: "2024"
+tags:
+  - domain:project-management
+  - type:sop
+  - confidence:high
+  - skill:inventory-management
+  - skill:frontaccounting
+categories:
+  - Project Management
+  - SOP
+  - Inventory Management
+  - FrontAccounting
+
+---
+
 # FHS FA Receive a Shipment
 
 ## Overview
@@ -5,7 +25,7 @@ Process for receiving supplier shipments in FrontAccounting.
 
 ## Prerequisites
 - Purchase Order must exist in FrontAccounting
-- See [FHS FA Creating a Purchase Order](FHS_FA_Creating_a_Purchase_Order.md)
+- See [[FHS FA Creating a Purchase Order]]
 
 ## Step-by-Step Process
 
@@ -31,13 +51,10 @@ Process for receiving supplier shipments in FrontAccounting.
 **Finalize**:
 - Click **Process Receive Items**
 
-## Related Pages
-- [FHS FA Creating a Purchase Order](FHS_FA_Creating_a_Purchase_Order.md)
-- [FHS FA Invoicing a Supplier Shipment](FHS_FA_Invoicing_a_Supplier_Shipment.md)
-- [FHS FA Paying a Supplier](FHS_FA_Paying_a_Supplier.md)
+## References
+1. FrontAccounting, "Receiving Documentation", frontaccounting.com, 2024.
 
-## Best Practices
-- Always verify delivery quantity matches PO
-- Update inventory immediately after receiving
-- Check for damaged items before processing
-- Keep delivery documentation for records
+## Related
+- [[FHS FA Creating a Purchase Order]]
+- [[FHS FA Invoicing a Supplier Shipment]]
+- [[FHS FA Paying a Supplier]]

@@ -1,3 +1,23 @@
+---
+title: "Emotional Branding for FHS"
+description: "Emotional branding framework - engagement, emotions, experience, customer commitment levels"
+author: "Fraser Highland Shoppe"
+source: "https://www.forbes.com"
+date: "2024"
+tags:
+  - domain:project-management
+  - type:framework
+  - confidence:high
+  - skill:branding
+  - skill:customer-experience
+categories:
+  - Project Management
+  - Branding
+  - Customer Experience
+  - Emotional Intelligence
+
+---
+
 # Emotional Branding for FHS
 
 ## Overview
@@ -151,8 +171,12 @@ Customer journey starts with engagement, builds emotions, creates experience.
 - Intimate marketing and engagement required
 - Vanilla/generic marketing fails - needs targeting
 
-## Related Pages
-- [FHS Core Values](Core%20Values.md)
-- [FHS Mission](Mission.md)
-- [FHS Vision](Vision.md)
-- [Customer Journey Map](Customer%20Journey%20Map.md)
+## References
+1. Forbes, "Emotional Branding Guide", forbes.com, 2024.
+2. Fraser Highland Shoppe, "Branding Documentation", fraserhighlandshoppe.com, 2024.
+
+## Related
+- [[FHS Core Values]]
+- [[FHS Mission]]
+- [[FHS Vision]]
+- [[Customer Journey Map]]

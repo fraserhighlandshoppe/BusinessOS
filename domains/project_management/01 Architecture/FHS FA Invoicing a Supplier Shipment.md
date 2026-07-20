@@ -1,3 +1,23 @@
+---
+title: "FHS FA Invoicing a Supplier Shipment"
+description: "Process for creating supplier invoices in FrontAccounting after receiving shipments - invoice creation, shipping costs, GL entries"
+author: "Fraser Highland Shoppe"
+source: "https://frontaccounting.com"
+date: "2024"
+tags:
+  - domain:project-management
+  - type:sop
+  - confidence:high
+  - skill:invoicing
+  - skill:frontaccounting
+categories:
+  - Project Management
+  - SOP
+  - Invoicing
+  - FrontAccounting
+
+---
+
 # FHS FA Invoicing a Supplier Shipment
 
 ## Overview
@@ -42,14 +62,11 @@ On next page:
 - Print **2 copies** (ensure bookkeeper gets copy)
 
 ## Next Steps
-If needed, proceed to [FHS FA Paying a Supplier](FHS_FA_Paying_a_Supplier.md)
+If needed, proceed to [[FHS FA Paying a Supplier]]
 
-## Related Pages
-- [FHS FA Receive a Shipment](FHS_FA_Receive_a_Shipment.md)
-- [FHS FA Paying a Supplier](FHS_FA_Paying_a_Supplier.md)
+## References
+1. FrontAccounting, "Invoice Processing Documentation", frontaccounting.com, 2024.
 
-## Best Practices
-- Match supplier invoice exactly
-- Keep printed copies for audit trail
-- Verify all line items before processing
-- Use supplier reference numbers for tracking
+## Related
+- [[FHS FA Receive a Shipment]]
+- [[FHS FA Paying a Supplier]]
