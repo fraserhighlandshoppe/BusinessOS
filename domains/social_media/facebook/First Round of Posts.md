@@ -1,3 +1,23 @@
+---
+title: "First Round of Posts - Content Calendar"
+description: "Content calendar for Facebook, Instagram, LinkedIn posts and Marketplace listings - week of July 20-26, 2026"
+author: "Fraser Highland Shoppe"
+source: "https://fraserhighlandshoppe.com"
+date: "2026"
+tags:
+  - domain:social-media
+  - type:calendar
+  - confidence:high
+  - skill:content-calendar
+  - skill:social-media-management
+categories:
+  - Social Media
+  - Content Calendar
+  - Scheduling
+  - Marketing
+
+---
+
 # First Round of Posts - Content Calendar
 
 Week of July 20-26, 2026
@@ -6,13 +26,13 @@ Week of July 20-26, 2026
 
 ### Monday, July 20
 **Type:** Promotion
-**Caption:** Just arrived: Peter Henderson Great Highland Bagpipes! Quality instruments that our community deserves. Available for immediate pickup at our Airdrie location. 
+**Caption:** Just arrived: Peter Henderson Great Highland Bagpipes! Quality instruments that our community deserves. Available for immediate pickup at our Airdrie location.
 **Hashtags:** #FraserHighlandShoppe #Henderson #Bagpipes #CalgaryPiping
 **Goal:** Drive store traffic
 
 ### Tuesday, July 21
 **Type:** Educational
-**Caption:** Piping Tip Tuesday! Keep your chanter reed in a moist reed case for consistent moisture. This simple tip can save your reeds from cracking and extend their life significantly. 
+**Caption:** Piping Tip Tuesday! Keep your chanter reed in a moist reed case for consistent moisture. This simple tip can save your reeds from cracking and extend their life significantly.
 **Hashtags:** #PipingTips #ReedCare #PipeLife
 **Goal:** Build authority
 
@@ -36,7 +56,7 @@ Week of July 20-26, 2026
 
 ### Saturday, July 25
 **Type:** Community
-**Caption:** Saturday Spotlight: Meet our customer who just won 3rd place with their new Henderson bagpipes purchased here! Congratulations! 
+**Caption:** Saturday Spotlight: Meet our customer who just won 3rd place with their new Henderson bagpipes purchased here! Congratulations!
 **Hashtags:** #CustomerSuccess #Henderson #Winners
 **Goal:** Social proof
 
@@ -111,3 +131,12 @@ Week of July 20-26, 2026
 - Cross-promote Marketplace listings in Facebook posts
 - Track engagement metrics daily
 - Respond to comments within 2 hours during business hours
+
+## References
+1. Fraser Highland Shoppe, "Social Media Content Calendar", fraserhighlandshoppe.com, 2026.
+2. Facebook Business, "Content Scheduling Guide", facebook.com/business, 2026.
+
+## Related
+- [[Facebook Strategy]]
+- [[Schedule Social Post]]
+- [[Facebook Marketplace Strategy]]
