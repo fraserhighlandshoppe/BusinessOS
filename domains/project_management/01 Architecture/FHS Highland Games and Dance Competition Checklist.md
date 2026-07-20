@@ -1,3 +1,23 @@
+---
+title: "FHS Highland Games and Dance Competition Checklist"
+description: "Comprehensive checklist for participating in Highland Games and Dance Competitions - prep, travel, setup, sell, teardown"
+author: "Fraser Highland Shoppe"
+source: "https://fraserhighlandshoppe.com"
+date: "2024"
+tags:
+  - domain:project-management
+  - type:checklist
+  - confidence:high
+  - skill:event-management
+  - skill:operations
+categories:
+  - Project Management
+  - Operations
+  - Event Management
+  - Checklist
+
+---
+
 # FHS Highland Games and Dance Competition Checklist
 
 ## Overview
@@ -178,10 +198,13 @@ Comprehensive checklist for participating in Highland Games and Dance Competitio
 - Update inventory records
 - Clean and maintain equipment
 
-## Related Pages
-- [FHS Sales Process](FHS%20Sales%20Process.md)
-- [FHS Core Values](Core%20Values.md)
-- [FHS Mission](Mission.md)
+## References
+1. Fraser Highland Shoppe, "Event Operations Checklist", fraserhighlandshoppe.com, 2024.
+
+## Related
+- [[FHS Sales Process]]
+- [[FHS Core Values]]
+- [[FHS Mission]]
 
 ## Checklists by Category
 
