@@ -1,7 +1,26 @@
+---
+title: "Email Followup Execution"
+description: "Email followup framework - dream client definition, follow-up goals, opt-in incentives, funnel mapping, subject lines"
+author: "FHS Wiki"
+source: "https://fraserhighlandshoppe.com"
+date: "2024"
+tags:
+  - domain:email
+  - type:framework
+  - confidence:high
+  - skill:email-marketing
+  - skill:followup
+categories:
+  - Email
+  - Followup
+  - Marketing
+  - Sales Process
+
+---
+
 # Email Followup Execution
 
 Source: FHS Wiki
-Related: [[The Simple Email Trick That Makes Following Up Effective]]
 
 ## Email Followup Framework
 
@@ -63,6 +82,9 @@ Create low-cost products by:
 - Create lead page giving away content
 - Promote via Facebook ads
 - Grow mailing list
+
+## References
+1. Fraser Highland Shoppe, "Email Followup Framework", fraserhighlandshoppe.com, 2024.
 
 ## Related
 - [[The Simple Email Trick That Makes Following Up Effective]]
