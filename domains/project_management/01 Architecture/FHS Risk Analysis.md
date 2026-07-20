@@ -1,3 +1,23 @@
+---
+title: "FHS Risk Analysis"
+description: "Risk assessment for Fraser Highland Shoppe - identification, evaluation, and risk management strategies"
+author: "Fraser Highland Shoppe"
+source: "https://fraserhighlandshoppe.com"
+date: "2024"
+tags:
+  - domain:project-management
+  - type:analysis
+  - confidence:high
+  - skill:risk-management
+  - skill:decision-making
+categories:
+  - Project Management
+  - Risk Management
+  - Analysis
+  - Business Strategy
+
+---
+
 # FHS Risk Analysis
 
 ## Overview
@@ -97,11 +117,6 @@ Risk assessment to identify, evaluate, and manage risks that could impact Fraser
 #### Illegal Use Lawsuits
 **Strategy**: Insurance, legal protection
 
-## Related Pages
-- [FHS SWOT](SWOT.md)
-- [FHS Competition](FHS_Competition.md)
-- [FHS Insurance](FHS_Insurance.md)
-
 ## Risk Assessment Framework
 
 ### Risk Matrix
@@ -116,8 +131,11 @@ Risk assessment to identify, evaluate, and manage risks that could impact Fraser
 - **Impact**: 1-5 (Negligible to Catastrophic)
 - **Risk Score** = Probability × Impact
 
-## Best Practices
-- Regularly review and update risk assessment
-- Implement appropriate mitigation strategies
-- Maintain adequate insurance coverage
-- Document risk management decisions
+## References
+1. Fraser Highland Shoppe, "Risk Analysis Documentation", fraserhighlandshoppe.com, 2024.
+2. Project Management Institute, "Risk Management Guide", PMI.org, 2024.
+
+## Related
+- [[FHS SWOT]]
+- [[FHS Competition]]
+- [[FHS Insurance]]
