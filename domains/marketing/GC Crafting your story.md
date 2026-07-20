@@ -1,7 +1,28 @@
+---
+title: "Grant Cardone Crafting Your Story"
+description: "Grant Cardone's method for crafting your personal and business story - model, mimic, master approach"
+author: "Grant Cardone"
+source: "https://www.grantcardone.com"
+date: "2021"
+tags:
+  - domain:marketing
+  - type:framework
+  - confidence:high
+  - guru:grant-cardone
+  - skill:personal-branding
+  - skill:storytelling
+categories:
+  - Marketing
+  - Personal Branding
+  - Storytelling
+  - Framework
+
+---
+
 # Grant Cardone Crafting Your Story
 
 ## Source
-[[File: GC Crafting Your Story workbook.pdf]]
+- [[File: GC Crafting Your Story workbook.pdf]]
 
 ## Start with: Who Am I?
 
@@ -50,6 +71,9 @@ When people feel they connect with someone authentically:
 ### Customer Confidence
 When customer feels confident in your ability to understand their problems:
 - They are more likely to become a customer
+
+## References
+1. Grant Cardone, "Crafting Your Story Workbook", grantcardone.com, 2021.
 
 ## Related
 - [[GC Marketing Truths]]

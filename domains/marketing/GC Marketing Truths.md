@@ -1,3 +1,22 @@
+---
+title: "Grant Cardone Marketing Truths"
+description: "Grant Cardone's 8 core marketing truths - top of funnel, attention, quantity over perfection"
+author: "Grant Cardone"
+source: "https://www.grantcardone.com"
+date: "2021"
+tags:
+  - domain:marketing
+  - type:framework
+  - confidence:high
+  - guru:grant-cardone
+  - skill:marketing-strategy
+categories:
+  - Marketing
+  - Framework
+  - Strategy
+
+---
+
 # Grant Cardone Marketing Truths
 
 ## Core Truths
@@ -31,6 +50,9 @@ Marketing is investment, not expense.
 - Quantity over perfection
 - Multiple landing pages
 - Attention = money
+
+## References
+1. Grant Cardone, "Marketing Truths", grantcardone.com, 2021.
 
 ## Related
 - [[Grant Cardone Marketing]]

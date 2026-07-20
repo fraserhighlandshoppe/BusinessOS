@@ -1,3 +1,24 @@
+---
+title: "Fill Your Pipeline with Cold Prospecting"
+description: "Grant Cardone's cold prospecting methodology - frequency, preparation, omni-present communication"
+author: "Grant Cardone"
+source: "https://www.grantcardone.com"
+date: "2021"
+tags:
+  - domain:sales
+  - type:framework
+  - confidence:high
+  - guru:grant-cardone
+  - skill:cold-prospecting
+  - skill:pipeline-development
+categories:
+  - Sales
+  - Prospecting
+  - Cold Outreach
+  - Pipeline Management
+
+---
+
 # Fill Your Pipeline with Cold Prospecting
 
 ## Benefits of Cold Prospecting
@@ -43,6 +64,9 @@
 - **Frequency and persistence are key**
 - Follow a process every time
 - Use every means available - be **OMNIPRESENT**
+
+## References
+1. Grant Cardone, "Cold Prospecting Methods", grantcardone.com, 2021.
 
 ## Related
 - [[Grant Cardone Sales System]]

@@ -1,3 +1,22 @@
+---
+title: "FHS Core Values"
+description: "Fraser Highland Shoppe's core values - availability, education, collaboration, friendship, trust and personal responsibility"
+author: "Fraser Highland Shoppe"
+source: "https://fraserhighlandshoppe.com"
+date: "2024"
+tags:
+  - domain:project-management
+  - type:values
+  - confidence:high
+  - skill:governance
+categories:
+  - Project Management
+  - Governance
+  - Core Values
+  - Business Philosophy
+
+---
+
 # FHS Core Values
 
 ## Purpose
@@ -58,5 +77,8 @@ Core values drive all decisions at Fraser Highland Shoppe and guide our culture 
 - Would be bad if we had the opposite
 - Reflect what makes us unique
 
-## Related Pages
-- [Build Your Business By Linking to a Cause](Build_Your_Business_By_Linking_to_a_Cause.md) - Using cause alignment for marketing
+## References
+1. Fraser Highland Shoppe, "Core Values Documentation", fraserhighlandshoppe.com, 2024.
+
+## Related
+- [[Build Your Business By Linking to a Cause]]

@@ -1,3 +1,24 @@
+---
+title: "Grant Cardone Objection Handling"
+description: "Grant Cardone's objection handling techniques - agree and move, Tanner Chidester method, trust-based objections"
+author: "Grant Cardone"
+source: "https://www.grantcardone.com"
+date: "2021"
+tags:
+  - domain:sales
+  - type:framework
+  - confidence:high
+  - guru:grant-cardone
+  - skill:objection-handling
+  - skill:sales-techniques
+categories:
+  - Sales
+  - Objection Handling
+  - Sales Techniques
+  - Framework
+
+---
+
 # Grant Cardone Objection Handling
 
 ## Reasons People Object
@@ -59,6 +80,10 @@ They lacked **trust**:
    - "Hey, the lowest I can go is XX. Can you make that work?"
    - No? "Ok, when you're in a better financial position reach out."
    - If it was your friend: "OK, you can't afford it today. Let's save up..."
+
+## References
+1. Grant Cardone, "Objection Handling Techniques", grantcardone.com, 2021.
+2. Tanner Chidester, "Price Negotiation Method", 2021.
 
 ## Related
 - [[Grant Cardone Sales System]]

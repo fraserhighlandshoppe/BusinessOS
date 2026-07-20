@@ -1,3 +1,24 @@
+---
+title: "FHS Sales Cycle and Customer Journey"
+description: "Blended sales cycle and customer journey framework - combining Grant Cardone, Digital Marketer, Mautic processes"
+author: "Fraser Highland Shoppe"
+source: "https://fraserhighlandshoppe.com"
+date: "2024"
+tags:
+  - domain:project-management
+  - type:framework
+  - confidence:high
+  - skill:sales-process
+  - skill:customer-journey
+categories:
+  - Project Management
+  - Architecture
+  - Sales Process
+  - Customer Journey
+  - Framework
+
+---
+
 # FHS Sales Cycle and Customer Journey
 
 ## Overview
@@ -126,8 +147,13 @@ Touchpoints lead to friction. Friction can lead to derailed journeys or negative
 - Ensure exceptions still provide positive experience
 - Have recovery plans for derailed journeys
 
-## Related Pages
-- [FHS Core Values](Core%20Values.md)
-- [FHS Mission](Mission.md)
-- [FHS Vision](Vision.md)
-- [Customer Journey Map](Customer_Journey_Map.md)
+## References
+1. Grant Cardone, "Sales Cycle Method", cardoneuniversity.com, 2021.
+2. Digital Marketer, "Customer Journey Blueprint", digitalmarketer.com, 2021.
+3. Mautic, "Customer Journey Documentation", mautic.org, 2021.
+
+## Related
+- [[FHS Core Values]]
+- [[FHS Mission]]
+- [[FHS Vision]]
+- [[Customer Journey Map]]

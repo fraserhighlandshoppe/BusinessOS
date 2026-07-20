@@ -1,3 +1,23 @@
+---
+title: "Facebook Marketplace Dead Stock Liquidation"
+description: "SOP for liquidating slow-moving inventory through Facebook Marketplace - identify, prepare, list, monitor"
+author: "Business Operating System"
+source: "https://www.facebook.com/business"
+date: "2026"
+tags:
+  - domain:operations
+  - type:sop
+  - confidence:high
+  - skill:inventory-management
+  - skill:social-commerce
+categories:
+  - Operations
+  - SOP
+  - Inventory Management
+  - Social Commerce
+
+---
+
 # SOP: Facebook Marketplace Dead Stock Liquidation
 
 ## Purpose
@@ -78,11 +98,13 @@ Nightly process:
 - [ ] Item condition accurately described
 - [ ] Stock level reduced when sold
 
-## Related
+## References
+1. Facebook Business, "Catalog Manager Guide", facebook.com/business, 2026.
 
-- `BR013 Facebook Marketplace Dead Stock Liquidation` — business requirements
-- `Knowledge Base/Competitors.md` — market pricing context
-- `content/Channels/Social Media Strategy.md` — content guidelines
+## Related
+- [[BR013 Facebook Marketplace Dead Stock Liquidation]]
+- [[Knowledge Base/Competitors.md]]
+- [[Social Media Strategy]]
 
 ## Automation Opportunity
 

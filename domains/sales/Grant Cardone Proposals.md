@@ -1,3 +1,24 @@
+---
+title: "Grant Cardone Proposals"
+description: "Grant Cardone's proposal methodology - written communication, clear benefits, value proposition"
+author: "Grant Cardone"
+source: "https://cardoneuniversity.com/5-rules-to-hack-your-sales-game/"
+date: "2021"
+tags:
+  - domain:sales
+  - type:framework
+  - confidence:high
+  - guru:grant-cardone
+  - skill:proposal-writing
+  - skill:sales-process
+categories:
+  - Sales
+  - Proposals
+  - Sales Process
+  - Framework
+
+---
+
 # Grant Cardone Proposals
 
 ## Present in Writing. Communicate Clearly.
@@ -31,6 +52,9 @@ Always have contract and legal pad.
 1. **Offer** - Clear value proposition
 2. **Benefits** - Why they should buy
 3. **Inclusions** - What's included
+
+## References
+1. Grant Cardone, "5 Rules to Hack Your Sales Game", Cardone University, 2021.
 
 ## Related
 - [[Grant Cardone Sales Cycle]]

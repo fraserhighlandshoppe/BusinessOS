@@ -1,3 +1,24 @@
+---
+title: "Ten Dollar A Day Traffic Plan"
+description: "Traffic plan framework using 6/3/1 ratio - cold, warm, hot traffic strategies and offers"
+author: "Digital Marketer"
+source: "https://www.digitalmarketer.com"
+date: "2021"
+tags:
+  - domain:marketing
+  - type:framework
+  - confidence:high
+  - guru:digital-marketer
+  - skill:traffic-generation
+  - skill:facebook-ads
+categories:
+  - Marketing
+  - Traffic Generation
+  - Facebook Ads
+  - Framework
+
+---
+
 # Ten Dollar A Day Traffic Plan
 
 ## The 6/3/1 Ratio
@@ -85,12 +106,12 @@ Your existing buyers.
 
 **Targeting**: Interest targeting between 500,000 and 1M
 
-### Interest Targeting
+## Interest Targeting
 Be very specific - put right message in front of right people.
 
 **"But no one else would" trick**: Be your target market, or interview someone who is.
 
-### Research Questions
+## Research Questions
 1. Who are the authorities, big brands, thought leaders in your niche?
 2. What books, magazines, newspapers do they read?
 3. What events do they attend?
@@ -99,9 +120,12 @@ Be very specific - put right message in front of right people.
 6. What tools do they use?
 7. What is uniquely about your target market?
 
-### Ad Copy and Creative
+## Ad Copy and Creative
 - Image in ad must match landing page
 - Person knows they're exactly where they should be
+
+## References
+1. Digital Marketer, "The 10 Dollar a Day Traffic Plan", digitalmarketer.com, 2021.
 
 ## Related
 - [[Sales Funnel]]

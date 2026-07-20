@@ -1,3 +1,23 @@
+---
+title: "Project Test Strategy"
+description: "Test strategy development - inputs, steps, validation techniques"
+author: "Project Management Institute"
+source: "https://www.pmi.org/learning/thought-leadership/pmbok"
+date: "2017"
+tags:
+  - domain:project-management
+  - type:process
+  - confidence:high
+  - standard:pmbok
+  - skill:quality-assurance
+categories:
+  - Project Management
+  - Testing
+  - Quality Assurance
+  - PMBOK
+
+---
+
 # Project Test Strategy
 
 ## Inputs to the Strategy
@@ -61,6 +81,9 @@ Possible validation techniques:
 - User interface prototype
 - System test architecture
 - Requirements traceability and verification matrix
+
+## References
+1. Project Management Institute, "A Guide to the Project Management Body of Knowledge (PMBOK Guide)", 6th Edition, 2017.
 
 ## Related
 - [[Project Definition]]

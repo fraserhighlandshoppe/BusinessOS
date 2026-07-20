@@ -1,3 +1,24 @@
+---
+title: "DM 21 Day Launch - The 3X Method"
+description: "Digital Marketer's 21 day launch method using 3X principles - product splintering, tripwires, perpetual traffic"
+author: "Digital Marketer"
+source: "https://www.digitalmarketer.com"
+date: "2021"
+tags:
+  - domain:marketing
+  - type:strategy
+  - confidence:high
+  - guru:digital-marketer
+  - skill:funnel-marketing
+  - skill:launch-strategy
+categories:
+  - Marketing
+  - Funnel Marketing
+  - Launch Strategy
+  - Sales Funnel
+
+---
+
 # DM 21 Day Launch - The 3X Method
 
 ## The Normal Business Steps
@@ -81,6 +102,9 @@ Begin with the end in mind - plan customer journey to Core Offer.
 - Profit Maximizer: _______________
 
 **Image**: [[Digital Marketer Process.png]]
+
+## References
+1. Digital Marketer, "The 3X Method Launch Formula", digitalmarketer.com, 2021.
 
 ## Related
 - [[Tripwire Template]]

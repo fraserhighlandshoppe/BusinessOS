@@ -1,3 +1,23 @@
+---
+title: "Launch Product"
+description: "Standard operating procedure for product launches - 3X method, pre-launch, launch day, post-launch"
+author: "Business Operating System"
+source: "https://www.mikefilsaime.com"
+date: "2021"
+tags:
+  - domain:operations
+  - type:sop
+  - confidence:high
+  - skill:product-launch
+  - skill:marketing
+categories:
+  - Operations
+  - SOP
+  - Product Launch
+  - Marketing
+
+---
+
 # Launch Product
 
 Standard operating procedure for product launches.
@@ -132,3 +152,12 @@ Common objections and responses:
 - Payment processor (Stripe, PayPal)
 - Analytics dashboard
 - Social scheduling (Hootsuite)
+
+## References
+1. Mike Filsaime, "Product Launch Formula", mikefilsaime.com, 2021.
+2. Grant Cardone, "10X Marketing System", grantcardone.com, 2021.
+
+## Related
+- [[Create Campaign]]
+- [[Email Workflow]]
+- [[Sales Funnel]]

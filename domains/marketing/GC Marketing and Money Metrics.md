@@ -1,7 +1,28 @@
+---
+title: "Grant Cardone Marketing and Money Metrics"
+description: "Grant Cardone's marketing metrics framework - database metrics, sales conversion metrics, financial metrics"
+author: "Grant Cardone"
+source: "https://www.grantcardone.com"
+date: "2021"
+tags:
+  - domain:marketing
+  - type:framework
+  - confidence:high
+  - guru:grant-cardone
+  - skill:marketing-analytics
+  - skill:email-marketing
+categories:
+  - Marketing
+  - Analytics
+  - Metrics
+  - Framework
+
+---
+
 # Grant Cardone Marketing and Money Metrics
 
 ## Source
-[[File: GC Marketing and Money Metrics Workbook.pdf]]
+- [[File: GC Marketing and Money Metrics Workbook.pdf]]
 
 ## Key Insight
 As marketing becomes more involved, metrics become more advanced.
@@ -50,6 +71,9 @@ If nobody has seen content, they won't open emails.
 ### Content
 - Affects CTR
 - Include opportunities to link click multiple times
+
+## References
+1. Grant Cardone, "Marketing and Money Metrics Workbook", grantcardone.com, 2021.
 
 ## Related
 - [[GC Marketing Truths]]

@@ -1,3 +1,23 @@
+---
+title: "Mautic Marketing Automation Operations"
+description: "SOP for managing Mautic marketing automation integrated with FrontAccounting and WooCommerce"
+author: "Business Operating System"
+source: "https://www.mautic.org"
+date: "2021"
+tags:
+  - domain:operations
+  - type:sop
+  - confidence:high
+  - skill:marketing-automation
+  - skill:integrations
+categories:
+  - Operations
+  - SOP
+  - Marketing Automation
+  - Integrations
+
+---
+
 # SOP: Mautic Marketing Automation Operations
 
 ## Purpose
@@ -167,9 +187,16 @@ Marketing Operations agent, reviewed monthly by owner.
 - [ ] Compliance requirements met
 - [ ] Backups completed
 
-## Related Documents
+## References
+1. Mautic, "Marketing Automation Documentation", mautic.org, 2021.
+2. WooCommerce, "Webhook Integration Guide", woocommerce.com, 2021.
 
-- `BR014 Mautic Marketing Automation` — Business requirements
-- `Mautic Integration Strategy` — Full implementation guide
-- `content/Channels/Email/Welcome Series.md` — Email content
-- `DATA_CONTRACTS.md` — Data schemas
+## Related
+- [[BR014 Mautic Marketing Automation]]
+- [[Mautic Integration Strategy]]
+- [[Welcome Series]]
+- [[DATA_CONTRACTS.md]]
+
+## Revision History
+
+- 2026-07-17: Initial version

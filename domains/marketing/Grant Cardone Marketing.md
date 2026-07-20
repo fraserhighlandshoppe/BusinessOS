@@ -1,3 +1,22 @@
+---
+title: "Grant Cardone Marketing"
+description: "Grant Cardone's marketing philosophy - attention focused, senior to sales, 5 ways when social media is down"
+author: "Grant Cardone"
+source: "https://www.grantcardone.com"
+date: "2021"
+tags:
+  - domain:marketing
+  - type:framework
+  - confidence:high
+  - guru:grant-cardone
+  - skill:marketing-strategy
+categories:
+  - Marketing
+  - Strategy
+  - Framework
+
+---
+
 # Grant Cardone Marketing
 
 Marketing is all about getting attention. Sales is about turning that attention into revenue. Sales and marketing must be senior to everything else in your business.
@@ -37,6 +56,9 @@ Individual marketing strategy using existing relationships.
 
 ## Key Principle
 **Don't panic!** Keep calm, have plan of action for each scenario, implement strategies that suit your needs.
+
+## References
+1. Grant Cardone, "Marketing Principles", grantcardone.com, 2021.
 
 ## Related
 - [[Grant Cardone Sales System]]

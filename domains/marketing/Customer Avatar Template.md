@@ -1,6 +1,27 @@
+---
+title: "Customer Avatar Template"
+description: "Template for creating customer avatars - demographic, psychographic, and behavioral data"
+author: "Digital Marketer"
+source: "https://www.digitalmarketer.com"
+date: "2021"
+tags:
+  - domain:marketing
+  - type:template
+  - confidence:high
+  - skill:audience-research
+  - skill:customer-insights
+categories:
+  - Marketing
+  - Audience Research
+  - Templates
+  - Customer Insights
+
+---
+
 # Customer Avatar Template
 
-Source: Digital Marketer
+## Source
+- Digital Marketer
 
 ## Why Use a Customer Avatar?
 
@@ -71,6 +92,9 @@ Brings avatar to life - easier to write ads to.
 - Communication preference
 - Jargon, lingo, slang
 - Themes, stories, phrases used to describe challenges and solutions
+
+## References
+1. Digital Marketer, "Customer Avatar Template", digitalmarketer.com, 2021.
 
 ## Related
 - [[Social Selling]]

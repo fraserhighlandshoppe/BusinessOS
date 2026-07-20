@@ -1,3 +1,22 @@
+---
+title: "FHS Department Structure"
+description: "Fraser Highland Shoppe organizational structure - COO, CFO, PAO, CIO roles and responsibilities"
+author: "Fraser Highland Shoppe"
+source: "https://fraserhighlandshoppe.com"
+date: "2024"
+tags:
+  - domain:project-management
+  - type:structure
+  - confidence:high
+  - skill:governance
+categories:
+  - Project Management
+  - Governance
+  - Organizational Structure
+  - Business Structure
+
+---
+
 # FHS Department Structure
 
 ## Overview
@@ -81,8 +100,11 @@ FHS organizational structure with roles, responsibilities, and departmental func
 - PAO addresses property marketing
 - COO advises on legal issues
 
-## Related Pages
-- [FHS Core Values](Core%20Values.md)
-- [FHS Mission](Mission.md)
-- [FHS Vision](Vision.md)
-- [FHS SWOT](SWOT.md)
+## References
+1. Fraser Highland Shoppe, "Department Structure Documentation", fraserhighlandshoppe.com, 2024.
+
+## Related
+- [[FHS Core Values]]
+- [[FHS Mission]]
+- [[FHS Vision]]
+- [[FHS SWOT]]

@@ -1,8 +1,30 @@
+---
+title: "Finding Employees Eager to Both Work and Grow"
+description: "Hiring philosophy - finding employees who work and grow, not just do minimum - skills vs problem solving"
+author: "Issamar Ginzberg"
+source: "https://www.entrepreneur.com/article/246285"
+date: "2015"
+tags:
+  - domain:hr
+  - type:strategy
+  - confidence:high
+  - guru:entrepreneur
+  - skill:hiring
+  - skill:employee-development
+categories:
+  - Human Resources
+  - Hiring
+  - Employee Development
+  - Strategy
+
+---
+
 # Finding Employees Eager to Both Work and Grow
 
-Source: [Entrepreneur Article](https://www.entrepreneur.com/article/246285)
-Author: Issamar Ginzberg
-Date: February 17, 2015
+## Source
+- [Entrepreneur Article](https://www.entrepreneur.com/article/246285)
+- Author: Issamar Ginzberg
+- Date: February 17, 2015
 
 ## The Excel Mistake
 
@@ -54,3 +76,11 @@ Many unemployed people aren't thinking about "making the employer happy" - they 
 Don't just hire for current skills - hire for growth potential. The ability to "think on your feet" and deliver better results is what separates those who merely work from those who work and grow.
 
 **Google's Approach**: Uses mathematical challenges on billboards to recruit - if you don't get the math, you don't find the hiring page.
+
+## References
+1. Issamar Ginzberg, "Finding Employees Eager to Both Work and Grow", Entrepreneur.com, February 17, 2015.
+
+## Related
+- [[HR Strategy]]
+- [[Employee Development]]
+- [[Interview Questions]]

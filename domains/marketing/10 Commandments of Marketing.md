@@ -1,7 +1,26 @@
+---
+title: "10 Commandments of Marketing"
+description: "Grant Cardone's 10 commandments for marketing success - attention, frequency, speed, omni-presence"
+author: "Grant Cardone"
+source: "https://www.grantcardone.com"
+date: "2021"
+tags:
+  - domain:marketing
+  - type:framework
+  - confidence:high
+  - guru:grant-cardone
+  - skill:marketing
+categories:
+  - Marketing
+  - Framework
+  - Strategy
+
+---
+
 # 10 Commandments of Marketing
 
 ## Source
-[[File: GC 10 Commandments of Marketing workbook.pdf]]
+- [[File: GC 10 Commandments of Marketing workbook.pdf]]
 
 ## The 10 Commandments
 
@@ -40,6 +59,9 @@ It's about consistency, not single moment.
 **Quit thinking about introvert vs extrovert.** Doesn't matter.
 
 **Get where your audience is.**
+
+## References
+1. Grant Cardone, "10 Commandments of Marketing", Growamaster.com, 2021.
 
 ## Related
 - [[GC Marketing Truths]]

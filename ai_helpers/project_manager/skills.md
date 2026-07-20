@@ -1,3 +1,24 @@
+---
+title: "Project Manager AI Helper Skills"
+description: "AI skills and prompt engineering for project managers - planning, risk, communication, quality"
+author: "Business Operating System"
+source: "https://www.pmi.org/learning/thought-leadership/pmbok"
+date: "2024"
+tags:
+  - domain:project-management
+  - type:skill
+  - confidence:high
+  - standard:pmbok
+  - skill:project-management
+  - ai:helper
+categories:
+  - AI Helpers
+  - Project Management
+  - Skills
+  - Prompt Engineering
+
+---
+
 # Project Manager AI Helper Skills
 
 ## Core Competencies
@@ -28,14 +49,32 @@
 - **Contract Management**: Types, terms, monitoring
 
 ## AI Prompt Engineering
+
+### Project Charter Prompt
 ```
 You are a senior project manager with PMP certification. 
 Help me create a project charter for [PROJECT_NAME].
 Include: objectives, scope, stakeholders, high-level risks.
 ```
 
+### Schedule Prompt
+```
+You are an expert scheduler. Create a project schedule for [PROJECT_NAME].
+Include: activities, dependencies, critical path, milestones.
+Format as Gantt chart data.
+```
+
+### Risk Identification Prompt
+```
+You are a risk management specialist. Identify risks for [PROJECT_TYPE] project.
+Provide: risk description, probability, impact, mitigation strategy.
+```
+
 ## Related Templates
-- Project Charter
-- Project Management Plan
-- Risk Register
-- Communication Plan
+- [[Project Charter]]
+- [[Project Management Plan]]
+- [[Risk Register]]
+- [[Communication Plan]]
+
+## References
+1. Project Management Institute, "A Guide to the Project Management Body of Knowledge (PMBOK Guide)", 6th Edition, 2017.

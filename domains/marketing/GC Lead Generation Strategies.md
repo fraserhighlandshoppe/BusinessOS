@@ -1,7 +1,28 @@
+---
+title: "Grant Cardone Lead Generation Strategies"
+description: "Grant Cardone's lead generation strategies - content creation, email lists, podcasts, webinars"
+author: "Grant Cardone"
+source: "https://www.grantcardone.com"
+date: "2021"
+tags:
+  - domain:marketing
+  - type:strategy
+  - confidence:high
+  - guru:grant-cardone
+  - skill:lead-generation
+  - skill:content-marketing
+categories:
+  - Marketing
+  - Lead Generation
+  - Content Marketing
+  - Strategy
+
+---
+
 # Grant Cardone Lead Generation Strategies
 
 ## Source
-[[File: GC Lead Generation Strategies Workbook.pdf]]
+- [[File: GC Lead Generation Strategies Workbook.pdf]]
 
 ## Create Content Daily
 
@@ -56,6 +77,9 @@ Invite people to free training.
 2. Pick a time
 3. Tell people about it
 4. Run it
+
+## References
+1. Grant Cardone, "Lead Generation Strategies Workbook", grantcardone.com, 2021.
 
 ## Related
 - [[GC Marketing and Money Metrics]]

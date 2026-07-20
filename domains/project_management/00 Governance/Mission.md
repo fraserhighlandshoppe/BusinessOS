@@ -1,3 +1,22 @@
+---
+title: "FHS Mission"
+description: "Fraser Highland Shoppe's mission statement - becoming go-to highland shoppe for pipers, drummers, dancers in Southern Alberta"
+author: "Fraser Highland Shoppe"
+source: "https://fraserhighlandshoppe.com"
+date: "2024"
+tags:
+  - domain:project-management
+  - type:mission
+  - confidence:high
+  - skill:governance
+categories:
+  - Project Management
+  - Governance
+  - Mission
+  - Business Philosophy
+
+---
+
 # FHS Mission
 
 ## Mission Statement
@@ -34,10 +53,11 @@ Our mission is driven by our core values:
 - Books and CDs
 - Competition gear
 
-## Related Pages
-- [FHS Core Values](Core%20Values.md)
-- [FHS Vision](Vision.md)
-- [FHS SWOT](SWOT.md)
+## References
+1. Fraser Highland Shoppe, "Company Mission Statement", fraserhighlandshoppe.com, 2024.
 
-## External References
-- [Benefit to Company Vision and Purpose](Benefit_to_Company_Vision_and_Purpose.md)
+## Related
+- [[FHS Core Values]]
+- [[FHS Vision]]
+- [[FHS SWOT]]
+- [[Benefit to Company Vision and Purpose]]

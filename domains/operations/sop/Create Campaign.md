@@ -1,3 +1,23 @@
+---
+title: "Create Campaign"
+description: "Standard operating procedure for creating marketing campaigns - Mike Filsaime formula, funnel setup, launch sequence"
+author: "Business Operating System"
+source: "https://www.mikefilsaime.com"
+date: "2021"
+tags:
+  - domain:operations
+  - type:sop
+  - confidence:high
+  - skill:campaign-management
+  - skill:marketing
+categories:
+  - Operations
+  - SOP
+  - Marketing
+  - Campaign Management
+
+---
+
 # Create Campaign
 
 Standard operating procedure for creating marketing campaigns.
@@ -106,3 +126,12 @@ Ensure consistent, high-converting marketing campaigns following proven formulas
 - Analytics (Google Analytics)
 - Social scheduling (Hootsuite)
 - Design (Canva, Photoshop)
+
+## References
+1. Mike Filsaime, "The Funnel Script", mikefilsaime.com, 2021.
+2. Digital Marketer, "Campaign Creation Playbook", digitalmarketer.com, 2021.
+
+## Related
+- [[Lead Magnet]]
+- [[Sales Funnel]]
+- [[Email Workflow]]

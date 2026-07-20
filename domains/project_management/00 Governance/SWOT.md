@@ -1,3 +1,22 @@
+---
+title: "FHS SWOT Analysis"
+description: "SWOT analysis for Fraser Highland Shoppe - strengths, weaknesses, opportunities, threats"
+author: "Fraser Highland Shoppe"
+source: "https://fraserhighlandshoppe.com"
+date: "2024"
+tags:
+  - domain:project-management
+  - type:analysis
+  - confidence:high
+  - skill:strategic-planning
+categories:
+  - Project Management
+  - Governance
+  - SWOT Analysis
+  - Strategic Planning
+
+---
+
 # FHS SWOT Analysis
 
 ## Overview
@@ -55,8 +74,11 @@ If having difficulties, look at:
 9. Competition's activities?
 10. Overall market?
 
-## Related Pages
-- [Competitive Analysis on Social Media](Competitive_Analysis_on_Social_Media.md)
-- [FHS Mission](Mission.md)
-- [FHS Vision](Vision.md)
-- [FHS Core Values](Core%20Values.md)
+## References
+1. Fraser Highland Shoppe, "SWOT Analysis", fraserhighlandshoppe.com, 2024.
+
+## Related
+- [[Competitive Analysis on Social Media]]
+- [[FHS Mission]]
+- [[FHS Vision]]
+- [[FHS Core Values]]

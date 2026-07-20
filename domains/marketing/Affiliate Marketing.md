@@ -1,6 +1,27 @@
+---
+title: "Affiliate Marketing"
+description: "Affiliate marketing strategies - building lists, selling products, trust building"
+author: "Eben Pagan, Jeff Johnson"
+source: "https://www.ebenpagan.com"
+date: "2020"
+tags:
+  - domain:marketing
+  - type:strategy
+  - confidence:high
+  - guru:eben-pagan
+  - guru:jeff-johnson
+  - skill:affiliate-marketing
+categories:
+  - Marketing
+  - Affiliate
+  - Strategy
+
+---
+
 # Affiliate Marketing
 
-Source: Eben Pagan, Jeff Johnson
+## Source
+- Eben Pagan, Jeff Johnson
 
 ## Key Principles
 
@@ -15,6 +36,10 @@ Sell your affiliate products AND your own products simultaneously.
 - Build relationship through affiliate marketing first
 - Then sell your own products
 - Use affiliate products to build trust and authority
+
+## References
+1. Eben Pagan, "Affiliate Marketing Secrets", ebenpagan.com, 2020.
+2. Jeff Johnson, "Super Affiliate System", 2020.
 
 ## Related
 - [[Eben Pagan Pages]]

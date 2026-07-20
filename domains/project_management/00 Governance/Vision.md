@@ -1,3 +1,22 @@
+---
+title: "FHS Vision"
+description: "Fraser Highland Shoppe's vision statement - 30 second vision, internal and external vision, community profile"
+author: "Fraser Highland Shoppe"
+source: "https://fraserhighlandshoppe.com"
+date: "2024"
+tags:
+  - domain:project-management
+  - type:vision
+  - confidence:high
+  - skill:governance
+categories:
+  - Project Management
+  - Governance
+  - Vision
+  - Strategic Planning
+
+---
+
 # FHS Vision
 
 ## Vision Statement (30 Seconds)
@@ -51,12 +70,11 @@ Paints a picture so people can determine if they want to go down this path with 
 ### Five-Year Vision
 Share the picture or description of what the shop will look like in five years.
 
-## Resources
-- [Step 1 Values](Media:Step1Values1.pdf)
-- [Our Perception Self](Media:OurPerceptionSelf.pdf)
+## References
+1. Fraser Highland Shoppe, "Company Vision Statement", fraserhighlandshoppe.com, 2024.
 
-## Related Pages
-- [FHS Mission](Mission.md)
-- [FHS Core Values](Core%20Values.md)
-- [FHS SWOT](SWOT.md)
-- [Benefit to Company Vision and Purpose](Benefit_to_Company_Vision_and_Purpose.md)
+## Related
+- [[FHS Mission]]
+- [[FHS Core Values]]
+- [[FHS SWOT]]
+- [[Benefit to Company Vision and Purpose]]

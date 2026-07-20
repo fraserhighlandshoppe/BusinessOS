@@ -1,3 +1,24 @@
+---
+title: "Grant Cardone Sales System Mistakes"
+description: "Common mistakes in Grant Cardone's sales system - wrong target, complexity, no strategy, one-man show"
+author: "Grant Cardone"
+source: "https://cardoneuniversity.com"
+date: "2021"
+tags:
+  - domain:sales
+  - type:framework
+  - confidence:high
+  - guru:grant-cardone
+  - skill:sales-process
+  - skill:avoidance
+categories:
+  - Sales
+  - Mistakes
+  - Sales Process
+  - Framework
+
+---
+
 # Grant Cardone Sales System Mistakes
 
 ## Key Mistakes to Avoid
@@ -37,6 +58,9 @@ Focus on revenue, not activity.
 6. Always be selling
 7. Always be marketing
 8. Prioritize revenue
+
+## References
+1. Grant Cardone, "Sales System Mistakes", Cardone University, 2021.
 
 ## Related
 - [[Grant Cardone Sales System]]
