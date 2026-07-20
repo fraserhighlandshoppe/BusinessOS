@@ -1,13 +1,33 @@
+---
+title: "FHS 0 Monthly Process"
+description: "Monthly operational and financial processes for Fraser Highland Shoppe - cash management, financial reporting, payroll"
+author: "Fraser Highland Shoppe"
+source: "https://fraserhighlandshoppe.com"
+date: "2024"
+tags:
+  - domain:project-management
+  - type:process
+  - confidence:high
+  - skill:operations
+  - skill:month-end-close
+categories:
+  - Project Management
+  - Operations
+  - Monthly Process
+  - Finance
+
+---
+
 # FHS 0 Monthly Process
 
 ## Overview
 Monthly operational and financial processes for Fraser Highland Shoppe.
 
 ## Daily Tasks (Recap)
-- [FHS 0 Daily Process](FHS_0_Daily_Process.md)
+- [[FHS 0 Daily Process]]
 
 ## Weekly Tasks (Recap)
-- [FHS 0 Weekly Process](FHS_0_Weekly_Process.md)
+- [[FHS 0 Weekly Process]]
 
 ## Monthly Process
 
@@ -87,14 +107,11 @@ Monthly operational and financial processes for Fraser Highland Shoppe.
 3. **Employee expense payments**
 4. **Payroll tax submissions**
 
-## Related Pages
-- [FHS 0 Daily Process](FHS_0_Daily_Process.md)
-- [FHS 0 Weekly Process](FHS_0_Weekly_Process.md)
-- [FHS 0 Yearly Process](FHS_0_Yearly_Process.md)
+## References
+1. Fraser Highland Shoppe, "Monthly Process Documentation", fraserhighlandshoppe.com, 2024.
+2. Project Management Institute, "Month-End Close Process", PMI.org, 2024.
 
-## Best Practices
-- Review all financial reports monthly
-- Reconcile all accounts
-- Process payroll on schedule
-- Maintain proper documentation
-- Follow up on overdue accounts
+## Related
+- [[FHS 0 Daily Process]]
+- [[FHS 0 Weekly Process]]
+- [[FHS 0 Yearly Process]]
