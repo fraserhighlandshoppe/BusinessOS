@@ -1,3 +1,23 @@
+---
+title: "Grant Cardone Sales Tips"
+description: "Grant Cardone sales tips - mindset, value, sales pitch, sales cycle, conviction"
+author: "Grant Cardone"
+source: "https://cardoneuniversity.com"
+date: "2022"
+tags:
+  - domain:sales
+  - type:tips
+  - confidence:high
+  - guru:grant-cardone
+  - skill:sales-techniques
+categories:
+  - Sales
+  - Sales Tips
+  - Mindset
+  - Strategy
+
+---
+
 # Grant Cardone Sales Tips
 
 ## Get Your Mindset Right
@@ -75,8 +95,8 @@ Great pitch = remembered when industry need arises.
 
 **No universal pitch** - too many variables.
 
-## Step One: Answer These Questions
-[Continue from source for complete questions]
+## References
+1. Grant Cardone, "Sales Tips", cardoneuniversity.com, 2022.
 
 ## Related
 - [[Grant Cardone Sales System]]
