@@ -1,3 +1,23 @@
+---
+title: "The Perfect Sales Process"
+description: "Grant Cardone's perfect sales process - 5 essential steps, greeting, needs determination, presentation, proposal, closing"
+author: "Grant Cardone"
+source: "https://www.linkedin.com/pulse/perfect-sales-process-grant-cardone"
+date: "2022"
+tags:
+  - domain:sales
+  - type:process
+  - confidence:high
+  - guru:grant-cardone
+  - skill:sales-process
+categories:
+  - Sales
+  - Sales Process
+  - Grant Cardone
+  - Methodology
+
+---
+
 # The Perfect Sales Process
 
 Reference: [LinkedIn Article](https://www.linkedin.com/pulse/perfect-sales-process-grant-cardone)
@@ -64,6 +84,9 @@ Don't present without figures. Aggressively get to figures with every buyer.
 - Professional salespeople demand help in closing
 - Need hundreds of closes, not just a few
 - Need fresh, innovative ways for every situation
+
+## References
+1. Grant Cardone, "The Perfect Sales Process", LinkedIn, 2022.
 
 ## Related
 - [[Grant Cardone Sales Cycle]]
