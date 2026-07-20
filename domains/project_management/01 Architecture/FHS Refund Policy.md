@@ -1,3 +1,23 @@
+---
+title: "FHS Refund Policy"
+description: "Returns and refunds policy for Fraser Highland Shoppe products - exchange policy, shipping charges, product categories"
+author: "Fraser Highland Shoppe"
+source: "https://fraserhighlandshoppe.com"
+date: "2024"
+tags:
+  - domain:project-management
+  - type:policy
+  - confidence:high
+  - skill:customer-service
+  - skill:returns
+categories:
+  - Project Management
+  - Customer Service
+  - Returns Policy
+  - E-commerce
+
+---
+
 # FHS Refund Policy
 
 ## Overview
@@ -77,12 +97,9 @@ For customers shipping from outside Canada:
 - Issue exchange or credit
 - Process refund if applicable
 
-## Related Pages
-- [FHS FA Customer Return](FHS_FA_Customer_Return.md)
-- [FHS Referral Program](FHS_Referral_Program.md)
+## References
+1. Fraser Highland Shoppe, "Refund Policy", fraserhighlandshoppe.com, 2024.
 
-## Best Practices
-- Always contact before returning
-- Keep original packaging
-- Document condition with photos
-- Use tracked shipping
+## Related
+- [[FHS FA Customer Return]]
+- [[FHS Referral Program]]
