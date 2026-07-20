@@ -1,3 +1,23 @@
+---
+title: "7 Tips to Make Sure Your LinkedIn Picture Is Helping Not Hurting Your Prospects"
+description: "7 tips for LinkedIn profile pictures - approachable, fresh, professional, what to avoid"
+author: "Harrison Monarth"
+source: "https://www.linkedin.com"
+date: "2015"
+tags:
+  - domain:linkedin
+  - type:tips
+  - confidence:high
+  - guru:harrison-monarth
+  - skill:personal-branding
+categories:
+  - LinkedIn
+  - Personal Branding
+  - Profile Optimization
+  - Career Development
+
+---
+
 # 7 Tips to Make Sure Your LinkedIn Picture Is Helping, Not Hurting Your Prospects
 
 ## Source
@@ -62,7 +82,10 @@ LinkedIn can ban you for 3 strikes of bad photos.
 
 **LinkedIn is for professional networking** - not Man Crush Monday, not swiping, not stalking high school crush.
 
+## References
+1. Harrison Monarth, "LinkedIn Profile Picture Tips", linkedin.com, January 13, 2015.
+2. Kim Lachance Shandrow, "LinkedIn Photo Mistakes", LinkedIn, 2015.
+
 ## Related
 - [[10 Questions to Ask When Creating Your LinkedIn Company Page]]
-- [[How LinkedIn Has Killed Your Book of Business]]
 - [[Why the Elevator Pitch Hurts Your Chances of Winning New Clients]]
