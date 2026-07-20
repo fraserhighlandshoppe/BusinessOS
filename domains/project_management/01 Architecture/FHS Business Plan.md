@@ -1,3 +1,23 @@
+---
+title: "FHS Business Plan"
+description: "Fraser Highland Shoppe business plan - executive summary, strategic framework, pillars, exit plan"
+author: "Kevin S Fraser and Kimberly D Henry"
+source: "https://fraserhighlandshoppe.com"
+date: "2024"
+tags:
+  - domain:project-management
+  - type:plan
+  - confidence:high
+  - skill:strategy
+  - skill:business-planning
+categories:
+  - Project Management
+  - Business Planning
+  - Strategy
+  - Governance
+
+---
+
 # FHS Business Plan
 
 ## Legal Information
@@ -59,7 +79,7 @@ We provide quality and affordable products within the realm of Scottish Culture.
 8. What's the risk of standing still?
 
 ## Pillars of the Business
-1. **Strategic Vision** (Business Plan)
+1. **Strategic Vision** (BusinessPlan)
 2. **Team-Building**
 3. **Infrastructure Building**
 4. **Knowing the Numbers**
@@ -67,12 +87,12 @@ We provide quality and affordable products within the realm of Scottish Culture.
 6. **Continuous Learning**
 
 ## Key Documents
-- [FHS Marketing Plan](FHS_Marketing_Plan.md)
-- [FHS Sales Objectives](FHS_Sales_Objectives.md)
-- [FHS Mission](Mission.md)
-- [FHS Vision](Vision.md)
-- [FHS SWOT](SWOT.md)
-- [FHS Core Values](Core%20Values.md)
+- [[FHS Marketing Plan]]
+- [[FHS Sales Objectives]]
+- [[FHS Mission]]
+- [[FHS Vision]]
+- [[FHS SWOT]]
+- [[FHS Core Values]]
 
 ## Directors and Compensation
 - Directors must be equity holders
@@ -84,6 +104,9 @@ We provide quality and affordable products within the realm of Scottish Culture.
 - Dissolution requires shareholder vote
 - Transfer of shares approved by majority holders
 
-## Related Pages
-- [FHS Partnership Registration](FHS_PartnerSHIP_REGISTRATION.md)
-- [Tiers of Engagement](Tiers_of_Engagement.md)
+## References
+1. Fraser Highland Shoppe, "Business Plan", fraserhighlandshoppe.com, 2024.
+
+## Related
+- [[FHS Partnership Registration]]
+- [[Tiers of Engagement]]
