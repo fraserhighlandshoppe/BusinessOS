@@ -1,3 +1,23 @@
+---
+title: "FHS Marketing Plan"
+description: "Marketing plan supporting FHS Sales Objectives - brand representation, message, objectives, channels"
+author: "Fraser Highland Shoppe"
+source: "https://fraserhighlandshoppe.com"
+date: "2024"
+tags:
+  - domain:project-management
+  - type:plan
+  - confidence:high
+  - skill:marketing-strategy
+  - skill:branding
+categories:
+  - Project Management
+  - Marketing
+  - Strategic Planning
+  - Brand Strategy
+
+---
+
 # FHS Marketing Plan
 
 ## Overview
@@ -33,7 +53,7 @@ Develop message that:
 - Is lean and focused
 
 ## Strategic Objectives
-Support [FHS Sales Objectives](FHS_Sales_Objectives.md)
+Support [[FHS Sales Objectives]]
 
 ### SWOT Alignment
 - Capitalize on strengths
@@ -84,17 +104,12 @@ Educate pipers, drummers, and dancers about our existence. Show products we carr
 - Email newsletter
 - Content marketing (blogs, videos, case studies)
 
-## Related Documents
-- [FHS Business Plan](FHS_Business_Plan.md)
-- [FHS Sales Objectives](FHS_Sales_Objectives.md)
-- [FHS Vision](Vision.md)
-- [FHS SWOT](SWOT.md)
+## References
+1. Fraser Highland Shoppe, "Marketing Plan", fraserhighlandshoppe.com, 2024.
+2. Digital Marketer, "Marketing Plan Framework", digitalmarketer.com, 2024.
 
-## Key Metrics
-- Website traffic and engagement
-- Customer database growth
-- Newsletter signups
-- Referral program participation
-- Social media engagement
-- Blog post frequency
-- Video publication rate
+## Related
+- [[FHS Business Plan]]
+- [[FHS Sales Objectives]]
+- [[FHS Vision]]
+- [[FHS SWOT]]
