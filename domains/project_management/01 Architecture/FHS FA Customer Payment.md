@@ -1,3 +1,23 @@
+---
+title: "FHS FA Customer Payment"
+description: "Process for recording customer payments in FrontAccounting - payment entry, receipt printing, allocation"
+author: "Fraser Highland Shoppe"
+source: "https://frontaccounting.com"
+date: "2024"
+tags:
+  - domain:project-management
+  - type:sop
+  - confidence:high
+  - skill:accounting
+  - skill:frontaccounting
+categories:
+  - Project Management
+  - SOP
+  - Accounting
+  - FrontAccounting
+
+---
+
 # FHS FA Customer Payment
 
 ## Overview
@@ -37,12 +57,9 @@ If customer wants receipt:
    - Invoice allocations
    - Receipt number
 
-## Related Pages
-- [FHS FA Invoicing a Supplier Shipment](FHS_FA_Invoicing_a_Supplier_Shipment.md)
-- [FHS FA Journal Entry Customer Payment Fix](FHS_FA_Journal_Entry_Customer_Payment_Fix.md)
+## References
+1. FrontAccounting, "Customer Payment Documentation", frontaccounting.com, 2024.
 
-## Best Practices
-- Process payments promptly
-- Match payment dates to bank deposits
-- Keep receipt copies for records
-- Use memos for payment method tracking
+## Related
+- [[FHS FA Invoicing a Supplier Shipment]]
+- [[FHS FA Journal Entry Customer Payment Fix]]
