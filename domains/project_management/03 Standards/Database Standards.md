@@ -1,0 +1,7 @@
+- snake_case
+- Plural tables
+- UUID support
+- Audit tables
+- Soft deletes
+- Version history
+- Migrations

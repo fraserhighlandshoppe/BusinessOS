@@ -1,0 +1,16 @@
+- PHP (7.3)
+- PSR-12
+- Namespaces (Frontaccounting)
+- Dependency Injection
+- SOLID
+- Single Responsibilities Principal
+- Don't Repeat Yourself
+- Repositories
+- Services
+- DTOs
+- No SQL in controllers.
+- No HTML in business logic. (ksfraser/HTML)
+- Unit Tests (phpunit) with 100% line coverage
+- 100% pass rate.  Skipped tests are failed tests
+- Documentation - php docblock
+  - UML showing message passing, flowchart

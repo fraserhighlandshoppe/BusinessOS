@@ -1,0 +1,5 @@
+- REST
+- JSON
+- Versioned
+- OpenAPI
+- Stateless
