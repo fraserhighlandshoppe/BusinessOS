@@ -1,3 +1,23 @@
+---
+title: "FHS Function Accountability Chart"
+description: "Organizational accountability chart - who is responsible for each function, KPIs, and financial items"
+author: "Fraser Highland Shoppe"
+source: "https://fraserhighlandshoppe.com"
+date: "2024"
+tags:
+  - domain:project-management
+  - type:reference
+  - confidence:high
+  - skill:governance
+  - skill:accountability
+categories:
+  - Project Management
+  - Governance
+  - Accountability
+  - Organizational Structure
+
+---
+
 # FHS Function Accountability Chart
 
 ## Overview
@@ -112,14 +132,11 @@ Organizational accountability chart showing who is responsible for each function
 - **KPIs**: Website conversion, digital sales, email engagement
 - **Financial Items**: E-commerce revenue, digital marketing costs
 
-## Related Pages
-- [FHS Core Values](Core%20Values.md)
-- [FHS Vision](Vision.md)
-- [FHS Employee Policies](FHS_Employee_Policies.md)
+## References
+1. Fraser Highland Shoppe, "Function Accountability Chart", fraserhighlandshoppe.com, 2024.
+2. Project Management Institute, "Accountability Framework", PMI.org, 2024.
 
-## Accountability Principles
-1. Clear ownership of each function
-2. Measurable KPIs for performance tracking
-3. Direct link to financial items
-4. Regular review and reporting
-5. Alignment with business objectives
+## Related
+- [[FHS Core Values]]
+- [[FHS Vision]]
+- [[FHS Employee Policies]]
