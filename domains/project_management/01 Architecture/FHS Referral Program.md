@@ -1,3 +1,23 @@
+---
+title: "FHS Referral Program"
+description: "Customer referral and affiliate program - referral generation, follow-up, reward structure, eligibility"
+author: "Fraser Highland Shoppe"
+source: "https://fraserhighlandshoppe.com"
+date: "2024"
+tags:
+  - domain:project-management
+  - type:program
+  - confidence:high
+  - skill:referral-marketing
+  - skill:customer-retention
+categories:
+  - Project Management
+  - Marketing
+  - Referral Program
+  - Customer Retention
+
+---
+
 # FHS Referral Program
 
 ## Overview
@@ -92,15 +112,12 @@ Referrers receive Non Refundable In-Store Discount Credits (NRDCs) totaling 10% 
 ## New Customer Benefits
 New customers who are referred receive **10% off** regularly priced items on first purchase.
 
-## Related Pages
-- [FHS Loyalty Program](FHS_Loyalty_Program.md)
-- [FHS Refund Policy](FHS_Refund_Policy.md)
-- [How to Generate Referrals](How_to_generate_Referrals.md)
-- [How to Ask for a Referral](How_to_ask_for_a_Referral.md)
-- [Customer Referral Program](Customer_Referral_Program.md)
+## References
+1. Fraser Highland Shoppe, "Referral Program Documentation", fraserhighlandshoppe.com, 2024.
 
-## Best Practices
-- Always ask for referrals after interactions
-- Follow up with referred contacts
-- Thank referrers promptly
-- Track and reward top referrers
+## Related
+- [[FHS Loyalty Program]]
+- [[FHS Refund Policy]]
+- [[How to Generate Referrals]]
+- [[How to Ask for a Referral]]
+- [[Customer Referral Program]]

@@ -1,3 +1,23 @@
+---
+title: "FHS Product Review"
+description: "Product review strategy - social proof, word-of-mouth marketing, review request techniques"
+author: "Fraser Highland Shoppe"
+source: "https://fraserhighlandshoppe.com"
+date: "2024"
+tags:
+  - domain:project-management
+  - type:strategy
+  - confidence:high
+  - skill:social-proof
+  - skill:marketing
+categories:
+  - Project Management
+  - Marketing
+  - Social Proof
+  - Strategy
+
+---
+
 # FHS Product Review
 
 ## Overview
@@ -94,6 +114,10 @@ the feedback system and active participation by buyers like you.
 - Use multiple channels (email, social, newsletter)
 - Track review request effectiveness
 
-## Related Pages
-- [FHS Referral Program](FHS_Referral_Program.md)
-- [How to Ask for a Referral](How_to_ask_for_a_Referral.md)
+## References
+1. Fraser Highland Shoppe, "Product Review Strategy", fraserhighlandshoppe.com, 2024.
+2. Amazon, "Customer Review Best Practices", amazon.com, 2024.
+
+## Related
+- [[FHS Referral Program]]
+- [[How to Ask for a Referral]]
