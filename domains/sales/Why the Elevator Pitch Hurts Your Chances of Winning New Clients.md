@@ -1,8 +1,29 @@
+---
+title: "Why the Elevator Pitch Hurts Your Chances of Winning New Clients"
+description: "Why elevator pitches fail and how to get real conversations - the filing cabinet problem, curiosity approach"
+author: "Issamar Ginzberg"
+source: "https://www.entrepreneur.com/article/246285"
+date: "2015"
+tags:
+  - domain:sales
+  - type:strategy
+  - confidence:high
+  - guru:entrepreneur
+  - skill:client-engagement
+categories:
+  - Sales
+  - Client Engagement
+  - Conversation
+  - Strategy
+
+---
+
 # Why the Elevator Pitch Hurts Your Chances of Winning New Clients
 
-Source: [Entrepreneur Article](https://www.entrepreneur.com/article/246285)
-Author: Issamar Ginzberg
-Date: May 18, 2015
+## Source
+- [Entrepreneur Article](https://www.entrepreneur.com/article/246285)
+- Author: Issamar Ginzberg
+- Date: May 18, 2015
 
 ## The Problem with Elevator Pitches
 
@@ -44,6 +65,9 @@ When someone asks "What do you do?":
 ## Key Takeaway
 
 The elevator pitch should not tell them what you do. It should get an opening for curiosity that leads to a real conversation where you can deliver genuine value.
+
+## References
+1. Issamar Ginzberg, "Elevator Pitch Article", entrepreneur.com, May 18, 2015.
 
 ## Related
 - [[Getting the Best Testimonials From Clients to Use in Your Marketing]]
