@@ -1,3 +1,23 @@
+---
+title: "Customer Journey Map"
+description: "Customer journey mapping - visual illustration of customer needs, interactions, and emotional states"
+author: "Fraser Highland Shoppe"
+source: "https://www.nngroup.com"
+date: "2024"
+tags:
+  - domain:project-management
+  - type:reference
+  - confidence:high
+  - skill:user-research
+  - skill:customer-experience
+categories:
+  - Project Management
+  - Customer Experience
+  - User Journey
+  - Reference
+
+---
+
 # Customer Journey Map
 
 ## Purpose
@@ -74,7 +94,11 @@ Customer journey maps are documents that:
 - Helps convey story to management and teams
 - Improves service and product experience
 
-## Related Pages
-- [Customer Avatar Template](Customer_Avatar_Template.md)
-- [Customer Journey](Customer_Journey.md)
-- [FHS Sales Cycle and Customer Journey](FHS%20Sales%20Cycle%20and%20Customer%20Journey.md)
+## References
+1. Nielsen Norman Group, "Customer Journey Mapping", nngroup.com, 2024.
+2. Fraser Highland Shoppe, "Customer Journey Documentation", fraserhighlandshoppe.com, 2024.
+
+## Related
+- [[Customer Avatar Template]]
+- [[Customer Journey]]
+- [[FHS Sales Cycle and Customer Journey]]

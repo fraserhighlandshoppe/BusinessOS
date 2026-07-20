@@ -1,3 +1,23 @@
+---
+title: "Content Standards"
+description: "Content creation standards - blogging mistakes, copywriting, headlines, email writing, social media posts"
+author: "Various Experts"
+source: "https://www.copyblogger.com"
+date: "2021"
+tags:
+  - domain:knowledge-base
+  - type:standard
+  - confidence:high
+  - skill:content-marketing
+  - skill:copywriting
+categories:
+  - Knowledge Base
+  - Content Standards
+  - Writing
+  - Marketing
+
+---
+
 # Content Standards
 
 ## Blogging Mistakes
@@ -176,3 +196,12 @@ Select keywords from 3 categories:
 | Video | Phone filming OK, window lighting, selfie-style |
 | Editing | Free tools or hire editor |
 | Final | Square/portrait format, captions required |
+
+## References
+1. Copyblogger, "Content Marketing Standards", copyblogger.com, 2021.
+2. Jay Baer, "Hacking Content Marketing", 2021.
+
+## Related
+- [[Content Creation]]
+- [[Writing Standards]]
+- [[Marketing Copywriting]]

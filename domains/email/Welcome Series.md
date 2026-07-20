@@ -1,3 +1,23 @@
+---
+title: "Welcome Email Series"
+description: "Three-part welcome email sequence for new subscribers - introduction, story, value and community"
+author: "Fraser Highland Shoppe"
+source: "https://www.mailchimp.com"
+date: "2024"
+tags:
+  - domain:email
+  - type:template
+  - confidence:high
+  - skill:email-marketing
+  - skill:welcome-series
+categories:
+  - Email
+  - Welcome Series
+  - Templates
+  - Marketing
+
+---
+
 # Welcome Email Series
 
 Three-part welcome sequence for new subscribers.
@@ -107,3 +127,12 @@ Upcoming events:
 3. Wait 2 days, send Email 3
 
 **Fallback**: If no engagement after series, move to monthly content
+
+## References
+1. Mailchimp, "Welcome Email Best Practices", mailchimp.com, 2024.
+2. Fraser Highland Shoppe, "Email Marketing Strategy", fraserhighlandshoppe.com, 2024.
+
+## Related
+- [[Email Workflow]]
+- [[Customer Journey Map]]
+- [[Sales Funnel]]
