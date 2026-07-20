@@ -1,3 +1,24 @@
+---
+title: "Cold Email Marketing Tips"
+description: "Cold email marketing tips - 8 critical mistakes to avoid, subject lines, writing style, structure"
+author: "Sean McPheat"
+source: "https://www.sean-mcpheat.com"
+date: "2021"
+tags:
+  - domain:email
+  - type:tips
+  - confidence:high
+  - guru:sean-mcpheat
+  - skill:cold-email
+  - skill:email-marketing
+categories:
+  - Email
+  - Cold Email
+  - Marketing
+  - Sales Outreach
+
+---
+
 # Cold Email Marketing Tips
 
 Source: Critiques by Sean McPheat
@@ -78,6 +99,10 @@ John Smith
 - Make it scannable
 - Provide value before asking
 - Clear, simple CTA
+
+## References
+1. Sean McPheat, "Cold Email Marketing Tips", sean-mcpheat.com, 2021.
+2. Mailshake, "Cold Email Best Practices", mailshake.com, 2021.
 
 ## Related
 - [[Email Followup]]
