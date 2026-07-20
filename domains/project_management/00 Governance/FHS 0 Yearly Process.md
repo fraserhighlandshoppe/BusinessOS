@@ -1,3 +1,23 @@
+---
+title: "FHS 0 Yearly Process"
+description: "Annual planning and execution of FHS marketing and business activities - year-end audit, tax reports, inventory, strategy"
+author: "Fraser Highland Shoppe"
+source: "https://fraserhighlandshoppe.com"
+date: "2024"
+tags:
+  - domain:project-management
+  - type:process
+  - confidence:high
+  - skill:operations
+  - skill:year-end-close
+categories:
+  - Project Management
+  - Operations
+  - Yearly Process
+  - Finance
+
+---
+
 # FHS 0 Yearly Process
 
 ## Purpose
@@ -105,11 +125,16 @@ Annual planning and execution of FHS marketing and business activities.
 - Discuss enhancements for workflow/software improvements
 - Prioritize changes by impact and timing
 
-## Related Pages
-- [FHS 0 Daily Process](FHS_0_Daily_Process.md)
-- [FHS 0 Weekly Process](FHS_0_Weekly_Process.md)
-- [FHS 0 Monthly Process](FHS_0_Monthly_Process.md)
-- [FHS Core Values](Core%20Values.md)
-- [FHS Mission](Mission.md)
-- [FHS Vision](Vision.md)
-- [FHS SWOT](SWOT.md)
+## References
+1. Fraser Highland Shoppe, "Yearly Process Documentation", fraserhighlandshoppe.com, 2024.
+2. Project Management Institute, "Year-End Close Process", PMI.org, 2024.
+3. Canadian Revenue Agency, "GST/HST Reporting", cra.gc.ca, 2024.
+
+## Related
+- [[FHS 0 Daily Process]]
+- [[FHS 0 Weekly Process]]
+- [[FHS 0 Monthly Process]]
+- [[FHS Core Values]]
+- [[FHS Mission]]
+- [[FHS Vision]]
+- [[FHS SWOT]]
