@@ -1,3 +1,23 @@
+---
+title: "How to Generate Referrals"
+description: "Referral generation strategies - mindset shift, key principles, tactics, early integration, emotional connection"
+author: "Fraser Highland Shoppe"
+source: "https://fraserhighlandshoppe.com"
+date: "2024"
+tags:
+  - domain:project-management
+  - type:strategy
+  - confidence:high
+  - skill:referral-marketing
+  - skill:customer-engagement
+categories:
+  - Project Management
+  - Marketing
+  - Referral Generation
+  - Customer Engagement
+
+---
+
 # How to Generate Referrals
 
 ## Overview
@@ -22,7 +42,7 @@ Instead of waiting until after transaction:
 - Explain you rely on them
 - Say you're going to earn them
 - Plant seed to start referring NOW
-- See [How to Ask for a Referral](How_to_ask_for_a_Referral.md)
+- See [[How to Ask for a Referral]]
 
 ### 2. Connect During Emotional "Windows of Opportunity"
 During complex transactions or relationships:
@@ -63,15 +83,12 @@ During complex transactions or relationships:
 2. What are the emotional "Windows Of Opportunity" for your customers?
 3. How could you give customers unique stories to tell others?
 
-## Related Pages
-- [How to Ask for a Referral](How_to_ask_for_a_Referral.md)
-- [FHS Referral Program](FHS_Referral_Program.md)
-- [FHS Loyalty Program](FHS_Loyalty_Program.md)
-- [FHS Newsletter](FHS_Newsletter.md)
+## References
+1. Fraser Highland Shoppe, "Referral Generation Strategy", fraserhighlandshoppe.com, 2024.
+2. Grant Cardone, "Referral Marketing System", cardoneuniversity.com, 2021.
 
-## Best Practices
-- Design systematic process
-- Start referring from Day 1
-- Create shareable stories
-- Always thank referrers
-- Track and measure referral sources
+## Related
+- [[How to Ask for a Referral]]
+- [[FHS Referral Program]]
+- [[FHS Loyalty Program]]
+- [[FHS Newsletter]]
