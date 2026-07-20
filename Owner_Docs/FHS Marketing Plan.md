@@ -1,3 +1,25 @@
+---
+title: "FHS Marketing Plan"
+description: "Fraser Highland Shoppe marketing plan - brand, channels, objectives, and metrics"
+author: "Business Operating System"
+source: "https://www.grantcardone.com"
+date: "2024"
+version: "1.0.0"
+changelog:
+  - "1.0.0 - Initial load from FHS wiki"
+tags:
+  - domain:marketing
+  - type:document
+  - confidence:high
+  - fhs:document
+  - marketing-plan
+  - grant-cardone
+categories:
+  - Ownership
+  - Business Documents
+  - Marketing
+---
+
 # FHS Marketing Plan
 
 ## Overview

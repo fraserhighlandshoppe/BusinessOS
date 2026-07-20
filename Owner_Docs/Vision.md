@@ -1,3 +1,24 @@
+---
+title: "FHS Vision"
+description: "Fraser Highland Shoppe vision statement and long-term goals"
+author: "Business Operating System"
+source: "Internal"
+date: "2024"
+version: "1.0.0"
+changelog:
+  - "1.0.0 - Initial load from FHS wiki"
+tags:
+  - domain:leadership
+  - type:document
+  - confidence:high
+  - fhs:document
+  - vision-statement
+categories:
+  - Ownership
+  - Business Documents
+  - Leadership
+---
+
 # FHS Vision
 
 ## Vision Statement (30 Seconds)

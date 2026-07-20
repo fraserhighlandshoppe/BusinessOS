@@ -1,3 +1,25 @@
+---
+title: "FHS Business Plan"
+description: "Fraser Highland Shoppe business plan - legal info, structure, strategy, and financial projections"
+author: "Kevin S Fraser and Kimberly D Henry"
+source: "https://www.grantcardone.com"
+date: "2024"
+version: "1.0.0"
+changelog:
+  - "1.0.0 - Initial load from FHS wiki"
+tags:
+  - domain:leadership
+  - type:document
+  - confidence:high
+  - fhs:document
+  - business-plan
+  - grant-cardone
+categories:
+  - Ownership
+  - Business Documents
+  - Strategy
+---
+
 # FHS Business Plan
 
 ## Legal Information

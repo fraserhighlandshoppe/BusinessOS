@@ -1,3 +1,25 @@
+---
+title: "FHS Risk Analysis"
+description: "Fraser Highland Shoppe risk analysis - identification, evaluation, and mitigation strategies"
+author: "Business Operating System"
+source: "Internal"
+date: "2024"
+version: "1.0.0"
+changelog:
+  - "1.0.0 - Initial load from FHS wiki"
+tags:
+  - domain:leadership
+  - type:document
+  - confidence:high
+  - fhs:document
+  - risk-analysis
+  - business-strategy
+categories:
+  - Ownership
+  - Business Documents
+  - Risk Management
+---
+
 # FHS Risk Analysis
 
 ## Overview
