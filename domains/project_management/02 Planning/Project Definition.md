@@ -1,3 +1,23 @@
+---
+title: "Project Definition"
+description: "Project Definition - key components, purpose, and structure for project planning"
+author: "Project Management Institute"
+source: "https://www.pmi.org/learning/thought-leadership/pmbok"
+date: "2017"
+tags:
+  - domain:project-management
+  - type:template
+  - confidence:high
+  - standard:pmbok
+  - skill:project-management
+categories:
+  - Project Management
+  - Planning
+  - Project Initiation
+  - PMBOK
+
+---
+
 # Project Definition
 
 ## Purpose
@@ -49,7 +69,11 @@ Tools, systems, infrastructure.
 ## Requirements
 Project Definition needs sufficient detail to allow solution and approach to be planned.
 
+## References
+1. Project Management Institute, "A Guide to the Project Management Body of Knowledge (PMBOK Guide)", 6th Edition, 2017.
+
 ## Related
 - [[Project Charter]]
 - [[Project Deliverables]]
 - [[Project Communication Plan]]
+- [[Project Schedule]]
