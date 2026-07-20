@@ -1,3 +1,23 @@
+---
+title: "FHS Newsletter"
+description: "Segmented newsletter publication strategy - template, content sections, referral integration, email strategy"
+author: "Fraser Highland Shoppe"
+source: "https://fraserhighlandshoppe.com"
+date: "2024"
+tags:
+  - domain:project-management
+  - type:template
+  - confidence:high
+  - skill:newsletter
+  - skill:email-marketing
+categories:
+  - Project Management
+  - Communications
+  - Newsletter
+  - Email Marketing
+
+---
+
 # FHS Newsletter
 
 ## Overview
@@ -64,15 +84,12 @@ Upon signup, send 3 auto-emails:
 - **Reputation Scores** (SPAM filter monitoring)
 - **CAN-SPAM legislation** compliance
 
-## Related Pages
-- [How to Write an Email](How_to_write_an_Email.md)
-- [How to Write a Newsletter](How_to_write_a_newsletter.md)
-- [FHS Referral Program](FHS_Referral_Program.md)
-- [FHS Loyalty Program](FHS_Loyalty_Program.md)
+## References
+1. Fraser Highland Shoppe, "Newsletter Strategy", fraserhighlandshoppe.com, 2024.
+2. Mailchimp, "Newsletter Best Practices", mailchimp.com, 2024.
 
-## Best Practices
-- Pre-write content in batches
-- Include referral coupon every issue
-- Track engagement by segment
-- Follow CAN-SPAM requirements
-- Monitor deliverability scores
+## Related
+- [[How to Write an Email]]
+- [[How to Write a Newsletter]]
+- [[FHS Referral Program]]
+- [[FHS Loyalty Program]]
