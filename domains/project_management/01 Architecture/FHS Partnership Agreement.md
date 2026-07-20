@@ -1,3 +1,23 @@
+---
+title: "FHS Partnership Agreement"
+description: "Fraser Highland Shoppe partnership agreement - partners, responsibilities, capital contribution, profit sharing"
+author: "Kevin Fraser and Kimberly Henry"
+source: "https://fraserhighlandshoppe.com"
+date: "2015"
+tags:
+  - domain:project-management
+  - type:legal
+  - confidence:high
+  - skill:governance
+  - skill:partnership
+categories:
+  - Project Management
+  - Governance
+  - Partnership
+  - Legal
+
+---
+
 # FHS Partnership Agreement
 
 ## Effective Date
@@ -92,13 +112,10 @@ Operations of a Scottish shop selling:
 - Income deposited per CFO designation
 - Expenses paid per CFO designation
 
-## Related Pages
-- [Accounting for Partnerships](Accounting_for_Partnerships.md)
-- [FHS Business Plan](FHS_Business_Plan.md)
-- [FHS Core Values](Core%20Values.md)
+## References
+1. Alberta Business Registry, "Partnership Agreement Template", Alberta.ca, 2015.
 
-## Best Practices
-- Maintain transparent financial records
-- Hold regular management meetings
-- Document all significant decisions
-- Review partnership agreement annually
+## Related
+- [[Accounting for Partnerships]]
+- [[FHS Business Plan]]
+- [[FHS Core Values]]
