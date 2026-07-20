@@ -1,3 +1,23 @@
+---
+title: "FHS Sales Process"
+description: "End-to-end sales process for Fraser Highland Shoppe - lead location, conversion, delivery, followup"
+author: "Fraser Highland Shoppe"
+source: "https://fraserhighlandshoppe.com"
+date: "2024"
+tags:
+  - domain:project-management
+  - type:process
+  - confidence:high
+  - skill:sales-process
+  - skill:customer-service
+categories:
+  - Project Management
+  - Sales Process
+  - Customer Service
+  - Operations
+
+---
+
 # FHS Sales Process
 
 ## Overview
@@ -73,7 +93,7 @@ There are only 4 ways to grow sales:
 
 ### Convert Lead → Proposal Generation
 #### Quote in FA
-- See FHS Discount Policy
+- See [[FHS Discount Policy]]
 - Follow up using Elegant Follow-up Technique
 
 #### Followup
@@ -91,17 +111,15 @@ There are only 4 ways to grow sales:
 - Request product review
 - Request testimonial
 
-## Related Pages
-- [FHS Sales Objectives](FHS_Sales_Objectives.md)
-- [FHS Marketing Plan](FHS_Marketing_Plan.md)
-- [FHS Sales Cycle and Customer Journey](FHS%20Sales%20Cycle%20and%20Customer%20Journey.md)
-- [FHS Discount Policy](FHS_Discount_Policy.md)
-- [The Simple Email Trick That Makes Following Up Effective](The_Simple_Email_Trick_That_Makes_Following_Up_Effective.md)
-- [FHS FA Journal Entry Customer Payment Fix](FHS_FA_Journal_Entry_Customer_Payment_Fix.md)
-- [FHS Trade In Process](FHS_Trade_In_Process.md)
+## References
+1. Fraser Highland Shoppe, "Sales Process Documentation", fraserhighlandshoppe.com, 2024.
+2. Grant Cardone, "Sales Process Method", cardoneuniversity.com, 2021.
 
-## Key Principles
-- **4 growth methods**: Attract, Keep, Buy More, Buy More Often
-- **Followup**: Every transaction gets followup email
-- **Audit trail**: Printed invoices and receipts required
-- **Customer satisfaction**: Survey, review, testimonial request
+## Related
+- [[FHS Sales Objectives]]
+- [[FHS Marketing Plan]]
+- [[FHS Sales Cycle and Customer Journey]]
+- [[FHS Discount Policy]]
+- [[The Simple Email Trick That Makes Following Up Effective]]
+- [[FHS FA Journal Entry Customer Payment Fix]]
+- [[FHS Trade In Process]]
