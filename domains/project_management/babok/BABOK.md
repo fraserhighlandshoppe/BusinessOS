@@ -1,7 +1,26 @@
+---
+title: "BABOK - Business Analysis Body of Knowledge"
+description: "Business Analysis Body of Knowledge - 6 knowledge areas and core techniques"
+author: "International Institute of Business Analysis (IIBA)"
+source: "https://www.iiba.org/babok-guide"
+date: "2021"
+tags:
+  - domain:project-management
+  - type:framework
+  - confidence:high
+  - standard:babok
+  - skill:business-analysis
+categories:
+  - Business Analysis
+  - BABOK
+  - Requirements
+  - Knowledge Areas
+---
+
 # BABOK (Business Analysis Body of Knowledge)
 
 ## Overview
-The BABOK is a guide that describes business analysis knowledge areas and techniques.
+The BABOK is a guide that describes business analysis knowledge areas and techniques. Published by the International Institute of Business Analysis (IIBA).
 
 ## Knowledge Areas
 
@@ -59,7 +78,10 @@ The BABOK is a guide that describes business analysis knowledge areas and techni
 - Gap Analysis
 - Root Cause Analysis
 
+## References
+1. International Institute of Business Analysis, "BABOK Guide v3", 2021.
+
 ## Related
-- PMBOK
-- Requirements Specification
-- Customer Journey Map
+- [[PMBOK]]
+- [[Requirements Specification]]
+- [[Customer Journey Map]]
