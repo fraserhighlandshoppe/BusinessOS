@@ -1,3 +1,23 @@
+---
+title: "LinkedIn Company Page Guide"
+description: "10 questions to ask when creating your LinkedIn Company Page - setup, description, images, videos, products, posting"
+author: "Entrepreneur"
+source: "https://www.entrepreneur.com/article/226637"
+date: "2020"
+tags:
+  - domain:linkedin
+  - type:guide
+  - confidence:high
+  - guru:entrepreneur
+  - skill:linkedin-marketing
+categories:
+  - LinkedIn
+  - Company Page
+  - Marketing
+  - B2B
+
+---
+
 # LinkedIn Company Page Guide
 
 Source: [Entrepreneur Article](https://www.entrepreneur.com/article/226637)
@@ -74,6 +94,10 @@ Source: [Entrepreneur Article](https://www.entrepreneur.com/article/226637)
 
 ### Mistake 2: Not having any recommendations
 - [Content continues...]
+
+## References
+1. Entrepreneur, "LinkedIn Company Page Guide", entrepreneur.com, 2020.
+2. LinkedIn, "Company Page Best Practices", linkedin.com, 2020.
 
 ## Related
 - [[7 Tips to Make Sure Your LinkedIn Picture Is Helping Not Hurting Your Prospects]]
