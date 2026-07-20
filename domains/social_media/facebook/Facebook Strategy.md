@@ -1,3 +1,23 @@
+---
+title: "Facebook Content Strategy"
+description: "Facebook content strategy - core principles, content pillars, post types, hashtag strategy, engagement guidelines"
+author: "Fraser Highland Shoppe"
+source: "https://www.facebook.com/business"
+date: "2026"
+tags:
+  - domain:social-media
+  - type:strategy
+  - confidence:high
+  - skill:content-strategy
+  - skill:facebook-marketing
+categories:
+  - Social Media
+  - Facebook
+  - Content Strategy
+  - Marketing
+
+---
+
 # Facebook Content Strategy
 
 Ported from wiki `FHS Social Media Strategy` (2026).
@@ -98,3 +118,12 @@ date,title,type,platform,caption,hashtags,status
 2026-07-20,"New Henderson Bagpipes in stock",promotion,facebook,"Just arrived: Peter Henderson Great Highland Bagpipes. Ready to play!"," #FraserHighlandShoppe #Henderson #Bagpipes",scheduled
 2026-07-21,"Pipe band practice tip",educational,facebook,"Tip: Keep your chanter reed in a moist reed case for consistent moisture."," #PipingTips #ReedCare",draft
 ```
+
+## References
+1. Facebook Business, "Content Strategy Guide", facebook.com/business, 2026.
+2. Fraser Highland Shoppe, "Social Media Strategy", fraserhighlandshoppe.com, 2026.
+
+## Related
+- [[Facebook Marketplace Strategy]]
+- [[Schedule Social Post]]
+- [[Social Selling]]
