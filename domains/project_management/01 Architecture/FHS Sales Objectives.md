@@ -1,3 +1,23 @@
+---
+title: "FHS Sales Objectives"
+description: "Strategic sales objectives for Fraser Highland Shoppe - market position, community presence, digital presence, customer growth"
+author: "Fraser Highland Shoppe"
+source: "https://fraserhighlandshoppe.com"
+date: "2024"
+tags:
+  - domain:project-management
+  - type:objectives
+  - confidence:high
+  - skill:sales-strategy
+  - skill:goal-setting
+categories:
+  - Project Management
+  - Sales
+  - Objectives
+  - Strategic Planning
+
+---
+
 # FHS Sales Objectives
 
 ## Overview
@@ -41,12 +61,7 @@ Strategic sales objectives for Fraser Highland Shoppe.
 ## Supporting Initiatives
 
 ### Referral Program
-- See [How to Ask for a Referral](How_to_ask_for_a_Referral.md)
-
-## Related Pages
-- [FHS Marketing Plan](FHS_Marketing_Plan.md)
-- [FHS Referral Program](FHS_Referral_Program.md)
-- [Product of the Month Club](Product_of_the_Month_Club.md)
+- See [[How to Ask for a Referral]]
 
 ## Measurement
 - Track customer database growth monthly
@@ -56,3 +71,11 @@ Strategic sales objectives for Fraser Highland Shoppe.
 - Track band customer count
 - Evaluate game profitability
 - Monitor gift certificate sales
+
+## References
+1. Fraser Highland Shoppe, "Sales Objectives", fraserhighlandshoppe.com, 2024.
+
+## Related
+- [[FHS Marketing Plan]]
+- [[FHS Referral Program]]
+- [[Product of the Month Club]]
