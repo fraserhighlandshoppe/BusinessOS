@@ -1,3 +1,23 @@
+---
+title: "FHS Employee Policies"
+description: "Employee policies for Fraser Highland Shoppe - hiring, vacation, sick days, training, goals, compensation"
+author: "Fraser Highland Shoppe"
+source: "https://fraserhighlandshoppe.com"
+date: "2024"
+tags:
+  - domain:project-management
+  - type:policy
+  - confidence:high
+  - skill:hr
+  - skill:employment
+categories:
+  - Project Management
+  - HR
+  - Employment Policies
+  - Alberta Business
+
+---
+
 # FHS Employee Policies
 
 ## Overview
@@ -93,13 +113,10 @@ Hire employees who:
 - Set by Board of Directors
 - Based on individual and company performance
 
-## Related Pages
-- [FHS Core Values](Core%20Values.md)
-- [FHS Mission](Mission.md)
+## References
+1. Alberta Government, "Employment Standards Code", alberta.ca, 2024.
+2. Fraser Highland Shoppe, "Employee Policies Documentation", fraserhighlandshoppe.com, 2024.
 
-## Best Practices
-- Hire for cultural fit
-- Set SMART goals regularly
-- Evaluate performance consistently
-- Reward exceeded expectations
-- Comply with Alberta employment standards
+## Related
+- [[FHS Core Values]]
+- [[FHS Mission]]
