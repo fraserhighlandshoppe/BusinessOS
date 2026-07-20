@@ -1,3 +1,23 @@
+---
+title: "The 16-Point Landing Page Checklist"
+description: "16-point checklist for landing page optimization - market callout, mobile first, load speed, headline, CTA, social proof"
+author: "Various Experts"
+source: "https://instapage.com"
+date: "2024"
+tags:
+  - domain:web
+  - type:checklist
+  - confidence:high
+  - skill:landing-pages
+  - skill:ux-design
+categories:
+  - Web
+  - Landing Pages
+  - UX Design
+  - Digital Marketing
+
+---
+
 # The 16-Point Landing Page Checklist
 
 Landing Pages are fundamental to digital marketing.
@@ -61,3 +81,12 @@ Make it easy and obvious for visitors to share on Facebook and Twitter.
 
 ## 18. Visible Privacy Policy and TOS
 Privacy policies and terms of service are required for some advertising sites and help with conversions.
+
+## References
+1. Instapage, "Landing Page Checklist", instapage.com, 2024.
+2. HubSpot, "Landing Page Best Practices", hubspot.com, 2024.
+
+## Related
+- [[Create Campaign]]
+- [[DM 21 Day Launch]]
+- [[Lead Magnet]]
