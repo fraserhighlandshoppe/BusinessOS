@@ -1,3 +1,23 @@
+---
+title: "FHS FA Journal Entry Customer Payment Fix"
+description: "Process for correcting payment records in FrontAccounting - journal entry correction, payment record edit"
+author: "Fraser Highland Shoppe"
+source: "https://frontaccounting.com"
+date: "2024"
+tags:
+  - domain:project-management
+  - type:sop
+  - confidence:high
+  - skill:accounting
+  - skill:frontaccounting
+categories:
+  - Project Management
+  - SOP
+  - Accounting
+  - FrontAccounting
+
+---
+
 # FHS FA Journal Entry Customer Payment Fix
 
 ## Overview
@@ -39,12 +59,9 @@ Customer payment recorded for entire amount, but payment was split (part to cash
 ### Finalize
 - Submit print of edit to bookkeeper
 
-## Related Pages
-- [FHS FA Customer Payment](FHS_FA_Customer_Payment.md)
-- [FHS FA Receive Shipment](FHS_FA_Receive_a_Shipment.md)
+## References
+1. FrontAccounting, "Journal Entry Documentation", frontaccounting.com, 2024.
 
-## Best Practices
-- Bookkeeper should perform corrections
-- Always verify dates for balance accuracy
-- Keep printed records of all edits
-- Update reference numbers for audit trail
+## Related
+- [[FHS FA Customer Payment]]
+- [[FHS FA Receive Shipment]]
