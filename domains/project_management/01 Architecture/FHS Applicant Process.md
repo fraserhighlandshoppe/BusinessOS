@@ -1,3 +1,23 @@
+---
+title: "FHS Applicant Process"
+description: "Complete hiring process from job posting to offer acceptance - typing test, multi-step assignment, deadline fax test"
+author: "Fraser Highland Shoppe"
+source: "https://fraserhighlandshoppe.com"
+date: "2024"
+tags:
+  - domain:project-management
+  - type:process
+  - confidence:high
+  - skill:hr
+  - skill:hiring
+categories:
+  - Project Management
+  - HR
+  - Hiring Process
+  - Recruitment
+
+---
+
 # FHS Applicant Process
 
 ## Overview
@@ -59,11 +79,8 @@ Complete hiring process from job posting to offer acceptance.
 - Include terms and conditions
 - Get acceptance
 
-## Related Pages
-- [FHS Job Offer to Hired Process](FHS_Job_Offer_to_Hired_Process.md)
+## References
+1. Fraser Highland Shoppe, "Hiring Process Documentation", fraserhighlandshoppe.com, 2024.
 
-## Best Practices
-- Use standardized evaluation criteria
-- Document all hiring decisions
-- Ensure compliance with employment standards
-- Maintain candidate records
+## Related
+- [[FHS Job Offer to Hired Process]]
