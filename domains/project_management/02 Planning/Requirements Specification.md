@@ -1,3 +1,23 @@
+---
+title: "Requirements Specification"
+description: "Requirements specification methodology - narrative and use case formats, requirement categories"
+author: "Business Analyst"
+source: "https://www.iiba.org/babok-guide"
+date: "2021"
+tags:
+  - domain:project-management
+  - type:template
+  - confidence:high
+  - standard:babok
+  - skill:business-analysis
+categories:
+  - Project Management
+  - Requirements
+  - Business Analysis
+  - BABOK
+
+---
+
 # Requirements Specification
 
 ## Authorship
@@ -32,9 +52,13 @@ User experience requirements.
 ### 5. Other Requirements
 Additional constraints, business rules.
 
+## References
+1. International Institute of Business Analysis, "BABOK Guide v3", 2021.
+
 ## Related
 - [[Functional Requirements]]
 - [[Non Functional Requirements]]
 - [[Interface Requirements]]
 - [[Useability Requirements]]
 - [[Project Definition]]
+- [[BABOK]]

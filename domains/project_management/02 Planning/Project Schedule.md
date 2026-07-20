@@ -1,3 +1,23 @@
+---
+title: "Project Schedule"
+description: "Project scheduling methodology - activity relationships, critical path, adjustments"
+author: "Project Management Institute"
+source: "https://www.pmi.org/learning/thought-leadership/pmbok"
+date: "2017"
+tags:
+  - domain:project-management
+  - type:process
+  - confidence:high
+  - standard:pmbok
+  - skill:project-scheduling
+categories:
+  - Project Management
+  - Scheduling
+  - Critical Path
+  - PMBOK
+
+---
+
 # Project Schedule
 
 ## Building the Schedule
@@ -70,6 +90,10 @@ Fixed amount of time between end of predecessor to start of successor.
 ### Milestone
 Significant event (decision point, work product completed). Zero duration and resources.
 
+## References
+1. Project Management Institute, "A Guide to the Project Management Body of Knowledge (PMBOK Guide)", 6th Edition, 2017.
+
 ## Related
 - [[Project Definition]]
 - [[Project Work Breakdown Structure]]
+- [[Project Test Strategy]]

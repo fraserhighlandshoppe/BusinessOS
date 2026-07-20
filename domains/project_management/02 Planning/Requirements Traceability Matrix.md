@@ -1,3 +1,23 @@
+---
+title: "Requirements Traceability Matrix"
+description: "Requirements traceability matrix - linking requirements through specification, design, and testing"
+author: "Business Analyst"
+source: "https://www.iiba.org/babok-guide"
+date: "2021"
+tags:
+  - domain:project-management
+  - type:template
+  - confidence:high
+  - standard:babok
+  - skill:business-analysis
+categories:
+  - Project Management
+  - Requirements
+  - Traceability
+  - Business Analysis
+
+---
+
 # Requirements Traceability Matrix
 
 ## Purpose
@@ -65,6 +85,9 @@ Every Requirement Type has associated Test Type.
 
 ## Instructions
 Add, delete, or edit rows/columns as per project's development lifecycle and test strategy.
+
+## References
+1. International Institute of Business Analysis, "BABOK Guide v3", 2021.
 
 ## Related
 - [[Requirements Specification]]
