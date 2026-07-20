@@ -1,7 +1,26 @@
+---
+title: "PMBOK - Project Management Body of Knowledge"
+description: "Project Management Body of Knowledge - 10 knowledge areas and 5 process groups"
+author: "Project Management Institute (PMI)"
+source: "https://www.pmi.org/pmbok-guide"
+date: "2017"
+tags:
+  - domain:project-management
+  - type:framework
+  - confidence:high
+  - standard:pmbok
+  - skill:project-management
+categories:
+  - Project Management
+  - PMBOK
+  - Knowledge Areas
+  - Process Groups
+---
+
 # PMBOK (Project Management Body of Knowledge)
 
 ## Overview
-The PMBOK is a guide that describes project management processes and knowledge areas.
+The PMBOK is a guide that describes project management processes and knowledge areas. Published by the Project Management Institute (PMI).
 
 ## Knowledge Areas
 
@@ -92,7 +111,10 @@ The PMBOK is a guide that describes project management processes and knowledge a
 4. Monitoring and Controlling
 5. Closing
 
+## References
+1. Project Management Institute, "A Guide to the Project Management Body of Knowledge (PMBOK Guide)", 6th Edition, 2017.
+
 ## Related
-- BABOK
-- Project Definition
-- Requirements Specification
+- [[BABOK]]
+- [[Project Definition]]
+- [[Requirements Specification]]
