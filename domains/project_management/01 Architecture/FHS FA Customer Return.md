@@ -1,3 +1,23 @@
+---
+title: "FHS FA Customer Return"
+description: "Process for handling customer returns using Customer Credit Notes in FrontAccounting - return reasons, CRM case, credit note entry"
+author: "Fraser Highland Shoppe"
+source: "https://frontaccounting.com"
+date: "2024"
+tags:
+  - domain:project-management
+  - type:sop
+  - confidence:high
+  - skill:returns
+  - skill:frontaccounting
+categories:
+  - Project Management
+  - SOP
+  - Returns
+  - FrontAccounting
+
+---
+
 # FHS FA Customer Return
 
 ## Overview
@@ -26,7 +46,7 @@ Process for handling customer returns using Customer Credit Notes in FrontAccoun
 4. Save (if not immediately resolvable)
 
 ### Step 2: Verify Return Policy
-1. Ensure return allowed under [FHS Refund Policy](FHS_Refund_Policy.md)
+1. Ensure return allowed under [[FHS Refund Policy]]
 2. Advise/remind customer of policy
 3. Determine restocking fees
 4. Record reason in CASE
@@ -108,13 +128,10 @@ Enter $0 or negative (we don't refund shipping)
 2. Process Payment in FA
 3. Provide refund to customer (as applicable)
 
-## Related Pages
-- [FHS Refund Policy](FHS_Refund_Policy.md)
-- [FHS FA Customer Payment](FHS_FA_Customer_Payment.md)
-- [FHS FA Invoicing a Supplier Shipment](FHS_FA_Invoicing_a_Supplier_Shipment.md)
+## References
+1. FrontAccounting, "Customer Return Documentation", frontaccounting.com, 2024.
 
-## Best Practices
-- Always verify against refund policy
-- Keep CASE numbers for tracking
-- Print duplicate copies for records
-- Update CRM before processing
+## Related
+- [[FHS Refund Policy]]
+- [[FHS FA Customer Payment]]
+- [[FHS FA Invoicing a Supplier Shipment]]
