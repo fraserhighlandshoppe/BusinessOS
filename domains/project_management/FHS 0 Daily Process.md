@@ -1,7 +1,23 @@
+---
+title: "FHS Daily Process"
+description: "Standard Operating Procedure for Daily Operations at Fraser Highland Shoppe"
+author: "Fraser Highland Shoppe"
+source: "Internal Operations Manual"
+date: "2023"
+tags:
+  - domain:operations
+  - type:process
+  - confidence:high
+  - skill:customer-service
+  - skill:vendor-management
+categories:
+  - Operations
+  - Daily Process
+  - SOP
+---
 # FHS 0 Daily Process
 
 ## Overview
-Daily operational processes for Fraser Highland Shoppe covering customer service, vendor management, and marketing activities.
 
 ## Customer Facing
 
