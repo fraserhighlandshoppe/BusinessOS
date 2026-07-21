@@ -1,3 +1,25 @@
+---
+title: "FHS Core Values"
+description: "Fraser Highland Shoppe core values, business cornerstones, and culture"
+author: "Business Operating System"
+source: "Internal"
+date: "2024"
+version: "1.0.0"
+changelog:
+  - "1.0.0 - Initial load from FHS wiki"
+tags:
+  - domain:leadership
+  - type:document
+  - confidence:high
+  - fhs:document
+  - core-values
+  - company-culture
+categories:
+  - Ownership
+  - Business Documents
+  - Leadership
+---
+
 # FHS Core Values
 
 ## Purpose

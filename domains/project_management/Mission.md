@@ -1,3 +1,24 @@
+---
+title: "FHS Mission"
+description: "Fraser Highland Shoppe mission statement and detailed mission"
+author: "Business Operating System"
+source: "Internal"
+date: "2024"
+version: "1.0.0"
+changelog:
+  - "1.0.0 - Initial load from FHS wiki"
+tags:
+  - domain:leadership
+  - type:document
+  - confidence:high
+  - fhs:document
+  - mission-statement
+categories:
+  - Ownership
+  - Business Documents
+  - Leadership
+---
+
 # FHS Mission
 
 ## Mission Statement

@@ -1,3 +1,25 @@
+---
+title: "FHS SWOT Analysis"
+description: "Fraser Highland Shoppe SWOT analysis - strengths, weaknesses, opportunities, threats"
+author: "Business Operating System"
+source: "Internal"
+date: "2024"
+version: "1.0.0"
+changelog:
+  - "1.0.0 - Initial load from FHS wiki"
+tags:
+  - domain:leadership
+  - type:document
+  - confidence:high
+  - fhs:document
+  - swot-analysis
+  - business-strategy
+categories:
+  - Ownership
+  - Business Documents
+  - Strategy
+---
+
 # FHS SWOT Analysis
 
 ## Overview
