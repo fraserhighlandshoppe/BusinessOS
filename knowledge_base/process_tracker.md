@@ -30,6 +30,7 @@
 - /guru/DM/Social_Media_Swipe_File_Framework.md
 - /guru/DM/Social_Media_Mindmaps_Framework.md
 - /guru/DM/Five_Point_Blog_Accelerator_Framework.md
+- /guru/DM/Email_Subject_Line_Templates_Framework.md
 
 ## Pending Files
 - ~340 remaining HTML/PDF files in /mnt/fhsws002_business/Marketing/DigitalMarketer/
