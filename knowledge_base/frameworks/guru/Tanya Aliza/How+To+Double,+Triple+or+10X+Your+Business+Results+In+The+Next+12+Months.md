@@ -1,0 +1,89 @@
+# How+To+Double,+Triple+or+10X+Your+Business+Results+In+The+Next+12+Months.pdf
+
+```markdown
+How To Double, Triple or 10X Your Business Results In The Next 12 Months
+I’m very excited for you to get your hands on this Plan for your business AND your life.
+You gotta Plan Your Work and WORK You Plan if you’re ever going to see REAL results
+in your business.
+This worksheet will help you get those wheels in motion, BUT more importantly, this
+will help you with an exact plan on how to get there.
+I suggest printing out a couple copies of this and working on this project with your
+family.
+This way you're all on the same page with these goals.
+What Are 3 BIG Accomplishments That You Want To Achieve in 2019?
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+
+How Much Money Will These Accomplishments Take? Or How Much Do You Have
+To Earn in 2019 To Make This Happen?
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+
+Break This Number Into Monthly and Weekly Income Goals
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+
+How Many Units/Volume of Your Products or Services Do You Or Your Team Need
+To Sell To Hit These Weekly/Monthly Targets?
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+
+What Are The 3 Biggest Actions That You Need To Take/Commit To To Make Sure
+This Happens?
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+
+What Are The Things That Could Stand In Your Way From Doing These Actions
+Consistently?
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+
+How Are You Going To Handle These Obstacles When They Arise So You Can Still
+Get Your Money Making Activities Done?
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+
+What Day Are You Starting Your 2019 Action Plan?
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+
+How Are You Going To Track Your Actions and Results?
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+
+How Are You Going To Celebrate Your Weekly/Monthly Wins?
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+
+Are You Really Ready to Commit?
+I hope you truly are!
+If you know WHAT you want and HOW you’re going to get there, you’re further done
+the success path then most entrepreneurs will ever be.
+Look at your targets everyday, focus on them and I promise you, with the RIGHT
+actions, you GOT THIS!
+
+Remember:
+Tanya Aliza’s 2019 Mastermind Workshop and Coaching Program is now OPEN and if
+you want to work more closely with her on this plan, make sure to get the details and
+apply before the program is sold out.
+Tanya only works with 35 clients a year so don’t miss your spot.
+Details are here > www.TanyaAliza.com/Mastermind
+```

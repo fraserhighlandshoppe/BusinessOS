@@ -1,0 +1,31 @@
+# 3X_Worksheet.pdf
+
+```markdown
+3X METHO D MI NI CLA S S
+CONVERSION HA C K S W OR K SHE ET
+
+1
+
+PRODUCT
+
+2
+
+OFFERS
+
+3
+
+LEAD MAGNETS
+
+4
+5
+6
+7
+
+OPT-INS
+UPSELLS
+
+AND
+
+LEAD WITH
+FOLLOW-UP
+```

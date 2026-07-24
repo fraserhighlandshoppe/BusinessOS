@@ -1,0 +1,32 @@
+# 3+Recession+Response+Product+Offer+Worksheets.pdf
+
+```markdown
+PRODUCT OFFER WORKSHEET
+PRODUCT
+
+PRICING
+
+NEW VALUE ADD
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+
+©2020 CARDONE TRAINING TECHNOLOGIES, INC. ALL RIGHTS RESERVED
+```
