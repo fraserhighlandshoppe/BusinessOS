@@ -20,16 +20,8 @@
 - /Getting_started_on_Amazon_UK.pdf
 - /Perfect-Agency-Proposal-Template (1).pdf
 - /Client-Intake-Questionnaire_Final.pdf
-- /Email_Marketing_Automation_Framework.md
-- /Ultimate_Email_Marketing_Metrics_Framework.md
-- /Getting_started_on_Amazon_UK.pdf
-- /Perfect-Agency-Proposal-Template (1).pdf
-- /Email_Marketing_Automation_Framework.md
-- /Ultimate_Email_Marketing_Metrics_Framework.md
-- /Getting_started_on_Amazon_UK.pdf
-- /Email_Marketing_Automation_Framework.md
-- /Ultimate_Email_Marketing_Metrics_Framework.md
-- /Email_Marketing_Automation_Framework.md
+- /guru/DM/Traffic_Track_System_Framework.md
+- /guru/DM/Content-That-Converts-Framework.md
 
 ## Pending Files
 - ~340 remaining HTML/PDF files in /mnt/fhsws002_business/Marketing/DigitalMarketer/

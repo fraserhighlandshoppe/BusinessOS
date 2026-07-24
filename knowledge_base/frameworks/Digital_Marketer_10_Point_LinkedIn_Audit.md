@@ -227,6 +227,17 @@ LinkedIn is not just a digital resume platform - it's a powerful B2B lead genera
 - **Comment Quality**: Focus on meaningful conversations
 - **Network Growth**: Target 20+ new quality connections per week
 
+### Skills & Endorsements KPIs
+- **Top 3 Skills Visibility**: Ensure highest-priority skills appear first
+- **Endorsement Growth**: 5+ new endorsements per month for top skills
+- **Skill Search Rankings**: Monitor appearance in "People also viewed"
+- **Profile Completeness**: 100% skill section utilization
+
+### Recommendations Impact
+- **Recommendation Count**: 5+ quality recommendations
+- **Recommendation Quality**: Each includes specific metrics/results
+- **Reciprocity Rate**: 80%+ response rate to endorsement requests
+
 ## Common Mistakes to Avoid
 
 ### Profile Optimization
