@@ -24,6 +24,12 @@
 - /guru/DM/Content-That-Converts-Framework.md
 - /guru/DM/15-Point-Landing-Page-Audit-Framework.md
 - /guru/DM/Convert-More-Buyers-Framework.md
+- /guru/DM/Track_Increase_Traffic_System_Framework.md
+- /guru/DM/Improve_My_Ads_Framework.md
+- /guru/DM/Launch_New_Product_Framework.md
+- /guru/DM/Split_Testing_Framework.md
+- /guru/DM/Million_Dollar_Ecommerce_Framework.md
+- /guru/DM/Facebook_Targeting_Framework.md
 
 ## Pending Files
 - ~340 remaining HTML/PDF files in /mnt/fhsws002_business/Marketing/DigitalMarketer/
