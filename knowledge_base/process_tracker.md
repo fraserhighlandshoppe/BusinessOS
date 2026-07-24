@@ -22,6 +22,8 @@
 - /Client-Intake-Questionnaire_Final.pdf
 - /guru/DM/Traffic_Track_System_Framework.md
 - /guru/DM/Content-That-Converts-Framework.md
+- /guru/DM/15-Point-Landing-Page-Audit-Framework.md
+- /guru/DM/Convert-More-Buyers-Framework.md
 
 ## Pending Files
 - ~340 remaining HTML/PDF files in /mnt/fhsws002_business/Marketing/DigitalMarketer/
