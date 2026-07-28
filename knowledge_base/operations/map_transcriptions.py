@@ -90,3 +90,11 @@ if __name__ == "__main__":
     print(f"Created {len(mappings)} topic mappings")
     insights = generate_insights()
     print(f"Generated {len(insights)} cross-guru insights")
+    # After mapping, trigger backup and push
+    backup_script="/home/fhs_kevin/BusinessOS/push_and_backup.sh"
+    if [ -f "$backup_script" ]; then
+        echo "Running backup and push script..."
+        bash "$backup_script"
+    else
+        echo "Backup script not found: $backup_script"
+    fi
