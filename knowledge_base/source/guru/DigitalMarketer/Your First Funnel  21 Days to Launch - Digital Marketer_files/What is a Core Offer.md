@@ -1,0 +1,256 @@
+# What is a Core Offer.html
+
+```markdown
+DigitalMarketer Lab
+Plus
+My Profile
+My Favorites
+Support
+kevin@fraserhighlandshoppe.ca
+Log Out
+Plus
+My Profile
+My Favorites
+Support
+kevin@fraserhighlandshoppe.ca
+Log Out
+Dashboard
+Library
+Execution Plans
+Jumpstart Packs
+Courses
+Workshops
+Office Hours
+Saved
+My Purchases
+Toolbox
+Deals
+Community
+Getting Started
+Digital Marketer Lab FAQ
+Previous Step
+Next Step
+1. The Tour
+DM Lab Orientation
+Meet the Leadership Team
+What is in Digital Marketer Lab and where can I find it?
+What Execution Plan should I do first?
+When are the webinar calls?
+How do I suggest a new Execution Plan?
+What are the rules in DM Engage Facebook Group?
+Who do I contact with support issues?
+Can my friend/family/coworker have access to DM Lab too?
+How can we connect elsewhere?
+2. Building Funnels
+What is Customer Value Optimization?
+How do I choose a profitable market?
+How do I choose a traffic source?
+What is a Lead Magnet?
+What is a Tripwire?
+What is a Core Offer?
+What is a Profit Maximizer?
+What is the Return Path?
+Do I need all pieces of the CVO system in place to get started?
+What metrics should I be measuring?
+3. Traffic Generation
+How do I get traffic to my website?
+What traffic source(s) do you recommend?
+What do I need to get started with Facebook Ads?
+What size should my Facebook ads be?
+Facebook disabled my account. What should I do?
+How long do you let a Facebook ad run before tweaking the offer?
+4. Tools and Resources
+What tools do you use at Digital Marketer?
+What WordPress theme does DM use?
+What themes do you recommend?
+What are you using to shoot video?
+What fonts do you use in ads and elsewhere in your design?
+What platform was used to build DM Lab and other courses?
+Where do you get inspiration for your ad design?
+What font do you use in your video sales letters (VSLs)?
+What programs do you use for design?
+5. What do you want to do today?
+How to use this section
+Create a high-converting Customer Value Optimization funnel
+Create an automated email follow-up system
+Drive traffic to an offer
+Set up an email series that sells a product
+Boost conversion rates on a funnel
+Create a social media strategy
+Get better at measuring my website's performance
+Build my email list
+Get more free traffic from Google
+Reduce the amounts of refunds I'm getting
+Sell high dollar B2B products and services
+Launch a Kindle book
+Set up an eCommerce store
+Increase open rates on emails
+Set up a Facebook page for my business
+Don't see what you're looking for?
+Give Us Your Feedback
+What is a Core Offer?
+You are here...
+You likely already have a Core Offer.  It’s your flagship product or products.
+Most businesses get nowhere by making Core Offers to cold prospects.  You’ll see your Core Offer sales explode with the addition of the Lead Magnet and Tripwire Offer.
+After all, you’ve already had two successful transactions with this buyer.
+This is why it’s critical to over deliver with the Lead Magnet and Tripwire.
+In some cases, sales from the Core Offer will make you profitable.  But it doesn’t have to.  If you follow through on the CVO process, you could take everything you make from the Core Offer and reinvest it to acquire more customers.
+Again, this is how you become unstoppable.
+You build a system in which you can spend more to acquire a customer than your competitors.
+Your competitors are making a Core Offer and trying to make a living from it.  You don’t need to make a dime from your Core Offer.
+Remember, as Jeff Bezos says, your competitor’s margin is an opportunity.  It is your opportunity to, for example, spend more on traffic acquisition, conversion rate optimization or increase the value of your offers.
+It might stun you to find out that many of the most successful businesses in the world make no profit until they reach the next two stages, Profit Maximizers and Return Path.
+Core Offer Resources
+From the DM blog:
+How to Calculate Average Customer Value (ACV) and Why It Matters
+How to Optimize the Most Important Pages In Your Marketing Funnel
+[Funnel Critique] See DM Lab and DM Team Members Critique a Live Conversion Funnel
+From Digital Marketer Lab:
+16-Point Landing Page Checklist
+How to Build and Write Your First Landing Page
+20-Point Offer Optimization Checklist
+Video Sales Letter Formula
+21 Day Launch Plan
+Diving Deeper into the 5-Step Sales Funnel [Webinar]
+Okay, ready for the next step?  Here's where things get very interesting...
+© 2019 DigitalMarketer.com
+Privacy Policy
+Support
+Welcome to DigitalMarketer
+×
+Thank you for joining DM Lab! We'd like to officially welcome you with a quick tour PLUS a few insider tips for how to take full advantage of the platform and community.
+Get Started
+Join Lab Elite
+×
+Workshops and the Elite Commons Facebook Group are exclusive content for Lab Elite members. Click below to join Lab Elite!
+Join Today!
+Black Friday Bootcamp 2017
+×
+Black Friday Bootcamp is exclusive content. Click below to join!
+Join Today!
+Join DM Lab
+×
+Lab and the DM Engage Facebook Group are exclusive content for Lab members. Click below to join!
+Join Today!
+Join Lab to access our execution plans and more
+Join the Premier Online Community for Digital Marketers and get full access to our execution plan library.
+×
+What Do You Actually Get?
+36 business "checklists on steroids" and execution plans
+Access to our private, member-only community
+Weekly office hour sessions
+Special "DM Deals" on our favorite software and services
+$ 49/month
+Try Lab FREE for 8 Days
+Join Lab+ to access our courses and more
+With Lab+, you can access all 11 of our acclaimed marketing certification & mastery courses PLUS everything Lab has to offer...
+×
+What Do You Actually Get?
+36 business "checklists on steroids" and execution plans
+Access to our 11 core marketing certifications and all future updates
+Access to 3 elective certifications PLUS all future electives
+Access to our private, members-only community
+Badges and certifications for all completed trainings
+Weekly office hour sessions
+Up-to-date training with continuing education credits
+Monthly "What’s Working Now" live webinars
+Special "DM Deals" on our favorite software services
+Complete access to our LMS to track your (or your team's) progress
+$ 95/month
+Your Current Plan
+Join Elite to access our workshops and more
+Includes monthly workshops, group coaching & accountability, access to our certifications, and everything else Lab has to offer. When you Join Lab ELITE, you're done.
+×
+What Do You Actually Get?
+Live, 1-Day Virtual Workshops that kick off every month
+Workshops are followed by "ELITE Office Hours" to get your most important questions answered & remove obstacles.
+An ELITE Critique session to grade your project using our diagnostic tool and instructor to get your project ready to ship
+Mastermind with fellow members and the DM team via the private, Members-Only Facebook Group
+Rinse and repeat every month
+FOCUSED training COMBINED with group coaching and masterminding (so stuff actually gets done)
+Tap into high-level network of founder and executives all aligned to the exact same goals and on the exact same journey as you
+The latest tips and tricks, along with the advice and feedback to know you’re executing the right way… the first time.
+Under-the-hood visibility into what's going on in my other businesses
+All the benefits that come with Lab (including its size) PLUS a smaller, tight-knit "community within a community"
+$ 295/month
+Try Elite FREE for 8 Days
+Setup your billing details
+×
+Customer Information
+First Name *
+Last Name *
+Email *
+Phone *
+Billing Information
+Street Address *
+Apt., ste., bldg. (optional)
+City *
+Country *
+Select CountryAaland IslandsAfghanistanAlbaniaAlgeriaAmerican SamoaAndorraAngolaAnguillaAntarcticaAntigua and BarbudaArgentinaArmeniaArubaAustraliaAustriaAzerbaijanBahamasBahrainBangladeshBarbadosBelarusBelgiumBelizeBeninBermudaBhutanBoliviaBosnia and HerzegowinaBotswanaBouvet IslandBrazilBritish Indian Ocean TerritoryBrunei DarussalamBulgariaBurkina FasoBurundiCambodiaCameroonCanadaCape VerdeCayman IslandsCentral African RepublicChadChileChinaChristmas IslandCocos (Keeling) IslandsColombiaComorosCongoCook IslandsCosta RicaCroatiaCubaCyprusCzech RepublicDenmarkDjiboutiDominicaDominican RepublicEast TimorEcuadorEgyptEl SalvadorEquatorial GuineaEritreaEstoniaEthiopiaFalkland Islands (Malvinas)Faroe IslandsFijiFinlandFranceFrench GuianaFrench PolynesiaFrench Southern TerritoriesGabonGambiaGeorgiaGermanyGhanaGibraltarGreeceGreenlandGrenadaGuadeloupeGuamGuatemalaGuernseyGuineaGuinea-bissauGuyanaHaitiHeard and Mc Donald IslandsHondurasHong KongHungaryIcelandIndiaIndonesiaIran (Islamic Republic of)IraqIrelandIsle of ManIsraelItalyJamaicaJapanJerseyJordanKazakhstanKenyaKiribatiKorea, Democratic People's Republic ofKorea, Republic ofKuwaitKyrgyzstanLao People's Democratic RepublicLatviaLebanonLesothoLiberiaLibyan Arab JamahiriyaLiechtensteinLithuaniaLuxembourgMacauMacedonia, The Former Yugoslav Republic ofMadagascarMalawiMalaysiaMaldivesMaliMaltaMarshall IslandsMartiniqueMauritaniaMauritiusMayotteMexicoMoldova, Republic ofMonacoMongoliaMontenegroMontserratMoroccoMozambiqueMyanmarNamibiaNauruNepalNetherlandsNew CaledoniaNew ZealandNicaraguaNigerNigeriaNiueNorfolk IslandNorthern Mariana IslandsNorwayOmanPakistanPalauPanamaPapua New GuineaParaguayPeruPhilippinesPitcairnPolandPortugalPuerto RicoQatarReunionRomaniaRussian FederationRwandaSaint Kitts and NevisSaint LuciaSaint Vincent and the GrenadinesSamoaSan MarinoSao Tome and PrincipeSaudi ArabiaScotlandSenegalSerbiaSeychellesSierra LeoneSingaporeSlovakia (Slovak Republic)SloveniaSolomon IslandsSomaliaSouth AfricaSouth Georgia and the South Sandwich IslandsSpainSri LankaSt. HelenaSt. Pierre and MiquelonSudanSurinameSvalbard and Jan Mayen IslandsSwazilandSwedenSwitzerlandSyrian Arab RepublicTaiwanTajikistanTanzania, United Republic ofThailandTogoTokelauTongaTrinidad and TobagoTunisiaTurkeyTurkmenistanTurks and Caicos IslandsTuvaluUgandaUkraineUnited Arab EmiratesUnited KingdomUnited StatesUruguayUzbekistanVanuatuVatican City State (Holy See)VenezuelaViet NamVirgin Islands (British)Virgin Islands (U.S.)Wallis and Futuna IslandsWestern SaharaYemenYugoslaviaZaireZambiaZimbabwe
+State *
+Select State
+Zip Code *
+Payment Information
+Card Number *
+Expiry Month *
+Select Month(01) Jan02 (Feb)03 (Mar)04 (Apr)05 (May)06 (Jun)07 (Jul)08 (Aug)09 (Sept)10 (Oct)11 (Nov)12 (Dec)
+Expiry Year *
+Select Year201920202021202220232024202520262027202820292030203120322033
+CVV *
+Submit Order
+Upgrade now and become a Digital Marketing expert
+Choose the plan that's best for you and your team.
+×
+Ideal for solo marketers looking for tools and community
+1 User
+36 marketing checklists and turnkey execution plans
+Access to our 10,000+ private, member-only community
+Special “DM Deals” on our favorite software and services (save up to 60% on the tools you’re already using)
+$49/month
+Try Lab FREE for 8 Days
+$490/year
+Try Lab FREE for 8 Days
+Training and Certification Get Everything in Lab PLUS…
+1 User
+Includes everything in Lab
+Access to our 11 master classes and certifications Plus all future master classes we add while you’re a member
+Weekly “What’s Working Now Trainings” and Office Hours
+Badges and certifications for all completed trainings
+Up-to-date training with continuing education credits
+Premium Support
+$95/month
+Your Current Plan
+$950/year
+Try Lab+ FREE for 8 Days
+Coaching and Execution Get Everything in Lab and…
+Up to 5 Users
+Includes everything in Lab Basic & Lab+
+Live 1-Day Virtual Workshops Every Month
+Instructor Office Hours to help launch your monthly projects
+Focused training COMBINED with group coaching and masterminding
+A private, members-only community to hold you accountable each month
+Access to our Growth Playbook
+PLUS Two BONUS trainings
+$295/month
+Try Lab Elite FREE for 8 Days
+$2995/year
+Try Lab Elite FREE for 8 Days
+Lab ELITE TEAM
+Coaching and Execution for you AND your team
+Live 1-Day Virtual Workshops Every
+Month
+Instructor Office Hours to help launch your monthly project
+Focused training COMBINED with group coaching and mastermindin
+A private, members-only community to hold you accountable each
+month
+Access to our Growth Playbook
+PLUS Two BONUS trainings ($4,535 value)
+$495/mo
+Choose Plan
+.
+0 people are viewing this site
+0
+people
+viewed this page
+in the last
+```

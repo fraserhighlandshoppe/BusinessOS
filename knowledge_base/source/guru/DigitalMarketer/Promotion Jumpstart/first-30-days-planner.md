@@ -1,0 +1,41 @@
+# first-30-days-planner.pdf
+
+```markdown
+THE FIRST
+30 DAYS
+56
+
+4 TYPES OF
+
+PROMOTIONS
+1.ACTIVATION
+
+2.MONETIZATION
+
+3.SEGMENTATION
+4.WILDCARD
+
+57
+
+NUMBER OF PROMOS THIS MONTH: _____
+PROMO #: __ NAME: _____________
+
+MONTHLY PLANNING
+
+GOAL OF PROMO:
+___ MONETIZATION ___ ACTIVATION
+___ SEGMENTATION ___ OTHER
+LIST SIZE:
+___ FULL LIST
+
+___ SEGMENT
+
+START DATE: ______ # OF MAILS: ____
+PROJECTED REVENUE: _____________
+
+REVENUE TARGET: $ _______
+
+BACKUP PROMO : _______________
+
+58
+```

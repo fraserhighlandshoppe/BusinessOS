@@ -1,0 +1,217 @@
+# Target Your Promoted Tweet to the Right Audience.html
+
+```markdown
+DigitalMarketer Lab
+Plus
+My Profile
+My Favorites
+Support
+kevin@fraserhighlandshoppe.ca
+Log Out
+Plus
+My Profile
+My Favorites
+Support
+kevin@fraserhighlandshoppe.ca
+Log Out
+Dashboard
+Library
+Execution Plans
+Jumpstart Packs
+Courses
+Workshops
+Office Hours
+Saved
+My Purchases
+Toolbox
+Deals
+Community
+Getting Started
+Twitter Ad Hacks
+Previous Step
+Next Step
+1. Start Here
+Message from the Author
+How to Get the Most Out of your Execution Plan
+Understand CVO
+Understand How Twitter Advertising Fits into CVO
+2. Set Up Twitter Account
+Understanding Twitter Advertising
+Craft a Converting Tweet to Promote
+Set Up Your Twitter Advertising Account
+Set Up Conversion Tracking in Twitter
+3. Create Promoted Tweets
+Create a Promoted Tweet Advertisement
+Target Your Promoted Tweet to the Right Audience
+Choose (or Create) the Tweet to Promote
+Set the Budget for Your Promoted Tweet
+Track Your Promoted Tweet on Twitter
+Optimize Your Promoted Tweet
+4. Create Lead Generation Cards
+Understanding Lead Generation Cards
+Set Up a Lead Generation Card
+Connect Lead Generation Cards to Your Marketing Platform
+Promote Your Lead Generation Card
+Export Leads from Lead Generation Card
+Alternatives to the Official Twitter Advertising Platform
+5. Conclusion
+Takeaways
+Last Word - Understand the Big Picture
+Bonus Presentation: Make Organic Twitter Profitable
+Give Us Your Feedback
+Target Your Promoted Tweet to the Right Audience
+Next, you will choose the targeting options. Twitter Advertising allows you to target your ad audiences in the following ways.
+Keywords – Target your Promoted Tweets towards Twitter users who search or tweet a particular keyword or set of keywords.
+Television – Target your Promoted Tweets towards Twitter users who engage with a particular TV show or group of TV shows in the U.S. or UK.
+Interests and Followers – Target your Promoted Tweets towards Twitter users similar to your followers or any other Twitter user’s followers (including your competition). Also, target ads using Twitter Advertising’s predefined categories list with 300+ topics from Automotive to Travel.
+Tailored Audiences – Target your Promoted Tweets towards your existing customers and prospects by allowing Twitter to create custom audience lists from ad partners and platforms such as AdRoll, QuantCast, ValueClick, ExactTarget, MailChimp, Axiom, SocialCode, and others listed here.
+In addition to targeting based on the above options, you can also target based on location, device used by a Twitter user, and gender. You can also specify whether Promoted Tweets should appear in a user’s timeline or in search results (or both).
+Which targeting options do we think peform best? It depends. We always test "keyword" and "interets and followers" out of the gate. Usually, we set up a campaign for both and find that both ROI. The campaign that targets a specific keyword will reach less people versus targeting specific interests or followers. For example, look below. We were promoting a course about e-commerce.
+The keyword campaign reached less people because it was only targeting people who had mentioned "e-commerce", "e-com", or "ecommerce". Although it is reaching less people, it is converting much higher because it's only targeting people who have actually tweeted a keyword related to our product.
+Below, you can see the handles we chose to target with our "interests and followers" campaign. It reached two times the amount of people than the keyword campaign did because we were targeting all of the followers of these particular handles.
+After looking at the numbers, both campaigns are returning significantly more money than we are spending, we are just using two different types of campaigns to reach our target market.
+Which one would we use in the future? BOTH!
+Run as many campaigns as possible as long as they are all returning more money than you are investing.
+In terms of the location field, we ALWAYS specify locations and never target "all available locations".
+If you check all available locations your budget will be spent in a very short amount of time, mostly in countries that don't speak english. We target top 4-5 countries that actually buy our products.
+© 2019 DigitalMarketer.com
+Privacy Policy
+Support
+Welcome to DigitalMarketer
+×
+Thank you for joining DM Lab! We'd like to officially welcome you with a quick tour PLUS a few insider tips for how to take full advantage of the platform and community.
+Get Started
+Join Lab Elite
+×
+Workshops and the Elite Commons Facebook Group are exclusive content for Lab Elite members. Click below to join Lab Elite!
+Join Today!
+Black Friday Bootcamp 2017
+×
+Black Friday Bootcamp is exclusive content. Click below to join!
+Join Today!
+Join DM Lab
+×
+Lab and the DM Engage Facebook Group are exclusive content for Lab members. Click below to join!
+Join Today!
+Join Lab to access our execution plans and more
+Join the Premier Online Community for Digital Marketers and get full access to our execution plan library.
+×
+What Do You Actually Get?
+36 business "checklists on steroids" and execution plans
+Access to our private, member-only community
+Weekly office hour sessions
+Special "DM Deals" on our favorite software and services
+$ 49/month
+Try Lab FREE for 8 Days
+Join Lab+ to access our courses and more
+With Lab+, you can access all 11 of our acclaimed marketing certification & mastery courses PLUS everything Lab has to offer...
+×
+What Do You Actually Get?
+36 business "checklists on steroids" and execution plans
+Access to our 11 core marketing certifications and all future updates
+Access to 3 elective certifications PLUS all future electives
+Access to our private, members-only community
+Badges and certifications for all completed trainings
+Weekly office hour sessions
+Up-to-date training with continuing education credits
+Monthly "What’s Working Now" live webinars
+Special "DM Deals" on our favorite software services
+Complete access to our LMS to track your (or your team's) progress
+$ 95/month
+Your Current Plan
+Join Elite to access our workshops and more
+Includes monthly workshops, group coaching & accountability, access to our certifications, and everything else Lab has to offer. When you Join Lab ELITE, you're done.
+×
+What Do You Actually Get?
+Live, 1-Day Virtual Workshops that kick off every month
+Workshops are followed by "ELITE Office Hours" to get your most important questions answered & remove obstacles.
+An ELITE Critique session to grade your project using our diagnostic tool and instructor to get your project ready to ship
+Mastermind with fellow members and the DM team via the private, Members-Only Facebook Group
+Rinse and repeat every month
+FOCUSED training COMBINED with group coaching and masterminding (so stuff actually gets done)
+Tap into high-level network of founder and executives all aligned to the exact same goals and on the exact same journey as you
+The latest tips and tricks, along with the advice and feedback to know you’re executing the right way… the first time.
+Under-the-hood visibility into what's going on in my other businesses
+All the benefits that come with Lab (including its size) PLUS a smaller, tight-knit "community within a community"
+$ 295/month
+Try Elite FREE for 8 Days
+Setup your billing details
+×
+Customer Information
+First Name *
+Last Name *
+Email *
+Phone *
+Billing Information
+Street Address *
+Apt., ste., bldg. (optional)
+City *
+Country *
+Select CountryAaland IslandsAfghanistanAlbaniaAlgeriaAmerican SamoaAndorraAngolaAnguillaAntarcticaAntigua and BarbudaArgentinaArmeniaArubaAustraliaAustriaAzerbaijanBahamasBahrainBangladeshBarbadosBelarusBelgiumBelizeBeninBermudaBhutanBoliviaBosnia and HerzegowinaBotswanaBouvet IslandBrazilBritish Indian Ocean TerritoryBrunei DarussalamBulgariaBurkina FasoBurundiCambodiaCameroonCanadaCape VerdeCayman IslandsCentral African RepublicChadChileChinaChristmas IslandCocos (Keeling) IslandsColombiaComorosCongoCook IslandsCosta RicaCroatiaCubaCyprusCzech RepublicDenmarkDjiboutiDominicaDominican RepublicEast TimorEcuadorEgyptEl SalvadorEquatorial GuineaEritreaEstoniaEthiopiaFalkland Islands (Malvinas)Faroe IslandsFijiFinlandFranceFrench GuianaFrench PolynesiaFrench Southern TerritoriesGabonGambiaGeorgiaGermanyGhanaGibraltarGreeceGreenlandGrenadaGuadeloupeGuamGuatemalaGuernseyGuineaGuinea-bissauGuyanaHaitiHeard and Mc Donald IslandsHondurasHong KongHungaryIcelandIndiaIndonesiaIran (Islamic Republic of)IraqIrelandIsle of ManIsraelItalyJamaicaJapanJerseyJordanKazakhstanKenyaKiribatiKorea, Democratic People's Republic ofKorea, Republic ofKuwaitKyrgyzstanLao People's Democratic RepublicLatviaLebanonLesothoLiberiaLibyan Arab JamahiriyaLiechtensteinLithuaniaLuxembourgMacauMacedonia, The Former Yugoslav Republic ofMadagascarMalawiMalaysiaMaldivesMaliMaltaMarshall IslandsMartiniqueMauritaniaMauritiusMayotteMexicoMoldova, Republic ofMonacoMongoliaMontenegroMontserratMoroccoMozambiqueMyanmarNamibiaNauruNepalNetherlandsNew CaledoniaNew ZealandNicaraguaNigerNigeriaNiueNorfolk IslandNorthern Mariana IslandsNorwayOmanPakistanPalauPanamaPapua New GuineaParaguayPeruPhilippinesPitcairnPolandPortugalPuerto RicoQatarReunionRomaniaRussian FederationRwandaSaint Kitts and NevisSaint LuciaSaint Vincent and the GrenadinesSamoaSan MarinoSao Tome and PrincipeSaudi ArabiaScotlandSenegalSerbiaSeychellesSierra LeoneSingaporeSlovakia (Slovak Republic)SloveniaSolomon IslandsSomaliaSouth AfricaSouth Georgia and the South Sandwich IslandsSpainSri LankaSt. HelenaSt. Pierre and MiquelonSudanSurinameSvalbard and Jan Mayen IslandsSwazilandSwedenSwitzerlandSyrian Arab RepublicTaiwanTajikistanTanzania, United Republic ofThailandTogoTokelauTongaTrinidad and TobagoTunisiaTurkeyTurkmenistanTurks and Caicos IslandsTuvaluUgandaUkraineUnited Arab EmiratesUnited KingdomUnited StatesUruguayUzbekistanVanuatuVatican City State (Holy See)VenezuelaViet NamVirgin Islands (British)Virgin Islands (U.S.)Wallis and Futuna IslandsWestern SaharaYemenYugoslaviaZaireZambiaZimbabwe
+State *
+Select State
+Zip Code *
+Payment Information
+Card Number *
+Expiry Month *
+Select Month(01) Jan02 (Feb)03 (Mar)04 (Apr)05 (May)06 (Jun)07 (Jul)08 (Aug)09 (Sept)10 (Oct)11 (Nov)12 (Dec)
+Expiry Year *
+Select Year201920202021202220232024202520262027202820292030203120322033
+CVV *
+Submit Order
+Upgrade now and become a Digital Marketing expert
+Choose the plan that's best for you and your team.
+×
+Ideal for solo marketers looking for tools and community
+1 User
+36 marketing checklists and turnkey execution plans
+Access to our 10,000+ private, member-only community
+Special “DM Deals” on our favorite software and services (save up to 60% on the tools you’re already using)
+$49/month
+Try Lab FREE for 8 Days
+$490/year
+Try Lab FREE for 8 Days
+Training and Certification Get Everything in Lab PLUS…
+1 User
+Includes everything in Lab
+Access to our 11 master classes and certifications Plus all future master classes we add while you’re a member
+Weekly “What’s Working Now Trainings” and Office Hours
+Badges and certifications for all completed trainings
+Up-to-date training with continuing education credits
+Premium Support
+$95/month
+Your Current Plan
+$950/year
+Try Lab+ FREE for 8 Days
+Coaching and Execution Get Everything in Lab and…
+Up to 5 Users
+Includes everything in Lab Basic & Lab+
+Live 1-Day Virtual Workshops Every Month
+Instructor Office Hours to help launch your monthly projects
+Focused training COMBINED with group coaching and masterminding
+A private, members-only community to hold you accountable each month
+Access to our Growth Playbook
+PLUS Two BONUS trainings
+$295/month
+Try Lab Elite FREE for 8 Days
+$2995/year
+Try Lab Elite FREE for 8 Days
+Lab ELITE TEAM
+Coaching and Execution for you AND your team
+Live 1-Day Virtual Workshops Every
+Month
+Instructor Office Hours to help launch your monthly project
+Focused training COMBINED with group coaching and mastermindin
+A private, members-only community to hold you accountable each
+month
+Access to our Growth Playbook
+PLUS Two BONUS trainings ($4,535 value)
+$495/mo
+Choose Plan
+.
+0 people are viewing this site
+0
+people
+viewed this page
+in the last
+```

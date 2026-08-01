@@ -1,0 +1,28 @@
+# One-Page-Annual-Growth-Plan_Final.pdf
+
+```markdown
+ONE-PAGE ANNUAL GROWTH PLAN
+THE GOAL (WIG)
+
+THE GAP
+
+KEY INITIATIVES
+
+DUE DATE
+
+METRICS & KPIs
+DAILY
+
+WEEKLY
+
+MONTHLY
+
+QUARTLERLY ROCKS
+Q1
+
+Q2
+
+Q3
+
+Q4
+```

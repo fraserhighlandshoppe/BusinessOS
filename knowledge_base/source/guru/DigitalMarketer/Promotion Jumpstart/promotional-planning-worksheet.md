@@ -1,0 +1,157 @@
+# promotional-planning-worksheet.pdf
+
+```markdown
+Promotional Planning Worksheet
+MONTH
+
+1 JAN.
+
+GOALS
+
+SET PROMOS
+
+REVENUE GOALS
+TARGET:
+
+$
+
+EXPECTED:
+
+$
+
+REMAINING: $
+
+2 FEB.
+
+TARGET:
+
+$
+
+EXPECTED:
+
+$
+
+REMAINING: $
+
+3 MAR.
+
+TARGET:
+
+$
+
+EXPECTED:
+
+$
+
+REMAINING: $
+
+4 APR.
+
+TARGET:
+
+$
+
+EXPECTED:
+
+$
+
+REMAINING: $
+
+5 MAY
+
+TARGET:
+
+$
+
+EXPECTED:
+
+$
+
+REMAINING: $
+
+6 JUNE
+
+TARGET:
+
+$
+
+EXPECTED:
+
+$
+
+REMAINING: $
+
+7 JULY
+
+TARGET:
+
+$
+
+EXPECTED:
+
+$
+
+REMAINING: $
+
+8 AUG.
+
+TARGET:
+
+$
+
+EXPECTED:
+
+$
+
+REMAINING: $
+
+9 SEPT.
+
+TARGET:
+
+$
+
+EXPECTED:
+
+$
+
+REMAINING: $
+
+10 OCT.
+
+TARGET:
+
+$
+
+EXPECTED:
+
+$
+
+REMAINING: $
+
+11 NOV.
+
+TARGET:
+
+$
+
+EXPECTED:
+
+$
+
+REMAINING: $
+
+12 DEC.
+
+TARGET:
+
+$
+
+EXPECTED:
+
+$
+
+REMAINING: $
+
+POTENTIAL PROMOTIONS
+```
