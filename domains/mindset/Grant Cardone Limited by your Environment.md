@@ -17,6 +17,8 @@ categories:
   - Environment
 ---
 
+Tags: #GrantCardone #business
+
 # Are You Limited by Your Surroundings?
 
 ## Business Reality

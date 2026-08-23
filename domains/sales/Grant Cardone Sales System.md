@@ -17,6 +17,8 @@ categories:
   - Revenue Generation
 ---
 
+Tags: #GrantCardone #business
+
 # Grant Cardone Sales System
 
 ## Overview

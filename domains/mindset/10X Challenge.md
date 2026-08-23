@@ -17,6 +17,8 @@ categories:
   - Discipline
 ---
 
+Tags: #GrantCardone #business
+
 # 10X Challenge - Mindset: Big Goals, Big Think
 
 ## Ref: Grant Cardone Pages

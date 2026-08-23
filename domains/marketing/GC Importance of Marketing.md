@@ -17,6 +17,8 @@ categories:
 
 ---
 
+Tags: #GrantCardone #business
+
 # Grant Cardone Importance of Marketing
 
 ## Source

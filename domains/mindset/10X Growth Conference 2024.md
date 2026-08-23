@@ -17,6 +17,8 @@ categories:
   - Growth
 ---
 
+Tags: #GrantCardone #business
+
 # 10X Growth Conference 2024
 
 ## Key Themes

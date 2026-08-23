@@ -17,6 +17,8 @@ categories:
   - Grant Cardone
 ---
 
+Tags: #GrantCardone #business
+
 # Grant Cardone Prospecting Tips
 
 ## Lead Types

@@ -17,6 +17,8 @@ categories:
   - Marketing
 ---
 
+Tags: #GrantCardone #business
+
 # Unbreakable Business System
 
 ## Money and Mindset

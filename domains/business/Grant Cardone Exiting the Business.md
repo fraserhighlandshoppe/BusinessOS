@@ -17,6 +17,8 @@ categories:
   - Exit Planning
 ---
 
+Tags: #GrantCardone #business
+
 # Grant Cardone Exiting the Business
 
 ## The Reality

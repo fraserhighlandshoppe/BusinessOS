@@ -19,6 +19,8 @@ categories:
 
 ---
 
+Tags: #GrantCardone #business
+
 # Grant Cardone Objection Handling
 
 ## Reasons People Object

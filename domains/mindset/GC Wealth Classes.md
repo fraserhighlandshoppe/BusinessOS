@@ -17,6 +17,8 @@ categories:
   - Wealth Classification
 ---
 
+Tags: #GrantCardone #business
+
 # Grant Cardone Wealth Classes
 
 ## Key Principle

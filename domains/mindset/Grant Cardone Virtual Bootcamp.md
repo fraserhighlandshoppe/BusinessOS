@@ -17,6 +17,8 @@ categories:
   - Growth
 ---
 
+Tags: #GrantCardone #business
+
 # Grant Cardone Virtual Bootcamp
 
 ## Three Pillars

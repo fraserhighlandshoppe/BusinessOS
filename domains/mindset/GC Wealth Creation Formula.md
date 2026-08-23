@@ -17,6 +17,8 @@ categories:
   - Wealth Creation
 ---
 
+Tags: #GrantCardone #business
+
 # GC Wealth Creation Formula
 
 ## Ways to Create Financial Wealth

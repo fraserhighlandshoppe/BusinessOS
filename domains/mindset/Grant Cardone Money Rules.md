@@ -17,6 +17,8 @@ categories:
   - Wealth Management
 ---
 
+Tags: #GrantCardone #business
+
 # Grant Cardone Money Rules
 
 ## Rules to Get Your Money Right

@@ -19,6 +19,8 @@ categories:
 
 ---
 
+Tags: #GrantCardone #business
+
 # Grant Cardone Marketing and Money Metrics
 
 ## Source

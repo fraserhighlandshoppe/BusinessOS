@@ -19,6 +19,8 @@ categories:
 
 ---
 
+Tags: #GrantCardone #business
+
 # Grant Cardone Sales System Mistakes
 
 ## Key Mistakes to Avoid

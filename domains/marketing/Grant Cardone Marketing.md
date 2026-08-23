@@ -17,6 +17,8 @@ categories:
 
 ---
 
+Tags: #GrantCardone #business
+
 # Grant Cardone Marketing
 
 Marketing is all about getting attention. Sales is about turning that attention into revenue. Sales and marketing must be senior to everything else in your business.

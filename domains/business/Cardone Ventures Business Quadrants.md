@@ -17,6 +17,8 @@ categories:
   - Business Framework
 ---
 
+Tags: #GrantCardone #business
+
 # Cardone Ventures Business Quadrants
 
 ## The Four Quadrants

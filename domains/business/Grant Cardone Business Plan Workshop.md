@@ -17,6 +17,8 @@ categories:
   - Startup
 ---
 
+Tags: #GrantCardone #business
+
 # Grant Cardone Business Plan Workshop
 
 ## Multiple Income Flows Required

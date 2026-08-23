@@ -17,6 +17,8 @@ categories:
   - Wealth Creation
 ---
 
+Tags: #GrantCardone #business
+
 # Money - Grant Cardone
 
 ## The Money Mindset

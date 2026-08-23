@@ -17,6 +17,8 @@ categories:
   - Wealth Creation
 ---
 
+Tags: #GrantCardone #business
+
 # GC Millionaire Math
 
 ## Source

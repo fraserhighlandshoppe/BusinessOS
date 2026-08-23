@@ -17,6 +17,8 @@ categories:
   - Wealth Mindset
 ---
 
+Tags: #GrantCardone #business
+
 # Grant Cardone Money Myths
 
 ## Money Myths Debunked

@@ -17,6 +17,8 @@ categories:
   - Principles
 ---
 
+Tags: #GrantCardone #business
+
 # 10X Growth
 
 ## Pillars of Growth

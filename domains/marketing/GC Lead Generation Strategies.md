@@ -19,6 +19,8 @@ categories:
 
 ---
 
+Tags: #GrantCardone #business
+
 # Grant Cardone Lead Generation Strategies
 
 ## Source

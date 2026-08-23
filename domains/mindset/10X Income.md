@@ -17,6 +17,8 @@ categories:
   - Financial Planning
 ---
 
+Tags: #GrantCardone #business
+
 # 10X Income
 
 Ref: Grant Cardone Pages

@@ -17,6 +17,8 @@ categories:
   - Debt Strategy
 ---
 
+Tags: #GrantCardone #business
+
 # Grant Cardone Debt
 
 ## Debt Truths

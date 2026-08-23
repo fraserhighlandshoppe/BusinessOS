@@ -17,6 +17,8 @@ categories:
   - Growth Strategy
 ---
 
+Tags: #GrantCardone #business
+
 # Grant Cardone Business Summit
 
 Grant re-iterated his [[Grant Cardone Money Tips]]

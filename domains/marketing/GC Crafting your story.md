@@ -19,6 +19,8 @@ categories:
 
 ---
 
+Tags: #GrantCardone #business
+
 # Grant Cardone Crafting Your Story
 
 ## Source

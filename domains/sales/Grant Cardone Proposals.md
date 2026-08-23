@@ -19,6 +19,8 @@ categories:
 
 ---
 
+Tags: #GrantCardone #business
+
 # Grant Cardone Proposals
 
 ## Present in Writing. Communicate Clearly.

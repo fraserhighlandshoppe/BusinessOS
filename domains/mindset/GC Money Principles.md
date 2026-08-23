@@ -17,6 +17,8 @@ categories:
   - Wealth Management
 ---
 
+Tags: #GrantCardone #business
+
 # GC Money Principles
 
 ## Source

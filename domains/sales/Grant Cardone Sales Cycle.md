@@ -17,6 +17,8 @@ categories:
   - Sales Cycle
 ---
 
+Tags: #GrantCardone #business
+
 # Grant Cardone Sales Cycle
 
 ## Goal

@@ -17,6 +17,8 @@ categories:
   - Income Growth
 ---
 
+Tags: #GrantCardone #business
+
 # The 4 I's to Increasing Income
 
 Ref: Grant Cardone

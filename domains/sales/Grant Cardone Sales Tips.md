@@ -18,6 +18,8 @@ categories:
 
 ---
 
+Tags: #GrantCardone #business
+
 # Grant Cardone Sales Tips
 
 ## Get Your Mindset Right

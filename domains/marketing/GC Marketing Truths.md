@@ -17,6 +17,8 @@ categories:
 
 ---
 
+Tags: #GrantCardone #business
+
 # Grant Cardone Marketing Truths
 
 ## Core Truths

@@ -17,6 +17,8 @@ categories:
   - Growth
 ---
 
+Tags: #GrantCardone #business
+
 # Grant Cardone 10X Boot Camp
 
 ## Key Principles

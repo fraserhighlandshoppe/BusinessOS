@@ -19,6 +19,8 @@ categories:
 
 ---
 
+Tags: #GrantCardone #business
+
 # Fill Your Pipeline with Cold Prospecting
 
 ## Benefits of Cold Prospecting
