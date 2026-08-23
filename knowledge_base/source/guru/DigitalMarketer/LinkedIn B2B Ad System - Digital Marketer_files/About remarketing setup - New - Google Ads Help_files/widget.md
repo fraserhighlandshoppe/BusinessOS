@@ -1,5 +1,0 @@
-# widget.html
-
-```markdown
-
-```

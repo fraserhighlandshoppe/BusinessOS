@@ -1,5 +1,0 @@
-# sbcoxelybx.html
-
-```markdown
-
-```

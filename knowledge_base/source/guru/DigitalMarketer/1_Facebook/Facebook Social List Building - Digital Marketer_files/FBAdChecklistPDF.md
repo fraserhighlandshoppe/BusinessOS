@@ -1,5 +1,0 @@
-# FBAdChecklistPDF.pdf
-
-```markdown
-
-```

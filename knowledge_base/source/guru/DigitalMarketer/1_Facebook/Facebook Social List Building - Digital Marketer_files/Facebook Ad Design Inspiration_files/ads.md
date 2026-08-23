@@ -1,5 +1,0 @@
-# ads.html
-
-```markdown
-
-```

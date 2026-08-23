@@ -1,5 +1,0 @@
-# postmessageRelay.html
-
-```markdown
-
-```

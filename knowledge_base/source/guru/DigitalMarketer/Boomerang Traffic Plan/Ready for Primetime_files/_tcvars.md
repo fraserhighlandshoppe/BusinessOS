@@ -1,5 +1,0 @@
-# _tcvars.html
-
-```markdown
-
-```

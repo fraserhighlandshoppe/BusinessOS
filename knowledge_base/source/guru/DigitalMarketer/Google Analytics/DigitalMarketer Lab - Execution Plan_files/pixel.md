@@ -1,5 +1,0 @@
-# pixel.html
-
-```markdown
-
-```
