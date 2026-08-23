@@ -4,6 +4,11 @@
 - Base URL: http://fhsws002.ksfraser.com/infra/wiki/index.php?title=Main_Page
 - Server: fhsws002.ksfraser.com (192.168.1.66), MediaWiki
 - Harvest scope: pages tagged FHS, Business, or any GURU category
+- Harvest method: text search AND Category membership (~/bos_work/wiki_harvest.py);
+  text search alone misses ~half the pages (e.g. only 37 of 97 Grant Cardone pages)
+- Known guru categories: Grant Cardone (+ Ventures), Troy White, Ali Brown,
+  Andy Tanner, Blair Singer, Brian Tracy, Dan Kennedy, Dave Dubeau, Don Campbell,
+  Eben Pagan (+ case variants), HubSpot
 
 ## Content Organization
 - Raw source material (transcriptions, converted pages/PDFs): `knowledge_base/gurus/<GuruName>/`

@@ -1,5 +1,0 @@
-# Voyage.pdf
-
-```markdown
-
-```
