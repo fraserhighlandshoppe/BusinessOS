@@ -1,5 +1,0 @@
-# pancake-flyer.pdf
-
-```markdown
-
-```
