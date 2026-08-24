@@ -1,0 +1,5 @@
+# XREF — The Ad Grid__Facebook Ad Targeting _ The Complete Guide.md
+# Source guru: DigitalMarketer
+# Format: table (para by para ordered)
+| Para | Source .md file line/context | Destination (HowTo/domain) | Notes |
+|---|---|---|---|
