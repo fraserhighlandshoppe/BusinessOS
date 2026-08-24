@@ -67,6 +67,45 @@ Second sale is easier than the first - go back to past buyers and demo'd-but-did
 | Proposals | Grant Cardone Proposals.md + FHS templates |
 | Elevator pitches | 30 Second Commercial templates (wiki) - but see `Why the Elevator Pitch Hurts...md` |
 
+## 1b. Source Incorporation: Sales Foundations (Every Source Checked)
+
+Every claim links to source `.md` files. Agreement = common paragraph. Conflicts = noted with recommendation.
+
+---
+**Common paragraph — Sales is simple: find buyer → offer → price → ask (Cardone + Ziglar agree)**
+Sales runs on a simple cycle: find the person who can buy, has power, is interested → offer → price → ask (`Grant Cardone Keep Your Sales Simple.md`). A contact sport. Ziglar reinforces: ask to buy, ask again (and again), introduce 3rd party, ask why they didn't buy, close the distance (`Zig Ziglar Closing the Sale.md`). Both agree: follow-up is where sales are won; most don't convert on first contact.
+
+---
+**Source: Grant Cardone — Sales System / Prospecting / Lead Response / Presentation / Objection / Closing (`knowledge_base/gurus/Grant Cardone/` + `domains/sales/`)**
+- `Sales System.md`: cycle = Idea/Target → Attention → Leads → Manage Activity → Monetize → Manage Revenue → Scale. All successful activities require precise formulas (`Sales System.md`).
+- `Cold Prospecting.md`: define contact → do math (17 dials/contact; 6% reach senior); build list → script → role play daily → BIG Claim → qualify → close. Never sell in voicemail (<20s, one message).
+- `Lead Response.md`: respond immediately (100% better conversion); ~8 touches to re-contact; use every channel; assume leads did homework and may not be decision-maker (7 influencers in 100-500 employee companies); still need to be sold.
+- `Presentation.md`: sell solutions not products (`10 Mistakes That Kill Your Deals.md`); state intention to close up front; reveal price early; handle influencers; ask hard questions (money? decision maker? readiness 1-10?); never use free trials to close; never let urgency lapse.
+- `Objection Handling.md`: Feel, Felt, Found + scripted comebacks (`Objection Handling and Stuck Deals.md`); almost never price — build relationship, tailor solution, install confidence in value.
+- `Requirements to Close.md`: 7 requirements (decision maker, wherewithal, sold on product, believes in YOU, confident it solves problem, written offer, urgency).
+- `Negotiating Techniques.md`: options A/B/C (C = ground zero); no emotions; write everything; White Flag; Back to Future; remain seated; 97% don't close on first negotiation — follow-up over top.
+
+---
+**Source: Jim Camp — Negotiation (`knowledge_base/gurus/Jim Camp/`)**
+- `Camp_Negotiating_System007.md` / `index.md`: options A/B/C (ground zero); no emotions; document everything (people believe what they read); follow-up over the top.
+- `www.hardtofindseminars.com__AMS2.md`: negotiation discipline differs from Cardone's aggressive closing — Camp emphasizes not giving away value, documenting, and structured options.
+- Conflict: Cardone = close fast, high frequency, urgency now; Camp = structured negotiation, options A/B/C, don't rush. RECOMMENDATION: use Cardone for prospecting/frequency/urgency; use Camp for complex deal negotiation and documentation.
+
+---
+**Source: Zig Ziglar — Closing (`domains/sales/Zig Ziglar Closing the Sale.md`; `knowledge_base/wiki/`)**
+- `The Always of Sales.md`: communicate, write proposal, ask to buy, ask again, introduce 3rd party, ask why they didn't buy, close distance, ask why they DID buy.
+- `Closing the Sale.md`: agreement-based closing; second sale easier than first; past buyers and demo'd prospects = first targets before strangers.
+- Agreement with Cardone: both agree follow-up wins sales; both agree on asking repeatedly; both agree on proposal/offer documentation.
+
+---
+**Conflict / Agreement Note**
+- Cardone: speed / frequency / urgency / close now / omnipresence.
+- Camp: structured negotiation / options / documentation / don't give value away.
+- Ziglar: agreement / closing discipline / proposal / ask repeatedly.
+- All agree: document everything; follow-up is critical; know requirements to close; ask hard questions; never assume lead is ready.
+
+---
+
 ## Bibliography
 
 - Cardone, G. - Sales System, Sales Cycle, Live Sales Training, Cold Prospecting, Objection Handling, Prospecting Tips, Proposals, CRM System, Lead Response (domains/sales; fhsws002 wiki)
