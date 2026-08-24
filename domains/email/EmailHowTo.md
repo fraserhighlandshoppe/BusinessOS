@@ -50,6 +50,7 @@ Rules: specific subject (never generic), personalized greeting, never apologize,
 - FHS Wiki - Email templates index (`FHS-INTERNAL-INDEX.md`), SOP references for deliverability
 - Pagan, E. - Psychology of Conversion (email as nurture, not ping) (`knowledge_base/gurus/Eben Pagan/`)
 - Cardone, G. - Unbreakable Business System (omnipresence includes email) (`knowledge_base/gurus/Grant Cardone/`)
+- Lindenbaum, J. (Joanna Lindenbaum International / Applied Depth Institute) - Referral Shame Piece: referral mechanics (delivery + ask: words, energy, timing, relationship continuity), referral events, separate self-worth from referral volume (`knowledge_base/gurus/Joanna Lindenbaum/Email/Joanna_Lindenbaum_Referral_Shame_Piece.md`)
 - FHS Internal - `Email Marketing Playbook.md`, `Welcome Series.md`, `Email Followup.md`, `Cold Email Marketing.md`, `Automation.md`, `Amplify Your Email Marketing.md`, `Newsletter Strategy.md`, `Segments.md`
 
 ---

@@ -33,4 +33,4 @@ Tags: #trading #investing #tradingmaster #howto #masterguide
 - Campbell, D. - Real Estate Investing (`domain/trading/`)
 - Cardone, G. - Wealth Principles / Wealth Classes (`domain/mindset/` cross-reference)
 - FHS Internal - `7 Habits of Highly Effective Traders.md`, `Real Estate Investing Business.md`, `Andy Tanner Stock Investing.md`, `Don Campbell Real Estate Investing.md`
-- Joanne Lindenbaum - Email/Referral (`gurus/Joanna Lindenbaum/` — incorporated by reference)
+- Joanna Lindenbaum (Applied Depth Institute) — Referral Shame Piece: growth analogy — commitment + persistent work pays off (e.g., daughter achieving Honors Math through tutoring and effort); applies to building referral/investment systems: separate self-worth from results, practice the ask, not self-blame (`knowledge_base/gurus/Joanna Lindenbaum/Email/Joanna_Lindenbaum_Referral_Shame_Piece.md`)

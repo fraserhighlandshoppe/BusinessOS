@@ -31,4 +31,4 @@ Tags: #operations #operationsmaster #sop #fhsinternal #howto #masterguide
 - White, T. - Maximum Profits Blueprint (`gurus/Troy White/`)
 - Pagan, E. - Marketing step-by-step (`gurus/Eben Pagan/`)
 - FHS Internal - `Business Operations Essentials.md`, `FHS-INTERNAL-INDEX.md`
-- Joanne Lindenbaum - Email/Referral (`gurus/Joanna Lindenbaum/` — incorporated by reference)
+- Joanna Lindenbaum (Applied Depth Institute) — Referral mechanics as operational system: delivery (excellent results) + ask mechanics (scripted words, energy, timing, relationship continuity); implement lightweight "Referral Events" (quarterly cadence) rather than ad-hoc asks; separate self-worth metrics from referral volume (`knowledge_base/gurus/Joanna Lindenbaum/Email/Joanna_Lindenbaum_Referral_Shame_Piece.md`)

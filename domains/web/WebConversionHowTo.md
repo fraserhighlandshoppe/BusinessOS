@@ -29,4 +29,4 @@ Tags: #web #conversion #landingpage #howto #masterguide
 ## Bibliography
 - Levis, D. - 5R Web Conversion (fhsws002 wiki reference in marketing master)
 - FHS Internal - `Landing Page Checklist.md`, `Checkout Page Essentials.md`
-- Joanne Lindenbaum - Email/Referral (`gurus/Joanna Lindenbaum/` — incorporated by reference)
+- Joanna Lindenbaum - Email/Referral (`gurus/Joanna Lindenbaum/` — incorporated by reference)

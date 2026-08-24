@@ -41,8 +41,8 @@ Tags: #social_media #socialmedia #howto #masterguide
 - Cardone, G. - Unbreakable (omnipresence, brand promise) (`gurus/Grant Cardone/`)
 - Dubeau, D. - Web TV / video strategy (`domains/marketing/` cross-reference)
 - FHS Wiki - FHS-INTERNAL-INDEX.md (SOP reference)
-- Joanne Lindenbaum - Email / Referral Shame (`gurus/Joanna Lindenbaum/Email/Joanna_Lindenbaum_Referral_Shame_Piece.md`) — incorporated by reference; file accessible to team with root permissions.
+- Joanna Lindenbaum - Referral Shame Piece (Applied Depth Institute): referral mechanics = delivery (excellent work) + ask mechanics (words, energy, timing, relationship continuity); separate self-worth from referral volume; use lightweight "Referral Events" rather than ad-hoc asks (`knowledge_base/gurus/Joanna Lindenbaum/Email/Joanna_Lindenbaum_Referral_Shame_Piece.md`)
 - FHS Internal - `Social Media Platform Strategies.md`, `Social Media Image Size Guide.md`, `Facebook Strategy.md`, `Kijiji Strategy.md`
 
 ---
-*References: domain files above + swipe system; Joanne Lindenbaum reference added per new guru folder (permission-restricted file noted).*
+*References: domain files above + swipe system; Joanna Lindenbaum reference added per new guru folder (permission-restricted file noted).*
