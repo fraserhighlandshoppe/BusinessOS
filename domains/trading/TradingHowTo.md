@@ -57,3 +57,6 @@ Trading requires habits, not luck (`7 Habits of Highly Effective Traders.md`). S
 - Cardone, G. - Wealth Principles / Wealth Classes (`domain/mindset/` cross-reference)
 - FHS Internal - `7 Habits of Highly Effective Traders.md`, `Real Estate Investing Business.md`, `Andy Tanner Stock Investing.md`, `Don Campbell Real Estate Investing.md`
 - Joanna Lindenbaum (Applied Depth Institute) — Referral Shame Piece: growth analogy — commitment + persistent work pays off (e.g., daughter achieving Honors Math through tutoring and effort); applies to building referral/investment systems: separate self-worth from results, practice the ask, not self-blame (`knowledge_base/gurus/Joanna Lindenbaum/Email/Joanna_Lindenbaum_Referral_Shame_Piece.md`)
+
+---
+*XREF tracking: see xref_master_tracking.md; guru xref files (ABC_xref.md) created for all guru sources; domain xref (BCD_xref.md) links this guide back to guru sources and HowTo sections.*

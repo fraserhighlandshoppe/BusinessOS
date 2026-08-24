@@ -56,3 +56,6 @@ Average site converts 5-10% of visitors (Levis 5R — `fhsws002 wiki`). Funnel: 
 - Levis, D. - 5R Web Conversion (fhsws002 wiki reference in marketing master)
 - FHS Internal - `Landing Page Checklist.md`, `Checkout Page Essentials.md`
 - Joanna Lindenbaum - Email/Referral (`gurus/Joanna Lindenbaum/` — incorporated by reference)
+
+---
+*XREF tracking: see xref_master_tracking.md; guru xref files (ABC_xref.md) created for all guru sources; domain xref (BCD_xref.md) links this guide back to guru sources and HowTo sections.*

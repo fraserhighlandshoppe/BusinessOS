@@ -75,3 +75,6 @@ Based on `10 Questions...md` (`domains/linkedin/`):
 
 ---
 *Every claim traces to source file or wiki reference. Where guru sources don't cover LinkedIn specifically, domain files and marketing master guides provide authoritative procedure.*
+
+---
+*XREF tracking: see xref_master_tracking.md; guru xref files (ABC_xref.md) created for all guru sources; domain xref (BCD_xref.md) links this guide back to guru sources and HowTo sections.*

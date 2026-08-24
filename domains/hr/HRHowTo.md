@@ -83,3 +83,6 @@ Based on `Leadership and High Performance.md`, `Unbreakable Business Challenge.m
 
 ---
 *Every claim traces to source file or wiki reference. Where guru sources don't cover HR directly, FHS SOP files and wiki owner docs provide authoritative procedure.*
+
+---
+*XREF tracking: see xref_master_tracking.md; guru xref files (ABC_xref.md) created for all guru sources; domain xref (BCD_xref.md) links this guide back to guru sources and HowTo sections.*

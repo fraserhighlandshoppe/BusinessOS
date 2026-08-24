@@ -34,3 +34,6 @@ Tags: #mindset #mindsetmaster #10x #howto #masterguide
 - Brown, A. - Guidance references (`gurus/Ali Brown/`)
 - FHS Internal - `10X Growth.md`, `10X Challenge.md`, `10X Growth Conference 2018.md`, `10X Growth Conference 2021.md`, `10X Growth Conference 2024.md`, `10X Income.md`, `10X Mindset Goals and Self-Work.md`, `24 Characteristics of a Genius.md`, `50 habits of successful people.md`, `Seeds of Success.md`, `Self Made Wealth.md`
 - Joanna Lindenbaum (Applied Depth Institute) — Referral Shame Piece: referral shame traps practitioners in self-blame ("no referrals = my work isn't good enough"); truth = delivery (excellent work) + ask mechanics (words, energy, timing, relationship continuity) are both required. Separate self-worth from referral volume. Growth analogy: persistence + commitment pays off (`knowledge_base/gurus/Joanna Lindenbaum/Email/Joanna_Lindenbaum_Referral_Shame_Piece.md`)
+
+---
+*XREF tracking: see xref_master_tracking.md; guru xref files (ABC_xref.md) created for all guru sources; domain xref (BCD_xref.md) links this guide back to guru sources and HowTo sections.*

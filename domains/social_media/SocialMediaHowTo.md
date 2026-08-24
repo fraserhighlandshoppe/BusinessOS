@@ -72,3 +72,6 @@ Social platforms extend brand presence (`Grant Cardone Unbreakable.md` — team,
 
 ---
 *References: domain files above + swipe system; Joanna Lindenbaum reference added per new guru folder (permission-restricted file noted).*
+
+---
+*XREF tracking: see xref_master_tracking.md; guru xref files (ABC_xref.md) created for all guru sources; domain xref (BCD_xref.md) links this guide back to guru sources and HowTo sections.*

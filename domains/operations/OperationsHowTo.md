@@ -34,3 +34,6 @@ Tags: #operations #operationsmaster #sop #fhsinternal #howto #masterguide
 - Pagan, E. - Marketing step-by-step (`gurus/Eben Pagan/`)
 - FHS Internal - `Business Operations Essentials.md`, `FHS-INTERNAL-INDEX.md`
 - Joanna Lindenbaum (Applied Depth Institute) — Referral mechanics as operational system: delivery (excellent results) + ask mechanics (scripted words, energy, timing, relationship continuity); implement lightweight "Referral Events" (quarterly cadence) rather than ad-hoc asks; separate self-worth metrics from referral volume (`knowledge_base/gurus/Joanna Lindenbaum/Email/Joanna_Lindenbaum_Referral_Shame_Piece.md`)
+
+---
+*XREF tracking: see xref_master_tracking.md; guru xref files (ABC_xref.md) created for all guru sources; domain xref (BCD_xref.md) links this guide back to guru sources and HowTo sections.*
