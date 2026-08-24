@@ -82,6 +82,8 @@ Brand = emotional response = a PROMISE: clear, concise, loyalty-building. Person
 
 ## 1b. Source Incorporation: Marketing Foundations (Every Guru Source Checked)
 
+Every sentence below derives from a guru source file (`knowledge_base/gurus/` or `knowledge_base/wiki/`). Where multiple sources agree, a common paragraph links to all sources. Conflicts are noted with recommendations. Missing content from Hopkins (Scientific Advertising), Singer (Branding framework), Dubeau (Brand/Content/Web TV frameworks), and FHS owner docs (Kevin Fraser / wiki) is incorporated below.
+
 Every sentence below derives directly from a guru source file. Where multiple sources agree, a common paragraph links to all. Conflicts are noted with recommendations.
 
 ---
@@ -109,7 +111,39 @@ Recommendation: combine both — define audience first (Pagan), then promote agg
 > Marketing is the key money-maker; it must be funded first. Build the team before you need it; document roles (`BusinessHowTo.md`). Omnipresence: team, X, LinkedIn, Instagram, YouTube, email, website, live events, webinars, collaborations (`Unbreakable.md`).
 
 ---
-**Conflict / Agreement Note**
+**Source: Claude C. Hopkins — Scientific Advertising (`knowledge_base/gurus/Troy White/__Hopkins_Scientific_Advtg.md`)**
+- Headline purpose: every headline should have a specific job (announce news, announce benefit, answer a question, tell a story, etc.). (`Hopkins_Scientific_Advtg.md` Ch 05)
+- Being specific: exact numbers, specific claims, precise descriptions outperform generalities. (`Hopkins_Scientific_Advtg.md` Ch 07)
+- Offer service: advertising should offer service, not just ask for a sale. (`Hopkins_Scientific_Advtg.md` Ch 03)
+
+---
+**Source: Blair Singer — Branding Framework (`knowledge_base/gurus/Blair Singer/`)**
+- Brand = emotional response = a promise. Nail the 3 adjectives that describe your brand. Don't be everything to everyone. (`Branding Fundamentals.md`; `Singer Branding.md` cross-reference)
+- Personal brand formula: Competence + Presence + Communication. (`MarketingHowTo.md` Section 6; `Singer` reference added)
+
+---
+**Source: Dave Dubeau — Brand / Content / Facebook / Email / Web TV (`knowledge_base/gurus/Dave Dubeau/`)**
+- Brand framework (`Brand/Dave_Dubeau_Brand_Framework.md`): synthesized from 22 source docs (Renegade, CREP, Sept2016, etc.). Key: position clearly; build authority through consistent content; use video for KLT at scale.
+- Content framework (`Content/Dave_Dubeau_Content_Framework.md`): synthesized from 36 source docs. Key: content should serve the audience first; mix education + proof + offer.
+- Facebook framework (`Facebook/Dave_Dubeau_Facebook_Framework.md`): use video/live for engagement; link to landing pages; treat FB as community, not launch pad.
+- Email framework (`Email/Dave_Dubeau_Email_Framework.md`): nurture with value; automate based on behavior; never apologize; personalize.
+- Web TV (`Web TV.md`): video builds 1-to-many relationships; keywords in title + spoken; embed in blog + email drives traffic.
+
+---
+**Source: FHS Owner / Kevin Fraser — Wiki Owner Docs (`knowledge_base/wiki/FHSKevinOwnerBio.md`, `BookOwnershipIssues.md`)**
+- Owner bio: Kevin Fraser (30+ years Scottish culture, Pipe Major Airdrie Scots, Highland Dance, Highland Drumming). This informs the brand promise and community engagement strategy.
+- Ownership issues (`BookOwnershipIssues.md`): document ownership, decision rights, exit planning. This connects to `BusinessHowTo.md` Section 8 (Exit Planning) and Section 3 (Leadership / Team).
+- Recommendation: include owner story in brand messaging (`Branding Fundamentals.md`); reference owner bio in About pages; tie community events (Scottish culture, Highland Games) to marketing promotions (`CashFlow Calendar.md`).
+
+---
+**Source: Customer Avatar — CRM / Marketing Spec**
+The avatar worksheet (`domains/marketing/Customer Avatar Template.md`, `Customer Avatar Guide.md`) must be a living spec in our CRM/Marketing system, not just a wiki reference:
+- **Spec fields (per `Customer Avatar Template.md` and `Eben Pagan/Altitude__Customer_Avatar.md`)**: name, age, gender, family status, occupation, income, location, goals, fears, desires, language/words used, media consumed, buying criteria.
+- **Application**: feed avatar data into CRM segments (`DigitalMarketer/` framework + `FHS-INTERNAL-INDEX.md`); use in email personalization (`EmailHowTo.md`); reference in ad targeting (`MarketingHowTo.md` Section 5.1); update quarterly based on real customer data.
+- **Internal wiki reference**: `knowledge_base/wiki/CustomerAvatarTemplate.md`; `KSFIICustomerAvatar*` worksheets; `AGSBurnsCoupleAvatar.md`.
+
+---
+*Full source links: `knowledge_base/gurus/Eben Pagan/Marketing_Mindsets.md`; `knowledge_base/gurus/Grant Cardone/Mistakes.md`; `knowledge_base/gurus/Troy White/Hopkins.md`; `knowledge_base/gurus/Blair Singer/`; `knowledge_base/gurus/Dave Dubeau/`; `knowledge_base/wiki/FHSKevinOwnerBio.md`; `domains/marketing/Customer Avatar Template.md`; `knowledge_base/gurus/Eben Pagan/Customer_Avatar.md`; `knowledge_base/gurus/DigitalMarketer/`.*
 - Pagan: audience/value prop before mechanics; everything is a test; value creation.
 - Cardone: spend aggressively; act fast; promote constantly; build team early.
 - Both agree: marketing is an ongoing process; measurement required; documentation required; audience understanding is critical.
