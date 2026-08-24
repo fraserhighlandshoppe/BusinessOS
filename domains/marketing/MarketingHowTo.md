@@ -22,6 +22,7 @@ Tags: #marketing #howto #masterguide
 - Pinpoint your absolute best customer; marketing misaligned with that profile is waste.
 - Positioning is played in the MIND: create a new mental category you can be FIRST in; never fight an established player head-on. *(Pagan)*
 - Choose marketing TYPE deliberately: awareness / straight promotion / list building / collaborative (borrow audiences) / brand building / testimonials. → `Types of Marketing.md`
+> Source: `Eben Pagan Marketing_Mindsets.md` (marketing types: awareness, promotion, list building, collaborative, brand, testimonial); `Grant Cardone Unbreakable.md` (omnipresence = all types active simultaneously); `DigitalMarketer/` (collaborative = borrow audiences, list building = lead magnet/CVO). Agreement: choose deliberately based on audience and funnel stage. Conflict: Pagan = focus on ONE primary type first; Cardone = omnipresent across ALL. Resolution: start with ONE (Pagan) for 90 days; expand to omnipresent (Cardone) once benchmarks met.
 - Define goals and measure ROI per activity; no ROI = redirect dollars/hours. *(Cardone)*
 > Source: `Grant Cardone Mistakes.md` (no ROI = redirect); `Pagan Marketing Mindsets.md` (marketing as business = measurement); `DigitalMarketer` framework (ROI per channel). Conflict: Cardone = redirect dollars to winners aggressively; Pagan = redirect carefully after testing; Resolution: measure first, redirect quickly once ROI is confirmed.
 
@@ -36,6 +37,7 @@ Ads -> Landing page (email capture) -> Lead magnet delivered -> Nurture sequence
 - **Squeeze page**: one job - opt-in. 
 - **Tripwire**: cheap entry offer converts subscribers to buyers (template pattern in wiki).
 - **Nurture**: contextually relevant automated follow-up, NOT "ready to buy yet?" pings.
+> Source: `Eben Pagan Marketing_Mindsets.md` (nurture = process, not ping; trigger action; build system); `Grant Cardone Unbreakable.md` (omnipresence requires consistent touch); `DigitalMarketer Email Playbook.md` (automated follow-up mapped to funnel stage); `Joanna Lindenbaum Referral_Shame.md` (nurture includes referral mechanics — ask after value delivery). Agreement: nurture must be relevant, automated, value-first. Conflict: Cardone = high frequency; Pagan = process/ethical; Resolution: automate with value (Pagan framework) + frequency (Cardone framework) = high-frequency value delivery.
 - **Lead scoring**: point values on actions/data trigger CRM handoffs; marketing owns the model.
 - Benchmarks: average site converts 5-10% of visitors (1000 visitors → 50-100 opt-ins → 1-2 sales). *(Levis 5R)*
 > Source: `Levis 5R.md` (conversion benchmarks); `Pagan Marketing_Mindsets.md` (system and sequence); `DigitalMarketer` funnel framework. Agreement: funnel is a sequence, not a single event.
@@ -60,12 +62,14 @@ Subject line type per goal (self-interest = default; curiosity when benefit is u
 - **YouTube explosion**: video (keywords in title + spoken 2-3x) → standalone blog post embedding it → email list drives traffic.
 - **Facebook**: destination not launch-pad - fit content to why people are there (friends, sharing, boredom). Likes = opt-ins.
 - **Video/Web TV** builds KLT at scale (Dubeau); 1-to-many relationships.
+> Source: `Dave Dubeau Web TV.md` (video = 1-to-many KLT builder); `Dubeau Content Framework.md` (36 source docs — content serves audience first); `Dubeau Facebook Framework.md` (FB = community, not launch); `Social Media Platform Strategies.md` (timing: FB 90min, Twitter 24min, Pinterest evening, Instagram off-hours); `YouTube` (keywords in title + spoken 2-3x, embed in blog, email drives traffic — `SocialMediaHowTo.md`). Agreement: video builds authority at scale. Conflict: Dubeau = content-first; Cardone = omnipresence/aggressive. Resolution: content-first video (Dubeau) delivered omnipresent across channels (Cardone).
 - Be OMNIPRESENT: team, X, LinkedIn, Instagram, YouTube, email, website, live events, webinars, collaborations. *(Cardone Unbreakable)*
 > Source: `Grant Cardone Unbreakable.md` (omnipresence); `Dave Dubeau Web TV.md` (video builds KLT at scale); `Social Media Platform Strategies.md` (timing); `Pagan Marketing_Mindsets.md` (find customers where they are, not where you want them). Agreement: use all channels; conflict: Cardone = team + events; Dubeau = video authority; Resolution: both — omnipresent + video authority.
 
 ## 6. Branding
 
 Brand = emotional response = a PROMISE: clear, concise, loyalty-building. Personal brand formula: Competence + Presence + Communication. Fix problems well → customers become MORE loyal than never-had-problem customers (UPS finding). Live the brand everywhere. → `Branding Fundamentals.md`, `Blair Singer Branding.md` (nail the 3 adjectives; don't be everything-to-everyone).
+> Source: `Singer Branding.md` (3 adjectives; don't be everything); `Branding Fundamentals.md` (promise, emotional response); `Pagan Marketing_Mindsets.md` (positioning in mind, category creation); `Cardone Unbreakable.md` (brand promise delivered everywhere); `FHS Owner Bio.md` (Kevin Fraser story informs brand). Agreement: brand = emotional promise delivered consistently. Conflict: Singer = narrow focus (3 adjectives); Cardone = omnipresence (broad); Resolution: 3-adjective promise delivered omnipresent (Singer defines, Cardone delivers).
 > Source: `Blair Singer Branding.md` (3 adjectives, emotional response); `Branding Fundamentals.md` (promise, competence, presence, communication); `Pagan Marketing_Mindsets.md` (positioning, category creation); `Cardone Unbreakable.md` (brand = promise, fix problems well). Agreement: brand = emotional promise; conflict: Singer = 3 adjectives focus; Cardone = omnipresence/loyalty; Resolution: combine (clear 3 adjectives + omnipresent delivery + loyalty through problem-solving).
 
 ## 7. Promotions & Launches
@@ -73,6 +77,7 @@ Brand = emotional response = a PROMISE: clear, concise, loyalty-building. Person
 - **CashFlow Calendar** (Troy White): plan promotions 3-6 months ahead; mail 7-10 business days pre-offer (14 cross-border); lumpy mail; tie into local/national events; track cost AND result per event. → `Troy White CashFlow Calendar.md`
 > Source: `Troy White CashFlow Calendar.md` (planning, timing, tracking); `Pagan Marketing_Mindsets.md` (everything is a test; measure ROI); `DigitalMarketer` (launch audience before mechanics); `Cardone Unbreakable.md` (promotions must be funded). Agreement: plan ahead; measure; redirect if no ROI.
 - **Launches** (Mirasee): build AUDIENCE before launch mechanics; foundations = who/niche/value prop/distribution. → `Mirasee Launch and Audience Playbook.md`
+> Source: `Mirasee Launch.md` (`Iny/Aragon Launch & Audience Playbook.md` — audience before mechanics; value prop + niche + distribution first); `White CashFlow Calendar.md` (plan promotions 3-6 months ahead, track cost/result); `Pagan Marketing_Mindsets.md` (launch = system, not event); `DigitalMarketer CVO.md` (lead magnet before core offer). Agreement: audience/value prop before mechanics. Conflict: Mirasee = audience-first; Cardone = rapid launch; Resolution: build audience (Mirasee) then launch rapidly (Cardone) once benchmarks met.
 
 ## 8. Write This: Standing Assets
 
@@ -83,6 +88,7 @@ Brand = emotional response = a PROMISE: clear, concise, loyalty-building. Person
 | Emails | ../email/Email Marketing Playbook.md | FHS EMAIL TEMPLATES (wiki index) |
 | Sales letters / VSLs | swipe/salesletter_formulas.md | TotalConversionCode.md |
 | Social posts | Hook → Before/After story → CTA | swipe files |
+> Source: `SocialMediaHowTo.md` (hook/story/CTA); `swipe/salesletter_formulas.md` (Hero's Journey skeleton); `Dubeau Content.md` (serve audience first); `Singer Branding.md` (3 adjectives in every post). Agreement: every asset follows formula + brand promise + value delivery. Conflict: swipe = formula; guru = value-first; Resolution: formula delivers value (swipe structure + guru content).
 | Testimonial requests | GettingtheBestTestimonialsFromClients (wiki) | - |
 
 ## 1b. Source Incorporation: Marketing Foundations (Every Guru Source Checked)
