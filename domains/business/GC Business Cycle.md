@@ -1,12 +1,3 @@
----
-title: "GC Business Cycle and 6 Stages of Business Owner"
-description: "Idea-to-repeat business cycle, speed to market, and the 6 stages every owner passes through"
-author: "Grant Cardone"
-source: "http://fhsws002.ksfraser.com/infra/wiki/index.php?title=GC_Business_Cycle"
-date: 2026-08-23
-type: distilled-knowledge
-tags: [#GrantCardone #business #entrepreneurship #marketing]
----
 
 # GC Business Cycle and 6 Stages of Business Owner
 

@@ -1,12 +1,3 @@
----
-title: "Ali Brown Business Guidance"
-description: "Bootstrapping, focus vs information overload, revitalizing a stuck business, web sales copy, new marketing rules"
-author: "Ali Brown"
-source: "http://fhsws002.ksfraser.com/infra/wiki/index.php?title=Bootstrap_your_business"
-date: 2026-08-23
-type: distilled-knowledge
-tags: [#AliBrown #business #marketing #focus #website]
----
 
 # Ali Brown - Business Guidance
 

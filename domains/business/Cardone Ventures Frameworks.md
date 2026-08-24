@@ -1,12 +1,3 @@
----
-title: "Cardone Ventures Business Frameworks"
-description: "The 3 Lids, 4 Ms, 4 Ps, Core Values, scaling frameworks from Cardone Ventures"
-author: "Grant Cardone / Brandon Dawson (Cardone Ventures)"
-source: "http://fhsws002.ksfraser.com/infra/wiki/index.php?title=GCV_Business_3_Lids"
-date: 2026-08-23
-type: distilled-knowledge
-tags: [#GrantCardone #business #leadership #scaling #management]
----
 
 # Cardone Ventures Business Frameworks
 

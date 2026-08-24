@@ -1,12 +1,3 @@
----
-title: "The Authority Figure"
-description: "Greg Habstritt's authority marketing teachings - why only 5% of entrepreneurs become millionaires, the Branson Effect"
-author: "Greg Habstritt"
-source: "http://fhsws002.ksfraser.com/infra/wiki/index.php?title=The_Authority_Figure"
-date: 2026-08-23
-type: distilled-knowledge
-tags: [#GregHabstritt #business #authority #entrepreneurship]
----
 
 # The Authority Figure (Greg Habstritt)
 

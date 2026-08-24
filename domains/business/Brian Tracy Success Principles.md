@@ -1,12 +1,3 @@
----
-title: "Brian Tracy Success Principles"
-description: "Daily routines, charm/people skills, prospecting checklist, gratitude, 4 levels of customer satisfaction"
-author: "Brian Tracy"
-source: "http://fhsws002.ksfraser.com/infra/wiki/index.php?title=Daily_Routines"
-date: 2026-08-23
-type: distilled-knowledge
-tags: [#BrianTracy #productivity #sales #customerservice #mindset]
----
 
 # Brian Tracy - Success Principles
 

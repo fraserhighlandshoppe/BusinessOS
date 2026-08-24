@@ -1,12 +1,3 @@
----
-title: "Maximum Profits In Minimum Time Blueprint"
-description: "Troy White's step-by-step business growth blueprint - goals math, customer definition, conversion, retention systems"
-author: "Troy White"
-source: "knowledge_base/gurus/Troy White/MaximumProfitsMinimumTime.md"
-date: 2026-08-23
-type: distilled-knowledge
-tags: [#TroyWhite #business #marketing #goals #growth]
----
 
 # Troy White - Maximum Profits In Minimum Time Blueprint
 

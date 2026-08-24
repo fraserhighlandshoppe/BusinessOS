@@ -1,12 +1,3 @@
----
-title: "Eben Pagan - Business Programs Index and Core Teachings"
-description: "Overview of Eben Pagan's training programs plus core teachings from Accelerate, Virtual Coach, Digital Product Blueprint, Referrals"
-author: "Eben Pagan"
-source: "http://fhsws002.ksfraser.com/infra/wiki/index.php?title=Eben_Pagan_Training"
-date: 2026-08-23
-type: distilled-knowledge
-tags: [#EbenPagan #business #coaching #products #referrals]
----
 
 # Eben Pagan - Programs & Core Teachings
 

@@ -1,12 +1,3 @@
----
-title: "Unbreakable Business System and Challenge"
-description: "Cardone's unbreakable business program - system components, marketing pillars, money mindset, Russell Brunson list building"
-author: "Grant Cardone (with Kevin Hart, Pete Vargas, Russell Brunson)"
-source: "http://fhsws002.ksfraser.com/infra/wiki/index.php?title=Grant_Cardone_Unbreakable_Business_Challenge"
-date: 2026-08-23
-type: distilled-knowledge
-tags: [#GrantCardone #business #marketing #money #RussellBrunson #KevinHart #PeteVargas]
----
 
 # Unbreakable Business System & Challenge
 

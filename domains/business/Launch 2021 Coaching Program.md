@@ -1,12 +1,3 @@
----
-title: "Launch 2021 Coaching Program Notes"
-description: "Cardone coaching launch program - 5 skills, goal declarations, the 3 A's of success"
-author: "Grant Cardone"
-source: "http://fhsws002.ksfraser.com/infra/wiki/index.php?title=Launch2021"
-date: 2026-08-23
-type: distilled-knowledge
-tags: [#GrantCardone #business #coaching #goals]
----
 
 # Launch 2021 Coaching Program
 

@@ -1,12 +1,3 @@
----
-title: "Grant Cardone CRM System"
-description: "CRM as the post-marketing customer relationship - routing, scripts, nurturing, precise messaging"
-author: "Grant Cardone"
-source: "http://fhsws002.ksfraser.com/infra/wiki/index.php?title=Grant_Cardone_Customer_Relationship_Management_System"
-date: 2026-08-23
-type: distilled-knowledge
-tags: [#GrantCardone #crm #marketing #sales #customers]
----
 
 # Grant Cardone - Customer Relationship Management System
 

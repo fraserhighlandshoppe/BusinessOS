@@ -1,12 +1,3 @@
----
-title: "Mistakes Grant Makes"
-description: "Grant Cardone's self-identified mistakes - a checklist of growth failures to avoid"
-author: "Grant Cardone"
-source: "http://fhsws002.ksfraser.com/infra/wiki/index.php?title=Grant_Cardone_Mistakes_Grant_Makes"
-date: 2026-08-23
-type: distilled-knowledge
-tags: [#GrantCardone #business #growth #mindset #mistakes]
----
 
 # Mistakes Grant Makes (by Grant Cardone)
 

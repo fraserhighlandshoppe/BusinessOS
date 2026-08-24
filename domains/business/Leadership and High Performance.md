@@ -1,12 +1,3 @@
----
-title: "Leadership and High Performance"
-description: "Eight laws of leadership, 9 essential skills, communication, high-performance elements, team building"
-author: "Fraser Highland Shoppe Wiki (incl. William Cohen, Proctor Gallagher)"
-source: "http://fhsws002.ksfraser.com/infra/wiki/index.php?title=Laws_of_Leadership"
-date: 2026-08-23
-type: distilled-knowledge
-tags: [#leadership #management #teams #productivity]
----
 
 # Leadership & High Performance
 

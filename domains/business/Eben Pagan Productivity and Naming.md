@@ -1,12 +1,3 @@
----
-title: "Eben Pagan Productivity and Naming"
-description: "Guru Success teachings: friction removal, problem-solving over goal-setting, brainstorming, phonological naming"
-author: "Eben Pagan"
-source: "http://fhsws002.ksfraser.com/infra/wiki/index.php?title=Guru_Success"
-date: 2026-08-23
-type: distilled-knowledge
-tags: [#EbenPagan #productivity #branding #leadership]
----
 
 # Eben Pagan - Productivity & Naming (Guru Success)
 

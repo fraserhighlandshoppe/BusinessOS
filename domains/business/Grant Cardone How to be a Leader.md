@@ -1,12 +1,3 @@
----
-title: "How to be a Leader"
-description: "Grant Cardone's seven practices of successful leaders"
-author: "Grant Cardone"
-source: "http://fhsws002.ksfraser.com/infra/wiki/index.php?title=Grant_Cardone_How_to_be_a_Leader"
-date: 2026-08-23
-type: distilled-knowledge
-tags: [#GrantCardone #leadership #management #business]
----
 
 # Grant Cardone - How to be a Leader
 
