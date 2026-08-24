@@ -7,7 +7,7 @@
 
 ## Domain-side tracking: domains/<Domain>/xref_<Source>.md
 - Table: | Para | Source guru/file (line) | Destination domain/file (para/section) |
-- Example: marketing/xref_Eben_Pagan_MarketingMindsets.md (same mapping, domain-oriented)
+- Example: marketing/Eben_Pagan_MarketingMindsets_xref.md (same mapping, domain-oriented)
 
 ## Purpose:
 - Every paragraph from guru source tracked to domain incorporation.
@@ -32,7 +32,7 @@
 - Conflicts between gurus are documented in domain guides (not here — see HowTo.md Section 1b).
 
 ## Tracking location (EXTERNAL to source files — NOT inside kb/guru/):
-- Domain-side xref files live in `domains/<Domain>/xref_<Source>.md` (e.g., `domains/marketing/xref_Eben_Pagan_MarketingMindsets.md`).
+- Domain-side xref files live in `domains/<Domain>/xref_<Source>.md` (e.g., `domains/marketing/Eben_Pagan_MarketingMindsets_xref.md`).
 - Central framework / index lives in `domains/marketing/xref_framework.md` or a dedicated `kb/xref_index/` directory.
 - NO files placed inside `kb/guru/<Guru>/` directories (those contain original source material only).
 - Eben Pagan: MarketingMindsets.md (xref_MarketingMindsets.md created)
