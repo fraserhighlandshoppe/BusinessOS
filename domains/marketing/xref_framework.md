@@ -1,5 +1,18 @@
-# RTM / XREF Framework — Tracking Source Incorporation
-# Pattern established in Phase 4 master guides
+# RTM / XREF Framework — Tracking Source Incorporation (table format)
+# Pattern: para-by-para from source file, ordered, in table format.
+
+## Guru-side tracking: knowledge_base/gurus/<Guru>/xref_<Source>.md
+- Table: | Para | Source reference (line/section) | Destination domain/file (para/section) |
+- Example: Eben Pagan/xref_MarketingMindsets.md (para 1, 13, 26, 28, 42 mapped)
+
+## Domain-side tracking: domains/<Domain>/xref_<Source>.md
+- Table: | Para | Source guru/file (line) | Destination domain/file (para/section) |
+- Example: marketing/xref_Eben_Pagan_MarketingMindsets.md (same mapping, domain-oriented)
+
+## Purpose:
+- Every paragraph from guru source tracked to domain incorporation.
+- Every domain incorporation tracked back to guru source paragraph.
+- Conflicts documented in HowTo.md Section 1b (not in xref table — table is mapping only).
 
 ## Guru-side file (kb/guru/<Guru>/xref_<Source>.md):
 # Source: file path

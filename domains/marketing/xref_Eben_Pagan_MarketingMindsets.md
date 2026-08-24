@@ -1,9 +1,11 @@
-# XREF — E.Pagan MarketingMindsets.md → MarketingHowTo.md
-# Source: knowledge_base/gurus/Eben Pagan/Wiki/MarketingMindsets.md
-# Destination: domains/marketing/MarketingHowTo.md
+# XREF — E.Pagan MarketingMindsets.md tracking
+# Source guru: E.Pagan (knowledge_base/gurus/Eben Pagan/)
+# Destination: MarketingHowTo.md + other domain guides
 
-para 1 src /gurus/Eben Pagan/Wiki/MarketingMindsets.md line 5 → MarketingHowTo.md para 1 Section 1 (mindset before tactics)
-para 13 src /gurus/Eben Pagan/Wiki/MarketingMindsets.md line 13 → MarketingHowTo.md para 1 Section 1b; EmailHowTo.md para 1 Section 1b
-para 26 src /gurus/Eben Pagan/Wiki/MarketingMindsets.md line 26 → MarketingHowTo.md para 1 Section 1b; EmailHowTo.md para 1 Section 1b; SalesHowTo.md para 3 Section 3
-para 28 src /gurus/Eben Pagan/Wiki/MarketingMindsets.md line 28 → MarketingHowTo.md para 1 Section 1 + 1b; MarketingHowTo.md para 2 Section 2 (ROI); BusinessHowTo.md para 2 Section 2 (growth/tests)
-para 42 src /gurus/Eben Pagan/Wiki/MarketingMindsets.md line 42 → MarketingHowTo.md para 1 Section 1b + Section 4 (value delivery); BusinessHowTo.md para 5 Section 5 (brand/value translation)
+| Para | Source guru/file (line) | Destination domain/file (para/section) |
+|---|---|---|
+| 1 | E.Pagan MarketingMindsets.md line 1-4 | MarketingHowTo.md Section 1 |
+| 13 | E.Pagan MarketingMindsets.md line 13-15 | MarketingHowTo.md Section 1b; EmailHowTo.md Section 1b |
+| 26 | E.Pagan MarketingMindsets.md line 26-30 | MarketingHowTo.md Section 1b; EmailHowTo.md Section 1b; SalesHowTo.md Section 3 |
+| 28 | E.Pagan MarketingMindsets.md line 28-32 | MarketingHowTo.md Sections 1b + 2; BusinessHowTo.md Section 2 |
+| 42 | E.Pagan MarketingMindsets.md line 42-44 | MarketingHowTo.md Sections 1b + 4; BusinessHowTo.md Section 5 |
