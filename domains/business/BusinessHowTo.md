@@ -1,6 +1,7 @@
 # Business Operations Manual — Here's How To Run It
+*Shareholder / C-Suite Operating Guide for Fraser Highland Shoppe.*
 
-*Master operating guide for Fraser Highland Shoppe. Designed so a new hire (or AI agent) can pick this up, follow step by step, and execute.*
+*Master operating guide for Fraser Highland Shoppe — Shareholder / C-Suite level. For department-level execution (IT, Finance, HR, Marketing ops), see the sub-guide files: `ITHowTo.md`, `FinanceHowTo.md`, `MarketingHowTo.md`, `SalesHowTo.md`, `OperationsHowTo.md`. This guide defines strategy, systems, conflict resolution, and exit planning; sub-guides define step-by-step execution.*
 *Every claim traces to a source file. Where gurus conflict, both views are presented with attribution and a recommendation.*
 
 Tags: #business #howto #masterguide #operations #marketing #sales #team #finance

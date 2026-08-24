@@ -18,6 +18,8 @@ Tags: #howto #masterguide #phase4
 | mindset | ✅ LIVE (new) | MindsetHowTo.md | 4 sections, bibliography |
 | operations | ✅ LIVE (new) | OperationsHowTo.md | 4 sections, bibliography |
 | trading | ✅ LIVE (new) | TradingHowTo.md | 3 sections, bibliography |
+| it | ✅ LIVE (new) | it/ITHowTo.md | 6 sections (infra, containers, backups, Ansible, support, security) |
+| finance | ✅ LIVE (new) | finance/FinanceHowTo.md | 6 sections (AR/AP, loans, debt, reporting, SOP refs) |
 
 # Joanna Lindenbaum incorporation (spelling corrected: Joanna, not Joanne)
 - Folder: `knowledge_base/gurus/Joanna Lindenbaum/` (spelling corrected from incorrect "Joanne" references)
@@ -35,7 +37,14 @@ Tags: #howto #masterguide #phase4
 - Action needed: add Tags footer + References section + full guru name hashtags (#GuruName, #Domain) to domain source files.
 - Scope: this is a large batch (hundreds of files); recommend batch tagging by domain or scripting.
 
+# OS Structure (updated)
+- BusinessHowTo.md = Shareholder / C-Suite (strategy, systems, conflict resolution, exit planning)
+- Department guides: EmailHowTo.md, MarketingHowTo.md, SalesHowTo.md, SocialMediaHowTo.md, WebConversionHowTo.md, ITHowTo.md (new), FinanceHowTo.md (new), OperationsHowTo.md, MindsetHowTo.md, TradingHowTo.md
+- Sub-domains covered: marketing (FB/IG/YT/email/hardcopy/web/blog); IT (WP/WC, Mautic, FA, containers, backups, Ansible, support); operations (SOPs for purchasing/inventory/payment); finance (AR/AP/loans/reporting)
+- Wiki / Owner Docs (`knowledge_base/wiki/BookOwnershipIssues.md`, `FHSKevinOwnerBio.md`, `FHSKimOwnerBio.md`) = high-level shareholder / ownership reference; infrastructure details reference `WebsiteInfrastructureMustHaves.md`, `UsingGITforBackupandRestore.md`, `MauticandWordpressIntegration.md`
+- Conflicts between gurus (Cardone vs Pagan vs Camp vs Ziglar) presented in BusinessHowTo.md with recommendations
+
 # Next / Pending
-- Phase 3 tag audit completed (batch tags/refs applied, commit f677f31)
-- Full swipe verification (map filtered headline lines to formulas) — PENDING
-- Any additional master guides or sub-topic splits — PENDING
+- HR department guide (placeholder in OperationsHowTo.md)
+- Full swipe verification
+- Any additional master guides or sub-topic splits
