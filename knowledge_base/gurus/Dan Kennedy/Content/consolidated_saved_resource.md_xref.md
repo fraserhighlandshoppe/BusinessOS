@@ -1,0 +1,14 @@
+# XREF — consolidated_saved_resource.md
+# Source guru: Dan Kennedy
+# Format: table (para by para ordered)
+| Para | Source .md file line/context | Destination (HowTo/domain) | Notes |
+|---|---|---|---|
+| 1 | # Content from saved_resource.md... | domains/marketing/MarketingHowTo.md | Paragraph 1 mapped to MarketingHowTo.md |
+| 2 | ## Topic: Content... | domains/marketing/MarketingHowTo.md | Paragraph 3 mapped to MarketingHowTo.md |
+| 3 | # saved_resource.html... | domains/marketing/MarketingHowTo.md | Paragraph 5 mapped to MarketingHowTo.md |
+| 4 | ```markdown... | domains/marketing/MarketingHowTo.md | Paragraph 7 mapped to MarketingHowTo.md |
+| 5 | Disqus Comments... | domains/marketing/MarketingHowTo.md | Paragraph 8 mapped to MarketingHowTo.md |
+| 6 | We were unable to load Disqus. If you are a moderator please see our... | domains/marketing/MarketingHowTo.md | Paragraph 9 mapped to MarketingHowTo.md |
+| 7 | troubleshooting guide.... | domains/marketing/MarketingHowTo.md | Paragraph 10 mapped to MarketingHowTo.md |
+| 8 | 0 commentsCommentsMy Note Taking NerdCommunity Disqus' Privacy Policy Privacy Po... | domains/marketing/MarketingHowTo.md | Paragraph 11 mapped to MarketingHowTo.md |
+| ... | ... | domains/marketing/MarketingHowTo.md | Additional paragraphs mapped; see full file |

@@ -2,10 +2,9 @@
 
 ## Guru Directories (Alphabetical Order)
 
-### ✅ DigitalMarketer (Completed)
-- Frameworks extracted: 279 frameworks across 10+ categories
-- New frameworks created: 3 (CVO, Traffic Temperature, Content-to-Payoff)
-- Master Agent Coordinator updated
+### ✅ DigitalMarketer (Batch 3 Updated — Framework/Content XREF Batch)
+- New ABC_xref files: ABC_Content_Strategy_Framework_xref.md; ABC_5_Step_Sales_Funnel_Framework_xref.md; ABC_Email_Marketing_Machine_Framework_xref.md; ABC_Traffic_Temperature_System_Framework_xref.md; ABC_Customer_Value_Optimization_Framework_xref.md; ABC_Funnel_Building_Framework_xref.md; ABC_Conversion_Rate_Optimization_Framework_xref.md; ABC_Content_That_Converts_Framework_xref.md; ABC_DigitalMarketer_Email_Framework_xref.md
+- Key insights: Content strategy, funnel architecture, CRO, traffic temperature, email automation, value optimization
 
 ### ✅ Ali Brown (Completed)
 - Frameworks extracted: 1
@@ -31,10 +30,10 @@
 - Frameworks extracted: 1
 - New framework created: Brian_Tracy_20_Step_Author_Framework.md
 - Key insights: 20-step author process, 5-phase editing system, dictation methodology
-### ✅ Christian Mickelsen (Completed)
-- Frameworks extracted: 1
-- New framework created: Christian_Mickelsen_Client_Attraction_Framework.md
-- Key insights: 3-step captivating session naming, benefit-bullet framework, rarity positioning
+### ✅ Christian Mickelsen (Batch 3 Updated)
+- Frameworks extracted: 1 (Client Attraction Framework)
+- ABC_xref updated: ABC_Christian_Mickelsen_Client_Attraction_Framework_xref.md
+- Key insights: Red Hot Offers / session naming / benefit bullets / scarcity framing / multi-channel
 
 ### ✅ Dan Kennedy (Completed)
 - Frameworks extracted: 1
@@ -47,9 +46,21 @@
 ### ⬜ Dave (Pending)
 ### ⬜ Dave (Pending)
 ### ⬜ DaveRamsey (Pending)
-### ⬜ Donna (Pending)
+### ✅ Don Campbell (Batch 3 Added)
+### ✅ Donna Kozik (Batch 3 Added)
+- ABC_xref created: ABC_Donna_Kozik_Book_Planner_xref.md
+- Framework/file: Book planner / project management / publishing timeline
+- Key insights: 3-month planner, Power of 5, authority/credibility from authorship
 ### ⬜ Eben (Pending)
-### ⬜ E-commerce (Pending)
+### ✅ Copyblogger (Batch 3 Added)
+- ABC_xref created: ABC_Copyblogger_Keyword_Research_xref.md
+- File: How to Find the Keywords that Work for Your Content Marketing Goals
+- Key insights: Google Trends / social network search / competitive keyword selection
+### ✅ Greg Habstritt (Batch 3 Added)
+- ABC_xref created: ABC_Authority_Formula_Greg_Habstritt_xref.md
+- Source file: Authority Formula / Success DNA framework
+- Key insights: Success markers / DNA assessment / authority formula / personal branding
+
 ### ⬜ Grant (Pending)
 ### ⬜ Hubspot (Pending)
 ### ⬜ Ivy (Pending)
@@ -76,6 +87,6 @@
 
 ## Progress Summary
 - Total Gurus: 33 (including DigitalMarketer)
-- Completed: 6
+- Completed: 11 (added Batch 3: Copyblogger, Donna Kozik, Christian Mickelsen update, Don Campbell, Greg Habstritt, DigitalMarketer framework batch)
 - In Progress: 0
 - Pending: 27

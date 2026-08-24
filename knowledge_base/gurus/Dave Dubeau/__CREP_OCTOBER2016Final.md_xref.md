@@ -3,3 +3,4 @@
 # Format: table (para by para ordered)
 | Para | Source .md file line/context | Destination (HowTo/domain) | Notes |
 |---|---|---|---|
+| Source para | __CREP_OCTOBER2016Final.md line/context: CREP October 2016 Final - event / business / season | MarketingHowTo.md / OperationsHowTo.md | Event / business |
