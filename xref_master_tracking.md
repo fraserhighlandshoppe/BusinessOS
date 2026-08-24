@@ -206,3 +206,24 @@
 2. Domain source files (e.g., Customer Avatar Template.md) reference guru source files (Eben Pagan Customer_Avatar.md, DigitalMarketer Customer Avatar.md).
 3. Guru source files (e.g., MarketingMindsets.md) reference back to HowTo guides (MarketingHowTo.md, EmailHowTo.md, SalesHowTo.md, BusinessHowTo.md, OperationsHowTo.md, etc.).
 4. Each level has `ABC_xref.md` (table format, ordered by paragraph) tracking the mapping.
+
+
+# Batch 4 Complete (final remaining gurus)
+- Jeff Walker (1 file) → Complete
+- Josh Turner (14 files) → Complete
+- Karen Cappello (2 files) → Complete
+- Lisa Sasevich (1 file) → Complete
+- Mike Rafati (2 files) → Complete
+- Nick Ortner (1 file) → Complete
+- Perry Marshall (2 files) → Complete
+- Ray Edwards (3 files) → Complete
+- ResearchFreak (3 files) → Complete
+- Sage Lavine (2 files) → Complete
+- Sugarman (4 files) → Complete
+- Ted McGrath (6 files) → Complete
+- T. Harv Eker (3 files) → Complete
+- Tom Ferry (2 files) → Complete
+- Verne Harnish (7 files) → Complete
+- Vrinda Normand (4 files) → Complete
+
+# OVERALL STATUS: All guru directories (43 dirs, ~7879 source files) have xref framework files (ABC_xref.md) created. Content-filled xrefs exist for priority guides (Marketing, Sales, Email, IT, etc.); framework headers exist for all remaining files. Domain guides reference master tracking. External tracking layer complete. Sources untouched. Guides not modified by xref creation.
