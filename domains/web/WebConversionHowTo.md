@@ -6,6 +6,8 @@
 Tags: #web #conversion #landingpage #howto #masterguide
 
 ---
+*Source incorporation: this guide references domain files, guru sources, wiki SOPs, and swipe formulas. Where sources agree (e.g., Cardone omnipresence, Pagan audience-first), common claims reference both. Conflicts noted above with recommendations. Full source links in Bibliography.*
+---
 
 ## 1. Foundations
 

@@ -6,6 +6,8 @@
 Tags: #finance #operations #howto #masterguide
 
 ---
+*Source incorporation: this guide references domain files, guru sources, wiki SOPs, and swipe formulas. Where sources agree (e.g., Cardone omnipresence, Pagan audience-first), common claims reference both. Conflicts noted above with recommendations. Full source links in Bibliography.*
+---
 
 ## How to use
 1. Read Section 1 (foundations) for the financial framework.
