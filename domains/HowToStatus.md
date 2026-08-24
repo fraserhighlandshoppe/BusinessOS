@@ -1,0 +1,3 @@
+- Phase 4 master guides: MarketingHowTo.md ✅, SalesHowTo.md ✅, BusinessHowTo.md ⬅ NEXT, EmailHowTo.md, SocialMediaHowTo.md, WebConversionHowTo.md, MindsetHowTo.md, OperationsHowTo.md, TradingHowTo.md PENDING
+- Swipe system: headline_formulas.md ✅, salesletter_formulas.md ✅, swipe_*.txt ✅; verification against mined lines PENDING
+- Tags/audit: Phase 3 attribution PENDING for remaining domain files
