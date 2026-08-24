@@ -9,3 +9,4 @@
 | 26 | MarketingMindsets.md line 26-30 | MarketingHowTo.md Section 1b; EmailHowTo.md Section 1b; SalesHowTo.md Section 3 |
 | 28 | MarketingMindsets.md line 28-32 | MarketingHowTo.md Sections 1b + 2; BusinessHowTo.md Section 2 |
 | 42 | MarketingMindsets.md line 42-44 | MarketingHowTo.md Sections 1b + 4; BusinessHowTo.md Section 5 |
+| 42 (combined) | Customer Avatar spec (CRM/Marketing) → MarketingHowTo.md Section 4.1; BusinessHowTo.md Section 1.1 | Recursively tracked: MarketingMindsets.md → MarketingHowTo.md → Customer_Avatar_Template.md (domain source xref) → Back to E.Pagan Customer_Avatar.md + DigitalMarketer/ |
