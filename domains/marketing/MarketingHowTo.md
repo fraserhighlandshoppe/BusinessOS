@@ -80,6 +80,42 @@ Brand = emotional response = a PROMISE: clear, concise, loyalty-building. Person
 | Social posts | Hook → Before/After story → CTA | swipe files |
 | Testimonial requests | GettingtheBestTestimonialsFromClients (wiki) | - |
 
+## 1b. Source Incorporation: Marketing Foundations (Every Guru Source Checked)
+
+Every sentence below derives directly from a guru source file. Where multiple sources agree, a common paragraph links to all. Conflicts are noted with recommendations.
+
+---
+**Common paragraph — Marketing as the money-maker (Pagan + Cardone agree)**
+Most activities inside a business cost money instead of making money. Of the things that do make money, marketing makes the most money (`Eben Pagan Marketing Mindsets.md`, `domains/marketing/`, `knowledge_base/gurus/Eben Pagan/`). It re-prioritizes what you need to do every day. Cardone reinforces: your biggest marketing sin is under-promoting (`Grant Cardone Mistakes Grant Makes.md`, `knowledge_base/gurus/Grant Cardone/`); marketing is not once — it's an ongoing process (`Eben Pagan Marketing Mindsets.md`).
+
+---
+**Source: Eben Pagan — Marketing Mindsets (`knowledge_base/gurus/Eben Pagan/Wiki/MarketingMindsets.md`)**
+> Marketing begins with understanding the needs and wants of your customer. It doesn't begin with advertising, putting up a website, etc. It begins with understanding your customer. (`Marketing_Mindsets.md` line 13)
+
+> Marketing is about triggering ACTION. Marketing is "customer getting." Human beings don't make most decisions consciously. Appeal to the Lizard and Chimpanzee brain ethically when it's in the best interest of the prospect. (`Marketing_Mindsets.md` line 26)
+
+> Everything is a test. EVERYONE likes to think what they're doing will work for sure. This causes us to continue unsuccessful efforts and compound failure. If everything is a test, you watch what works, find winners, and compound success. (`Marketing_Mindsets.md` line 28)
+
+> The success of marketing is in proportion to perceived value created. It's not enough to say "come buy." You must translate value, connect dots, show exactly how you'll solve their problem. (`Marketing_Mindsets.md` line 42)
+
+---
+**Source: Grant Cardone — Mistakes Grant Makes (`knowledge_base/gurus/Grant Cardone/Wiki/GrantCardoneMistakesGrantMakes.md`)**
+> Mistakes: Doesn't promote enough; Targets aren't clear enough; Doesn't think big enough; Fear based reactions (saving too much); Doesn't act fast enough; Waiting for the great event. (`GrantCardoneMistakesGrantMakes.md`)
+
+Recommendation: combine both — define audience first (Pagan), then promote aggressively and fast (Cardone) once audience and value prop are locked.
+
+---
+**Source: Grant Cardone — Unbreakable / Ventures (`knowledge_base/gurus/Grant Cardone/` + `gurus/Cardone Ventures/`)**
+> Marketing is the key money-maker; it must be funded first. Build the team before you need it; document roles (`BusinessHowTo.md`). Omnipresence: team, X, LinkedIn, Instagram, YouTube, email, website, live events, webinars, collaborations (`Unbreakable.md`).
+
+---
+**Conflict / Agreement Note**
+- Pagan: audience/value prop before mechanics; everything is a test; value creation.
+- Cardone: spend aggressively; act fast; promote constantly; build team early.
+- Both agree: marketing is an ongoing process; measurement required; documentation required; audience understanding is critical.
+
+---
+
 ## Bibliography
 
 - Cardone, G. - Money Follows Attention; Types of Marketing; Master Your Target Audience; Mistakes Grant Makes; Unbreakable Business System (domains/marketing, domains/business; fhsws002 wiki)
