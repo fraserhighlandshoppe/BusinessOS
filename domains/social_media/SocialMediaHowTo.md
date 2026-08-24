@@ -38,6 +38,30 @@ Tags: #social_media #socialmedia #howto #masterguide
 | Marketplace / listing copy | `Facebook Marketplace Strategy.md` + `Kijiji Strategy.md` templates | swipe_*.txt |
 | Image specs | `Social Media Image Size Guide.md` | - |
 
+## 1b. Source Incorporation: Social Media Foundations
+Every claim links to source `.md` file. Agreement = common paragraph; conflicts = noted.
+---
+**Common paragraph — Social media = omnipresent + content-first (Cardone + Dubeau agree)**
+Social platforms extend brand presence (`Grant Cardone Unbreakable.md` — team, X, LinkedIn, Instagram, YouTube, email, website, events). Content must serve audience first (`Dave Dubeau Content.md` — 36 source docs; mix education + proof + offer). Video builds KLT at scale (`Dubeau WebTV.md` — 1-to-many relationships; keywords in title + spoken). Agreement: both say use video + consistent presence. Conflict: Dubeau = content-first authority; Cardone = aggressive frequency/omnipresence. Resolution: content-first video delivered omnipresent.
+---
+**Source: Dave Dubeau — Brand / Content / Facebook / Email / Web TV (`gurus/Dave Dubeau/`)**
+- Brand (`Brand.md` — 22 docs): position clearly; build authority through content; video for KLT.
+- Content (`Content.md` — 36 docs): serve audience first; education + proof + offer mix.
+- Facebook (`Facebook.md`): community not launch-pad; video/live for engagement; link to landing pages.
+- Email (`Email.md`): nurture with value; automate by behavior; personalize; never apologize.
+- Web TV (`WebTV.md`): keywords in title + spoken 2-3x; embed in blog; email drives traffic.
+---
+**Source: Blair Singer — Branding Framework (`gurus/Blair Singer/`)**
+- Brand = emotional response = promise. 3 adjectives describe brand; don't be everything to everyone (`Branding Fundamentals.md`).
+- Team = brand delivered in person (`BusinessHowTo.md` — leadership framework applies to social team).
+---
+**Source: Grant Cardone — Unbreakable (`gurus/Grant Cardone/`)**
+- Omnipresence: all platforms active; live events + webinars (`SocialMediaHowTo.md` Section 1). Frequency matters.
+---
+**Source: Joanna Lindenbaum — Referral in Social Context (`gurus/Joanna Lindenbaum/Email/Joanna_Lindenbaum_Referral_Shame_Piece.md`)**
+- Referral mechanics (delivery + ask: words, energy, timing, continuity) apply to social engagement: ask for referrals after value delivery; separate self-worth from referral volume; quarterly "Referral Events".
+---
+
 ## 5. Bibliography
 
 - Cardone, G. - Unbreakable (omnipresence, brand promise) (`gurus/Grant Cardone/`)

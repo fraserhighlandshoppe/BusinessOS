@@ -29,6 +29,27 @@ Tags: #trading #investing #tradingmaster #howto #masterguide
 | Investment strategy notes | `Andy Tanner Stock Investing.md`, `Don Campbell Real Estate Investing.md` |
 | Business plan / SOP | `Real Estate Investing Business.md` |
 
+## 1b. Source Incorporation: Trading Foundations
+---
+**Common paragraph — Trading = habits + business approach + wealth framework (Cardone + Tanner + Campbell agree)**
+Trading requires habits, not luck (`7 Habits of Highly Effective Traders.md`). Stock investing: focus on value, long-term holdings, systematic entry/exit (`Andy Tanner Stock Investing.md`). Real estate investing: treat as business (systems, team, metrics) with clear exit strategies (`Don Campbell Real Estate Investing.md`; `Real Estate Investing Business.md`). Wealth creation = compound + time + rate (`GC Wealth Creation Formula.md`). All agree: discipline, planning, review. Conflict: Tanner = value/long-term; Campbell = business/system; Cardone = rapid wealth creation. Resolution: systematic business approach (Campbell) + value focus (Tanner) + rapid growth discipline (Cardone) = trading/business system.
+---
+**Source: Andrew Tanner — Stock Investing (`gurus/Andy Tanner/`; `domains/trading/`)**
+- `Andy Tanner Stock Investing.md`: value investing; long-term holdings; systematic entry/exit.
+---
+**Source: Don Campbell — Real Estate Investing (`gurus/Don Campbell/`; `domains/trading/`)**
+- `Don Campbell Real Estate Investing.md`: treat real estate as business; build portfolio with exit strategies.
+- `Real Estate Investing Business.md`: system approach; team; metrics; SOP documentation (`FHS-INTERNAL-INDEX.md` reference).
+---
+**Source: Grant Cardone — Wealth / Growth (`gurus/Grant Cardone/`)**
+- `GC Wealth Principles.md`: compound + time + rate; wealth classes; path to next.
+- `GC Wealth Creation Formula.md`: 4 I's (Identify, Improve, Invest, Insure); debt rules; money principles.
+- `10X Growth.md`: growth habits apply to trading/investment discipline.
+---
+**Source: Joanna Lindenbaum — Growth Analogy (`gurus/Joanna Lindenbaum/`)**
+- `Referral_Shame.md`: growth feels impossible/hard; commitment + persistent work pays off. Applies to trading/investment: separate self-worth from results; practice system, not self-blame.
+---
+
 ## Bibliography
 
 - Tanner, A. - Stock Investing (`gurus/Andy Tanner/` or domain file `Andy Tanner Stock Investing.md`)

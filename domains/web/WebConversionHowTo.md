@@ -28,6 +28,30 @@ Tags: #web #conversion #landingpage #howto #masterguide
 | Landing page skeleton | `Landing Page Checklist.md` + Hero's Journey (`swipe/salesletter_formulas.md`) |
 | Checkout copy | `Checkout Page Essentials.md` |
 
+## 1b. Source Incorporation: Web Conversion Foundations
+---
+**Common paragraph — Web conversion = landing page + checkout + funnel benchmarks (Levis + Pagan + Cardone agree)**
+Average site converts 5-10% of visitors (Levis 5R — `fhsws002 wiki`). Funnel: Ads → Landing page (email capture) → Lead magnet → Nurture → Tripwire → Core offer → Repeat (`Pagan Marketing_Mindsets.md` — marketing system/sequence; `MarketingHowTo.md`). Web pages deliver the brand promise (`Singer Branding.md` — emotional response = promise; `BusinessHowTo.md`). Checkout must build trust (`WebConversionHowTo.md` — trust badges, guarantee). Agreement: all say measure, document, redirect if no ROI (`Cardone Mistakes.md` — no ROI = redirect; `Pagan Marketing_Mindsets.md` — everything is a test).
+---
+**Source: Dave Dubeau — Web TV / Video (Web authority via video)**
+- `WebTV.md`: video = 1-to-many KLT; keywords in title + spoken 2-3x; embed in blog; email drives traffic.
+---
+**Source: Claude Hopkins — Scientific Advertising (`Hopkins_Scientific_Advtg.md`)**
+- Headlines must have specific job; exact claims outperform generalities; offer service, not just ask for sale.
+---
+**Source: Blair Singer — Branding (`Branding Fundamentals.md`)**
+- Brand promise delivered on every landing page/checkout; 3 adjectives consistent; emotional response.
+---
+**Source: Eben Pagan — Marketing Mindsets + Funnel (`Marketing_Mindsets.md`; `MarketingHowTo.md`)**
+- Marketing system/sequence; funnel = process; everything tested; value creation proportional to perceived value.
+---
+**Source: Grant Cardone — Unbreakable / Ventures (`Unbreakable.md`; `Ventures.md`)**
+- Omnipresence includes web; document SOPs (`FHS-INTERNAL-INDEX.md`); scale requires process readiness.
+---
+**Source: FHS Internal — SOP References (`FHS-INTERNAL-INDEX.md`; `operations/sop/`)**
+- Landing page checklist (`Landing_Page_Checklist.md`); checkout essentials (`Checkout_Page_Essentials.md`); SOP structure (owner, date, inputs/outputs, metrics, source reference).
+---
+
 ## Bibliography
 - Levis, D. - 5R Web Conversion (fhsws002 wiki reference in marketing master)
 - FHS Internal - `Landing Page Checklist.md`, `Checkout Page Essentials.md`
