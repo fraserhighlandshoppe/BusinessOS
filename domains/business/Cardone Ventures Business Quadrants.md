@@ -98,3 +98,7 @@ Trim off bottom 30% to make room for new.
 - [[Grant Cardone Pages]]
 - [[Grant Cardone Business Summit]]
 - [[Customer Value Optimization]]
+
+---
+Tags: #GrantCardone #business
+References: see source file attribution above; guru source mapped to #GrantCardone

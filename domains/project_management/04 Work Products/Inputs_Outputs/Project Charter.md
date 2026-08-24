@@ -1,3 +1,4 @@
+Tags: #Unknown #projectmanagement
 # Project Charter
 
 ## Purpose

@@ -17,6 +17,7 @@ categories:
   - Reference
 
 ---
+Tags: #Unknown #projectmanagement
 
 # Customer Journey Map
 

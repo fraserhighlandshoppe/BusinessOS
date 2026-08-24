@@ -16,6 +16,7 @@ categories:
   - Personal Development
   - Success Habits
 ---
+Tags: #GrantCardone #mindset
 
 # 50 Habits of Successful People
 

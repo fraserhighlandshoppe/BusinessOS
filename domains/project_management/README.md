@@ -1,3 +1,4 @@
+Tags: #DigitalMarketer #projectmanagement
 # Highland Business Operating System (HBOS)
 
 HBOS is the specification and governance repository for evolving FrontAccounting into the business platform for Fraser Highland Shoppe.

@@ -83,3 +83,7 @@ Most people were programmed to stay broke.
 - [[GC Money]]
 - [[GC Wealth Creation Formula]]
 - [[GC Wealth Classes]]
+
+---
+Tags: #GrantCardone #mindset
+References: see source file attribution above; guru source mapped to #GrantCardone

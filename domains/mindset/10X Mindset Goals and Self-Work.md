@@ -50,3 +50,8 @@ Jesse Itzler: put MORE on yourself, not less - pressure is a route to success in
 - http://fhsws002.ksfraser.com/infra/wiki/index.php?title=GC_Your_Biggest_Problem_is_You
 - http://fhsws002.ksfraser.com/infra/wiki/index.php?title=GC_Why_People_Fail
 - http://fhsws002.ksfraser.com/infra/wiki/index.php?title=GC_Pressure_is_a_privilege
+
+
+---
+Tags: #GrantCardone #mindset
+References: see source file attribution above; guru source mapped to #GrantCardone

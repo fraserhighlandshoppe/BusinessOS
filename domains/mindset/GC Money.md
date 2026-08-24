@@ -62,3 +62,7 @@ Tags: #GrantCardone #business
 ## Related
 - [[10X Income]]
 - [[10X Challenge]]
+
+---
+Tags: #GrantCardone #mindset
+References: see source file attribution above; guru source mapped to #GrantCardone

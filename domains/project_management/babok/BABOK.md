@@ -16,6 +16,7 @@ categories:
   - Requirements
   - Knowledge Areas
 ---
+Tags: #Unknown #projectmanagement
 
 # BABOK (Business Analysis Body of Knowledge)
 

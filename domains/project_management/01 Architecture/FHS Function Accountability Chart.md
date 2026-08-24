@@ -17,6 +17,7 @@ categories:
   - Organizational Structure
 
 ---
+Tags: #Unknown #projectmanagement
 
 # FHS Function Accountability Chart
 

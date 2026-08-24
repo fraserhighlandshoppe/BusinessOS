@@ -105,3 +105,7 @@ When comfortable, at most risk:
 - [[Grant Cardone Business Summit]]
 - [[Perfect Sales System]]
 - [[Sales Funnel]]
+
+---
+Tags: #GrantCardone #business
+References: see source file attribution above; guru source mapped to #GrantCardone

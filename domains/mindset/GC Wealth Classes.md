@@ -55,3 +55,7 @@ You will never change your money until you look at it every day.
 - [[GC Wealth Creation Formula]]
 - [[Grant Cardone Money Rules]]
 - [[Grant Cardone Pages]]
+
+---
+Tags: #GrantCardone #mindset
+References: see source file attribution above; guru source mapped to #GrantCardone

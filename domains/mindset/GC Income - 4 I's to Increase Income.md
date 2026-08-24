@@ -65,3 +65,7 @@ Ref: Grant Cardone
 - [[10X Income]]
 - [[GC Money]]
 - [[Grant Cardone Pages]]
+
+---
+Tags: #GrantCardone #mindset
+References: see source file attribution above; guru source mapped to #GrantCardone

@@ -17,6 +17,7 @@ categories:
   - Email Marketing
 
 ---
+Tags: #Unknown #projectmanagement
 
 # FHS Newsletter
 

@@ -80,3 +80,7 @@ If working 40 hours, spend at LEAST 7 hours/week on yourself:
 - [[GC Money]]
 - [[10X Income]]
 - [[Grant Cardone Pages]]
+
+---
+Tags: #GrantCardone #mindset
+References: see source file attribution above; guru source mapped to #GrantCardone

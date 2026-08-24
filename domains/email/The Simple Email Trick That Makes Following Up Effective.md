@@ -1,3 +1,4 @@
+Tags: #Unknown #email
 # The Simple Email Trick That Makes Following Up Effective
 
 Source: [Entrepreneur Article](https://www.entrepreneur.com/article/246285)

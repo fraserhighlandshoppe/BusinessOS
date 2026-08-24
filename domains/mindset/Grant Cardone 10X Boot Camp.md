@@ -76,3 +76,7 @@ Not complying with masses is uncomfortable (example: charity refusing mask)
 - [[Grant Cardone Business Summit]]
 - [[GC Marketing Truths]]
 - [[Staying Motivated]]
+
+---
+Tags: #GrantCardone #mindset
+References: see source file attribution above; guru source mapped to #GrantCardone

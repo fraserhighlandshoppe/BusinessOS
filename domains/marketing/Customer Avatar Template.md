@@ -17,6 +17,7 @@ categories:
   - Customer Insights
 
 ---
+Tags: #DigitalMarketer #marketing
 
 # Customer Avatar Template
 

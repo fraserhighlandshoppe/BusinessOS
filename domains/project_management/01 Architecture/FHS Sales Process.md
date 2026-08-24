@@ -17,6 +17,7 @@ categories:
   - Operations
 
 ---
+Tags: #Unknown #projectmanagement
 
 # FHS Sales Process
 

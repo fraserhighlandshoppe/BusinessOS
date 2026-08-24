@@ -1,3 +1,4 @@
+Tags: #Unknown #socialmedia
 # Kijiji Strategy
 
 For dead stock liquidation and excess inventory.

@@ -17,6 +17,7 @@ categories:
   - Business Strategy
 
 ---
+Tags: #Unknown #projectmanagement
 
 # FHS Risk Analysis
 

@@ -1,3 +1,4 @@
+Tags: #DigitalMarketer #projectmanagement
 # Project Human Resource Management
 
 ## Planning Resource Requirements

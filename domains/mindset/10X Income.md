@@ -76,3 +76,7 @@ Don't focus on the 1000's that do nothing. Focus on the 1 that does...
 - [[GC Income - 4 I's to Increase Income]]
 - [[GC Path to reach your goals]]
 - [[10X Challenge]]
+
+---
+Tags: #GrantCardone #mindset
+References: see source file attribution above; guru source mapped to #GrantCardone

@@ -67,3 +67,7 @@ People exceed what their parents do.
 - [[Grant Cardone Pages]]
 - [[10X Challenge]]
 - [[Grant Cardone Virtual Bootcamp]]
+
+---
+Tags: #GrantCardone #mindset
+References: see source file attribution above; guru source mapped to #GrantCardone

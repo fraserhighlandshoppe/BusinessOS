@@ -17,6 +17,7 @@ categories:
   - Finance
 
 ---
+Tags: #DigitalMarketer #projectmanagement
 
 # FHS 0 Monthly Process
 

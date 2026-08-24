@@ -17,6 +17,7 @@ categories:
   - Strategy
 
 ---
+Tags: #Unknown #sales
 
 # Why the Elevator Pitch Hurts Your Chances of Winning New Clients
 

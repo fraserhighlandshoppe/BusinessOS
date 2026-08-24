@@ -112,3 +112,7 @@ Tags: #GrantCardone #business
 - [[10X Income]]
 - [[10X Growth Conference]]
 - [[Grant Cardone Pages]]
+
+---
+Tags: #GrantCardone #mindset
+References: see source file attribution above; guru source mapped to #GrantCardone

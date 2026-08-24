@@ -1,3 +1,4 @@
+Tags: #Unknown #email
 # Email Automation
 
 MailPoet automation workflows.

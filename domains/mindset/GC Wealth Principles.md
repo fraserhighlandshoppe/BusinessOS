@@ -56,3 +56,8 @@ Pay yourself first | live on 20% of income | don't lose money | cash-flowing ass
 - http://fhsws002.ksfraser.com/infra/wiki/index.php?title=GC_The_Need_for_a_New_Financial_Plan
 - http://fhsws002.ksfraser.com/infra/wiki/index.php?title=GC_The_3_things_to_invest_in
 - http://fhsws002.ksfraser.com/infra/wiki/index.php?title=GC_Biggest_Threat_to_Wealth
+
+
+---
+Tags: #GrantCardone #mindset
+References: see source file attribution above; guru source mapped to #GrantCardone

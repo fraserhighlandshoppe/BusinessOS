@@ -46,3 +46,7 @@ Tags: #GrantCardone #business
 - [[GC Money Rules]]
 - [[GC Wealth Creation Formula]]
 - [[GC Millionaire Math]]
+
+---
+Tags: #GrantCardone #mindset
+References: see source file attribution above; guru source mapped to #GrantCardone

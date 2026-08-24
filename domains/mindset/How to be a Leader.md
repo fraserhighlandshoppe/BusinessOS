@@ -16,6 +16,7 @@ categories:
   - Leadership
   - Management
 ---
+Tags: #GrantCardone #mindset
 
 # How to be a Leader
 

@@ -76,3 +76,7 @@ As entrepreneur, you must manage yourself:
 ## Related
 - [[10X Challenge]]
 - [[Grant Cardone Pages]]
+
+---
+Tags: #GrantCardone #mindset
+References: see source file attribution above; guru source mapped to #GrantCardone

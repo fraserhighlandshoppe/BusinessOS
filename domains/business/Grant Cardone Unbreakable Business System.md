@@ -100,3 +100,7 @@ Create 5 offers to move from attention to lead.
 - [[Grant Cardone Pages]]
 - [[GC Marketing Truths]]
 - [[Ten Dollar A Day Traffic Plan]]
+
+---
+Tags: #GrantCardone #business
+References: see source file attribution above; guru source mapped to #GrantCardone

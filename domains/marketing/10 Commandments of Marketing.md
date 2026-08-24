@@ -16,6 +16,7 @@ categories:
   - Strategy
 
 ---
+Tags: #GrantCardone #marketing
 
 # 10 Commandments of Marketing
 

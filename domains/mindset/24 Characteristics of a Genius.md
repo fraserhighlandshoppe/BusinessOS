@@ -16,6 +16,7 @@ categories:
   - Personal Development
   - Character
 ---
+Tags: #GrantCardone #mindset
 
 # 24 Characteristics of a Genius
 

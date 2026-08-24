@@ -1,3 +1,4 @@
+Tags: #Unknown #email
 # Email & Newsletter
 
 Ported from the FHS wiki `FHS Newsletter` and `FHS Marketing Plan` (email

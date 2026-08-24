@@ -17,6 +17,7 @@ categories:
   - Strategic Planning
 
 ---
+Tags: #Unknown #projectmanagement
 
 # FHS Sales Objectives
 

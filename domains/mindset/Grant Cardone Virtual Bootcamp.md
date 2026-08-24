@@ -89,3 +89,7 @@ Want control, so stay small to control things.
 - If not thinking big, life will be small
 - "Don't say no. Say maybe"
 - "Money never sleeps; it does get bored"
+
+---
+Tags: #GrantCardone #mindset
+References: see source file attribution above; guru source mapped to #GrantCardone

@@ -17,6 +17,7 @@ categories:
   - Career Development
 
 ---
+Tags: #Unknown #linkedin
 
 # 7 Tips to Make Sure Your LinkedIn Picture Is Helping, Not Hurting Your Prospects
 

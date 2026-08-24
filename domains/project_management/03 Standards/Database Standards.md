@@ -1,3 +1,4 @@
+Tags: #Unknown #projectmanagement
 - snake_case
 - Plural tables
 - UUID support

@@ -17,6 +17,7 @@ categories:
   - Methodology
 
 ---
+Tags: #GrantCardone #sales
 
 # The Perfect Sales Process
 

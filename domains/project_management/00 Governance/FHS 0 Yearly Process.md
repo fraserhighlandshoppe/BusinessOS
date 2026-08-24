@@ -17,6 +17,7 @@ categories:
   - Finance
 
 ---
+Tags: #Unknown #projectmanagement
 
 # FHS 0 Yearly Process
 

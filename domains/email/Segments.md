@@ -1,3 +1,4 @@
+Tags: #Unknown #email
 # Email Segments
 
 Customer segmentation strategy for targeted messaging.

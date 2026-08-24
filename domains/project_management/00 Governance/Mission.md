@@ -16,6 +16,7 @@ categories:
   - Business Philosophy
 
 ---
+Tags: #Unknown #projectmanagement
 
 # FHS Mission
 

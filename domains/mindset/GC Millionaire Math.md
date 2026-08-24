@@ -72,3 +72,7 @@ When saving money, value decreases due to inflation.
 - [[GC Money Principles]]
 - [[GC Wealth Creation Formula]]
 - [[Ten Dollar A Day Traffic Plan]]
+
+---
+Tags: #GrantCardone #mindset
+References: see source file attribution above; guru source mapped to #GrantCardone

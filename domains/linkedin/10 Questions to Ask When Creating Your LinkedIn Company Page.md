@@ -17,6 +17,7 @@ categories:
   - B2B
 
 ---
+Tags: #Unknown #linkedin
 
 # LinkedIn Company Page Guide
 

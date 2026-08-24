@@ -16,6 +16,7 @@ categories:
   - Motivation
   - Personal Development
 ---
+Tags: #GrantCardone #mindset
 
 # Staying Motivated - Grant Cardone
 

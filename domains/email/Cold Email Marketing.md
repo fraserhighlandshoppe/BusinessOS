@@ -18,6 +18,7 @@ categories:
   - Sales Outreach
 
 ---
+Tags: #Unknown #email
 
 # Cold Email Marketing Tips
 

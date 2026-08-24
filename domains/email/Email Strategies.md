@@ -1,3 +1,4 @@
+Tags: #Unknown #email
 # Email Strategies
 
 ## Signature Block Elements

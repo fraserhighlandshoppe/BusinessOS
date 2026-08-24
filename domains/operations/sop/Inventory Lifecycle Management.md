@@ -17,6 +17,7 @@ categories:
   - Supply Chain
 
 ---
+Tags: #Unknown #operations
 
 # Inventory Lifecycle Management
 

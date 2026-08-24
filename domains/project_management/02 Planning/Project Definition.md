@@ -17,6 +17,7 @@ categories:
   - PMBOK
 
 ---
+Tags: #Unknown #projectmanagement
 
 # Project Definition
 

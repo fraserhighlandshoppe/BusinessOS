@@ -16,6 +16,7 @@ categories:
   - Knowledge Areas
   - Process Groups
 ---
+Tags: #Unknown #projectmanagement
 
 # PMBOK (Project Management Body of Knowledge)
 

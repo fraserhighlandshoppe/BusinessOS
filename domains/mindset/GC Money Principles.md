@@ -72,3 +72,7 @@ Use leverage, don't tie up capital.
 - [[GC Money]]
 - [[GC Wealth Creation Formula]]
 - [[GC Money Rules]]
+
+---
+Tags: #GrantCardone #mindset
+References: see source file attribution above; guru source mapped to #GrantCardone

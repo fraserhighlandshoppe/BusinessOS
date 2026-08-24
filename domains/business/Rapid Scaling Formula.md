@@ -16,6 +16,7 @@ categories:
   - Scaling
   - Growth Strategy
 ---
+Tags: #GrantCardone #business
 
 # Rapid Scaling Formula
 

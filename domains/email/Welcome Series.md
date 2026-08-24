@@ -17,6 +17,7 @@ categories:
   - Marketing
 
 ---
+Tags: #Unknown #email
 
 # Welcome Email Series
 

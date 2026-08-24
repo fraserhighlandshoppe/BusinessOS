@@ -17,6 +17,7 @@ categories:
   - Social Commerce
 
 ---
+Tags: #Unknown #operations
 
 # SOP: Facebook Marketplace Dead Stock Liquidation
 

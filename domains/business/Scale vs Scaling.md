@@ -16,6 +16,7 @@ categories:
   - Growth Strategy
   - Scaling
 ---
+Tags: #GrantCardone #business
 
 # Scale vs Scaling
 

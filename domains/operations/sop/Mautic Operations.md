@@ -17,6 +17,7 @@ categories:
   - Integrations
 
 ---
+Tags: #Unknown #operations
 
 # SOP: Mautic Marketing Automation Operations
 

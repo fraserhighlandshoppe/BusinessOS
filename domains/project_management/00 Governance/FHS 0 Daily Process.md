@@ -17,6 +17,7 @@ categories:
   - SOP
 
 ---
+Tags: #Unknown #projectmanagement
 
 # FHS 0 Daily Process
 

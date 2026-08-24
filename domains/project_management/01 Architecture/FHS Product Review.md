@@ -17,6 +17,7 @@ categories:
   - Strategy
 
 ---
+Tags: #Unknown #projectmanagement
 
 # FHS Product Review
 

@@ -1,3 +1,4 @@
+Tags: #DigitalMarketer #trading
 # 7 Habits of Highly Effective Traders
 
 By Jared P Erni

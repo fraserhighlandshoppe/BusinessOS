@@ -17,6 +17,7 @@ categories:
   - Unified Operating System
 
 ---
+Tags: #GrantCardone #projectmanagement
 
 # Unified Operating Script
 

@@ -17,6 +17,7 @@ categories:
   - PMBOK
 
 ---
+Tags: #DigitalMarketer #projectmanagement
 
 # Project Human Resource Management
 

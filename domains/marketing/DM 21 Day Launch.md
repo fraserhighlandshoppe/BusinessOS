@@ -18,6 +18,7 @@ categories:
   - Sales Funnel
 
 ---
+Tags: #DigitalMarketer #marketing
 
 # DM 21 Day Launch - The 3X Method
 

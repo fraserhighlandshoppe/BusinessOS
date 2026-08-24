@@ -18,6 +18,7 @@ categories:
   - Framework
 
 ---
+Tags: #GrantCardone #projectmanagement
 
 # FHS Sales Cycle and Customer Journey
 

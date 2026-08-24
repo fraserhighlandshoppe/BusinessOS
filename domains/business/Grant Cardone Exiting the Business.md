@@ -93,3 +93,7 @@ Business is NOT doing the work - it's building the team:
 ## Related
 - [[Grant Cardone Business Summit]]
 - [[Cardone Ventures Business Quadrants]]
+
+---
+Tags: #GrantCardone #business
+References: see source file attribution above; guru source mapped to #GrantCardone

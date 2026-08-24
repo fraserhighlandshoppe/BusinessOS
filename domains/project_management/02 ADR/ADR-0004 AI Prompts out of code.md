@@ -1,3 +1,4 @@
+Tags: #Unknown #projectmanagement
 Title: AI Prompts Are Externalized
 
 Status: Accepted

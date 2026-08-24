@@ -17,6 +17,7 @@ categories:
   - Emotional Intelligence
 
 ---
+Tags: #Unknown #projectmanagement
 
 # Emotional Branding for FHS
 

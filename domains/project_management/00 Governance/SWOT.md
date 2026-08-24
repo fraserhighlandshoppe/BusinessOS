@@ -16,6 +16,7 @@ categories:
   - Strategic Planning
 
 ---
+Tags: #Unknown #projectmanagement
 
 # FHS SWOT Analysis
 

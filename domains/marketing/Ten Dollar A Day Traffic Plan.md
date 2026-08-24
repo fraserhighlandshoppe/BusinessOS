@@ -18,6 +18,7 @@ categories:
   - Framework
 
 ---
+Tags: #DigitalMarketer #marketing
 
 # Ten Dollar A Day Traffic Plan
 

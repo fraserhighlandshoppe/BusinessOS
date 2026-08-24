@@ -17,6 +17,7 @@ categories:
   - Campaign Management
 
 ---
+Tags: #Unknown #operations
 
 # Create Campaign
 

@@ -122,3 +122,7 @@ What is better than perfect time on SM?
 - [[10X Challenge]]
 - [[Grant Cardone Pages]]
 - [[GC Marketing Truths]]
+
+---
+Tags: #GrantCardone #mindset
+References: see source file attribution above; guru source mapped to #GrantCardone

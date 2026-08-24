@@ -107,3 +107,7 @@ Most people are broke because they never save.
 - [[Grant Cardone Money Rules]]
 - [[GC Money]]
 - [[10X Income]]
+
+---
+Tags: #GrantCardone #mindset
+References: see source file attribution above; guru source mapped to #GrantCardone

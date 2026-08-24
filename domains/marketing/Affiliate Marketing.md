@@ -17,6 +17,7 @@ categories:
   - Strategy
 
 ---
+Tags: #EbenPagan #marketing
 
 # Affiliate Marketing
 

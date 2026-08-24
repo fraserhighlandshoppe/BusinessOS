@@ -71,3 +71,7 @@ Think about scale from the start.
 - [[Grant Cardone Money Tips]]
 - [[GC Wealth Creation Formula]]
 - [[Grant Cardone Pages]]
+
+---
+Tags: #GrantCardone #business
+References: see source file attribution above; guru source mapped to #GrantCardone

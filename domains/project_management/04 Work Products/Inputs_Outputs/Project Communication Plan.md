@@ -1,3 +1,4 @@
+Tags: #DigitalMarketer #projectmanagement
 # Project Communication Plan
 
 ## Purpose

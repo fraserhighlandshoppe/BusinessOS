@@ -17,6 +17,7 @@ categories:
   - E-commerce
 
 ---
+Tags: #Unknown #operations
 
 # Product Photography SOP
 

@@ -88,3 +88,7 @@ They can infect you and bring others down.
 - [[10X Challenge]]
 - [[Grant Cardone Pages]]
 - [[GC Money Rules]]
+
+---
+Tags: #GrantCardone #mindset
+References: see source file attribution above; guru source mapped to #GrantCardone
