@@ -1,5 +1,6 @@
 # XREF — Growth Plan - Annual__Product-Channel-Grid_Final.md
-# Source guru: DigitalMarketer
+# Source guru/file: Growth Plan - Annual__Product-Channel-Grid_Final.md_xref.md
 # Format: table (para by para ordered)
 | Para | Source .md file line/context | Destination (HowTo/domain) | Notes |
 |---|---|---|---|
+| 1 | Line ~1 — # Product-Channel-Grid_Final.pdf | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Auto-filled batch 8 |

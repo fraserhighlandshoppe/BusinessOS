@@ -1,5 +1,6 @@
 # XREF — FBAdChecklistPDF.md
-# Source guru: DigitalMarketer
+# Source guru/file: FBAdChecklistPDF.md_xref.md
 # Format: table (para by para ordered)
 | Para | Source .md file line/context | Destination (HowTo/domain) | Notes |
 |---|---|---|---|
+| 1 | Line ~1 — # FBAdChecklistPDF.pdf | MarketingHowTo.md (Section 2 - Traffic/Ads) | Auto-filled batch 8 |

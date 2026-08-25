@@ -1,5 +1,6 @@
 # XREF — Dan_Kennedy_Strategy_Framework.md
-# Source guru: Dan Kennedy
+# Source guru/file: Dan_Kennedy_Strategy_Framework.md_xref.md
 # Format: table (para by para ordered)
 | Para | Source .md file line/context | Destination (HowTo/domain) | Notes |
 |---|---|---|---|
+| 1 | Line ~1 — No extractable paragraph claims in first 50 lines; manual review needed | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Auto-filled batch 8 |

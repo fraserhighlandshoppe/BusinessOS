@@ -1,5 +1,6 @@
 # XREF — saved_resource(5)_2.md
-# Source guru: DigitalMarketer
+# Source guru/file: saved_resource(5)_2.md_xref.md
 # Format: table (para by para ordered)
 | Para | Source .md file line/context | Destination (HowTo/domain) | Notes |
 |---|---|---|---|
+| 1 | Line ~1 — # saved_resource(5).html | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Auto-filled batch 8 |

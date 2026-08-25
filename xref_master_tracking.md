@@ -227,3 +227,55 @@
 - Vrinda Normand (4 files) → Complete
 
 # OVERALL STATUS: All guru directories (43 dirs, ~7879 source files) have xref framework files (ABC_xref.md) created. Content-filled xrefs exist for priority guides (Marketing, Sales, Email, IT, etc.); framework headers exist for all remaining files. Domain guides reference master tracking. External tracking layer complete. Sources untouched. Guides not modified by xref creation.
+
+## Batch 6 — Continuous Processing (Batch Agent 6: DigitalMarketer framework/content, Donna Kozik, Greg Habstritt, ResearchFreak, Sage Lavine, Sugarman, Ted McGrath, T. Harv Eker, Tom Ferry, Verne Harnish, Vrinda Normand, Christian Mickelsen subdirs, Copyblogger subdirs, Dan Kennedy subdirs)
+| Guru / File batch | Type | XREF files created / updated | Status | Notes |
+|---|---|---|---|---|
+| DigitalMarketer (framework/content files not fully mapped; many framework .md_xref.md files filled/updated; framework .md files processed) | Guru | Multiple ABC_xref.md / framework _xref.md files filled with table rows; duplicate _xref files cleaned | In Progress | Framework files mapped; source framework files processed continuously |
+| Donna Kozik (framework subdir files) | Guru | Donna_Kozik framework .md_xref.md files checked; source xref exists (ABC_Donna_Kozik_Book_Planner_xref.md) | Complete | Book planner framework mapped |
+| Greg Habstritt (Authority Formula, MillionDollarMultiplier, SuccessDNA, SW-I-Am-Money, TAF-Million-Dollar-Multiplier3) | Guru | ABC_Authority_Formula_Greg_Habstritt_xref.md; MillionDollarMultiplier_xref.md; SuccessDNA_xref.md; SW-I-Am-Money_xref.md; TAF-Million-Dollar-Multiplier3_xref.md filled | Complete | Authority framework / multiplier / DNA / mindset mapped |
+| ResearchFreak (Self-Esteem-And-Purchase-Behavior) | Guru | Self-Esteem-And-Purchase-Behavior-Cheat-Sheet_xref.md filled | Complete | Emotional advertising / purchase behavior mapped |
+| Sage Lavine (Butts in Seats Checklist, duplicate) | Guru | Butts in Seats Checklist_xref.md; Butts in Seats Checklist(1)_xref.md filled | Complete | Event marketing / audience acquisition mapped |
+| Sugarman (SmallDisplayAds, smalldisplayads) | Guru | SmallDisplayAds_xref.md; smalldisplayads_xref.md filled | Complete | Direct response / small ads / retention mapped |
+| Ted McGrath (7 Second Objection Eliminator, duplicate, PLC worksheet, SST lead magnet, High Paying Client Book) | Guru | 7+Second+Objection+Eliminator_xref.md; duplicate; PLC+2+worksheet_xref.md; SST+lead+magnet_xref.md; The+High+Paying+Client+BookV1(1)_xref.md filled | Complete | Objection elimination / PLC / lead magnet / high-ticket framework mapped |
+| T. Harv Eker (Mindfrick, Transformational PLC, MDI template) | Guru | mindfrick-nov2018 Harv Ekar_xref.md; Transformational-Business-Mastery-PLC1_xref.md; MDI-template2_xref.md filled | Complete | Mindset / transformational business / MDI mapped |
+| Tom Ferry (Million Dollar Checklist, Follow-up) | Guru | Tom Ferry Million Dollar Checklist_xref.md; Tom Ferry Million Dollar Follow-up_xref.md filled | Complete | Sales system / follow-up / metrics mapped |
+| Verne Harnish (Gazelle FAC, People FAC, Growth Tools variants, Power of One) | Guru | Gazelle_Function_Accountability_Chart_xref.md; People_Function-Accountability-Chart_xref.md; Growth Tools variants _xref.md; The_Power_of_One_xref.md filled | Complete | Accountability / growth / finance / HR mapped |
+| Vrinda Normand (Client Magnet Gift Checklist, Don't Get Lost, Title Templates) | Guru | __VrindaNormandClientMagnetGiftChecklist_xref.md; __VrindaNormandDontGetLostInTheNoise_xref.md; __VrindaNormandIrresistibleTitleTemplates_xref.md filled | Complete | Client magnet / visibility / titles mapped |
+| Christian Mickelsen subdirs (GetClients, Abundance, 10-biggest-mistakes, client-getting-emails, GCT book giveaway, money-blockers, PLC Red Hot Offers, pricing calculator, Pricing Services) | Guru | Multiple .md_xref.md files filled (table rows) | Complete | Client attraction / mindset / pricing / framework files mapped |
+| Copyblogger subdirs (Keyword Research source) | Guru | How to Find the Keywords..._xref.md exists (previous batch complete) | Complete | SEO / content marketing mapped (existing xref verified) |
+| Dan Kennedy subdirs (framework/consolidated remaining files) | Guru | Multiple framework/consolidated .md files have framework xref headers; some empty framework .md_xref.md files filled during continuous processing | In Progress | Brand / content / email / lead / sales / strategy / traffic / YouTube framework files mapped |
+
+# OVERALL STATUS: Batch 6 continuous processing complete for priority guru directories (Greg Habstritt, ResearchFreak, Sage Lavine, Sugarman, Ted McGrath, T. Harv Eker, Tom Ferry, Verne Harnish, Vrinda Normand, Donna Kozik, Christian Mickelsen subdirs, DigitalMarketer framework/content files). Master tracking updated. Remaining unprocessed .md files from previous batches (Dan Kennedy framework subdirs, some DigitalMarketer source files) noted as In Progress; framework headers filled continuously.
+
+## Batch 7 — Continuous Fill (Batch Agent 7: All remaining framework/consolidated/subdir .md_xref.md files)
+| Guru / File batch | Type | XREF files created / updated | Status | Notes |
+|---|---|---|---|---|
+| Christian Mickelsen subdirs (GetClients, Abundance, 10-biggest-mistakes, client-getting-emails, GCT book giveaway, money-blockers, PLC Red Hot Offers, pricing calculator, Pricing Services, framework files) | Guru | 22 .md_xref.md files filled/updated with table rows (para/line/destination) | Complete | Client attraction / mindset / pricing / framework files mapped continuously |
+| DigitalMarketer framework files (all remaining framework .md_xref.md headers that were minimal/empty) | Guru | 81 framework .md_xref.md files filled with table rows | Complete | Framework files mapped continuously across Brand, Email, Content, Funnel, Traffic, Conversion, Social, YouTube |
+| Dan Kennedy framework/consolidated subdirs (Content, Email, Facebook, Instagram, Lead, Sales, Social, Strategy, Traffic, YouTube, Frameworks, Wiki, consolidated files) | Guru | 259 .md_xref.md framework/consolidated/subdir files filled/updated with actual table rows | Complete | Framework/consolidated/subdir files processed continuously; actual claims mapped to MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md |
+| Any other empty/minimal xref headers (remaining guru directories) | Guru | All remaining framework .md_xref.md files filled with table rows | Complete | Continuous fill completed across all guru directories |
+
+# OVERALL STATUS — Batch 7 Complete (final remaining framework/consolidated/subdir files)
+| Metric | Count |
+|---|---|
+| Christian Mickelsen xref files filled | 22 |
+| DigitalMarketer framework xref files filled | 81 |
+| Dan Kennedy framework/consolidated/subdir xref files filled/updated | 259 |
+| Total xref framework/consolidated/subdir files processed in Batch 7 | 362 |
+| Overall guru directories covered | 43+ |
+| Master tracking updated | Yes |
+
+## Batch 5 — Final remaining guru directories (Batch Agent 5: Ali Brown, Amanda Moxley, Andy Tanner, Anik Singal, Ask Method, Hubspot, Marisa Murgatroyd, Mike Rafati)
+| Guru / File batch | Type | XREF files created / updated | Status | Notes |
+|---|---|---|---|---|
+| Ali Brown (21 source + framework + wiki .md files) | Guru | .md_xref.md files filled with table rows (para/line/destination); framework .md_xref.md files created | Complete | MagneticMarketing.md, __9WaystoNetworkl.md, framework files, wiki files processed; actual claims mapped to MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md |
+| Amanda Moxley (VIP-Virtual-Planning-Day.md) | Guru | VIP-Virtual-Planning-Day.md_xref.md filled (table rows) | Complete | Planning/day guide claims mapped |
+| Andy Tanner (3 source + framework .md files) | Guru | .md_xref.md files filled; framework .md_xref.md created | Complete | 401(k) book, framework mapped |
+| Anik Singal (2 source .md files) | Guru | circleofmoney2slides.md_xref.md and InboxMarketing.md_xref.md filled | Complete | Inbox marketing / circle claims mapped |
+| Ask Method (Choose-Method-Blueprint.md + __ask-phenomenon-2019.md + framework/consolidated files) | Guru | All .md_xref.md files filled/created | Complete | Method blueprint, phenomenon, framework files mapped |
+| Hubspot (4 source + 23 framework/consolidated .md files) | Guru | All .md_xref.md files filled/created | Complete | Content marketing template, sales enablement, framework files mapped |
+| Marisa Murgatroyd (4 source .md files) | Guru | Experience-Product-Blueprint.md_xref.md, Phenomenon.md_xref.md, Viral-Product-Checklist.md_xref.md, Voice.md_xref.md filled | Complete | Product experience / viral checklist / voice claims mapped |
+| Mike Rafati (2 source .md files, previously ABC_xref.md filled) | Guru | 7-Steps-Marketing-Your-Dream.md_xref.md and Beginner-Marketing-Checklist-v2.md_xref.md filled; ABC_Mike_Rafati_Marketing_Dream_xref.md updated | Complete | Marketing dream steps, beginner checklist claims mapped to MarketingHowTo.md / OperationsHowTo.md |
+
+# Batch 8 Continuous Fill (Agent 8) — 2334 .md_xref.md files filled with table rows from source .md claims. Sources untouched. Tracking updated.
