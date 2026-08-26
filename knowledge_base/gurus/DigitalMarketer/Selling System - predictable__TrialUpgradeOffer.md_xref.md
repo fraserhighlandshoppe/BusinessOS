@@ -1,6 +1,8 @@
-# XREF — Selling System - predictable__TrialUpgradeOffer.md
-# Source guru/file: Selling System - predictable__TrialUpgradeOffer.md_xref.md
-# Format: table (para by para ordered)
-| Para | Source .md file line/context | Destination (HowTo/domain) | Notes |
-|---|---|---|---|
-| 1 | Line ~1 — # TrialUpgradeOffer.pdf | MarketingHowTo.md (Section 2 - Traffic/Ads) | Auto-filled batch 8 |
+# XREF — Selling System - predictable__TrialUpgradeOffer_xref
+# Source: Selling System - predictable__TrialUpgradeOffer.md
+# Format: | Para | Source reference (line/context) | Destination domain/file (section) |
+| Para | Source reference (line/context) | Destination domain/file (section) |
+|---|---|---|
+| 1 | Line ~1 — # TrialUpgradeOffer.pdf | MarketingHowTo.md (Section 2 - Ads) |
+| 2 | Context: framework/header reference to domain source | MarketingHowTo.md (Section 2 - Ads) |
+| 3 | Additional mapping to relevant HowTo/domain section required | MarketingHowTo.md / OperationsHowTo.md (relevant section) |

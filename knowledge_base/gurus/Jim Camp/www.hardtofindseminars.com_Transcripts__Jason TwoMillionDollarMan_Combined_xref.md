@@ -1,0 +1,17 @@
+# XREF — www.hardtofindseminars.com_Transcripts__Jason TwoMillionDollarMan_Combined_xref
+# Source: www.hardtofindseminars.com_Transcripts__Jason TwoMillionDollarMan_Combined.md
+# Format: | Para | Source reference (line/context) | Destination domain/file (section) |
+| Para | Source reference (line/context) | Destination domain/file (section) |
+|---|---|---|
+| 1 | Line ~1 — # Jason TwoMillionDollarMan_Combined.pdf | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) |
+| 4 | Line ~4 — For more interviews on marketing consulting go to http://www.hardtofindseminars.com | MarketingHowTo.md (relevant section) |
+| 5 | Line ~5 — © MMVII JS&M Sales & Marketing, Inc. San Diego California -Tel. 858-274-7851 | SalesHowTo.md (Section 4 - Closing/Negotiation) |
+| 7 | Line ~7 — Most people are focused on the today. Most people aren’t long-term | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) |
+| 8 | Line ~8 — thinkers and they aren’t able to map out how the future is going to unfold | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) |
+| 9 | Line ~9 — and how they’d like it to unfold. The marketers that do kind of map it out | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) |
+| 10 | Line ~10 — and plan things out and make some odds based on testing in the past—the | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) |
+| 11 | Line ~11 — marketers that do all that, the testing and create their own map of the | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) |
+| 12 | Line ~12 — future, they’re the ones that excel. | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) |
+| 16 | Line ~16 — Let’s get into it, now you told me you’ve made a couple million dollars, | MarketingHowTo.md (Section 2 - Ads) |
+| 17 | Line ~17 — built a couple million dollars worth of stuff and you’ve done it all through | HRHowTo.md (relevant section) |
+| 22 | Line ~22 — It’s amazing. All my money, I’ve paid cash for my first house. I’ve paid | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) |

@@ -1,0 +1,8 @@
+# XREF — consolidated_ads(1)_xref
+# Source: consolidated_ads(1).md
+# Format: | Para | Source reference (line/context) | Destination domain/file (section) |
+| Para | Source reference (line/context) | Destination domain/file (section) |
+|---|---|---|
+| 1 | Line ~1 — # Content from ads(1).md | MarketingHowTo.md (Section 2 - Ads) |
+| 3 | Line ~3 — ## Topic: Facebook | MarketingHowTo.md (Section 2 - Ads) |
+| 5 | Line ~5 — # ads(1).html | MarketingHowTo.md (Section 2 - Ads) |

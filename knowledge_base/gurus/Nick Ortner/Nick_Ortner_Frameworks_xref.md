@@ -1,14 +1,9 @@
-# ABC — Nick Ortner — Framework Files — Guru XREF
-# Source: Nick_Ortner_*_Framework.md (Content, Email, Facebook, Instagram, Lead, Sales, Strategy, Traffic, YouTube)
-# Format: table (para by para ordered)
-
-| Paragraph / Section | Topic / Key Phrase | Relevance to Domain | Destination (HowTo / Domain) |
-|---|---|---|---|
-| Content Framework | Content / messaging / belief work | Content marketing / mindset | MarketingHowTo.md; MindsetHowTo.md |
-| Email Framework | Email / belief / messaging | Email marketing / nurture | EmailHowTo.md; MarketingHowTo.md |
-| Facebook / Social Framework | Social / community / belief | Social media / community | SocialMediaHowTo.md; MarketingHowTo.md |
-| Instagram / Visual Framework | Visual content / belief / engagement | Visual marketing / engagement | MarketingHowTo.md; SocialMediaHowTo.md |
-| Lead / Traffic Framework | Lead generation / traffic / conversion | Funnel / traffic / leads | MarketingHowTo.md; SalesHowTo.md |
-| Sales / Strategy Framework | Sales / strategy / belief / conversion | Sales process / strategy | SalesHowTo.md; MarketingHowTo.md |
-
-Notes: HIGH relevance. Framework files cover all major marketing domains: MarketingHowTo.md, EmailHowTo.md, SocialMediaHowTo.md, SalesHowTo.md, and MindsetHowTo.md.
+# XREF — Nick_Ortner_Frameworks_xref
+# Source: Nick_Ortner_Frameworks_xref.md
+# Format: | Para | Source reference (line/context) | Destination domain/file (section) |
+| Para | Source reference (line/context) | Destination domain/file (section) |
+|---|---|---|
+| 1 | Line ~1 — # ABC — Nick Ortner — Framework Files — Guru XREF | OperationsHowTo.md / MarketingHowTo.md (relevant framework section) |
+| 2 | Line ~2 — # Source: Nick_Ortner_*_Framework.md (Content, Email, Facebook, Instagram, Lead, Sales, Strategy, Tr | OperationsHowTo.md / MarketingHowTo.md (relevant framework section) |
+| 3 | Line ~3 — # Format: table (para by para ordered) | OperationsHowTo.md / MarketingHowTo.md (relevant framework section) |
+| 14 | Line ~14 — Notes: HIGH relevance. Framework files cover all major marketing domains: MarketingHowTo.md, EmailHowTo.md, So | OperationsHowTo.md / MarketingHowTo.md (relevant framework section) |

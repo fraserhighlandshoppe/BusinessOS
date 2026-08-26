@@ -1,6 +1,8 @@
-# XREF — PerfectSalesSystem.md
-# Source guru/file: PerfectSalesSystem.md_xref.md
-# Format: table (para by para ordered)
-| Para | Source .md file line/context | Destination (HowTo/domain) | Notes |
-|---|---|---|---|
-| 1 | Line ~1 — No extractable paragraph claims in first 50 lines; manual review needed | SalesHowTo.md (Section 4 - Closing/Negotiation) | Auto-filled batch 8 |
+# XREF — PerfectSalesSystem_xref
+# Source: PerfectSalesSystem.md.md
+# Format: | Para | Source reference (line/context) | Destination domain/file (section) |
+| Para | Source reference (line/context) | Destination domain/file (section) |
+|---|---|---|
+| 1 | Source file: PerfectSalesSystem.md.md (line review needed) | SalesHowTo.md (Section 4 - Closing/Negotiation) |
+| 2 | Context: framework/header reference to domain source | SalesHowTo.md (Section 4 - Closing/Negotiation) |
+| 3 | Additional mapping to relevant HowTo/domain section required | MarketingHowTo.md / OperationsHowTo.md (relevant section) |

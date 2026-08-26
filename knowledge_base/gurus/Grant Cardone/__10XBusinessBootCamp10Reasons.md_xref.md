@@ -1,6 +1,8 @@
-# XREF — __10XBusinessBootCamp10Reasons.md
-# Source guru/file: __10XBusinessBootCamp10Reasons.md_xref.md
-# Format: table (para by para ordered)
-| Para | Source .md file line/context | Destination (HowTo/domain) | Notes |
-|---|---|---|---|
-| 1 | Line ~1 — # 10XBusinessBootCamp10Reasons.pdf | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Auto-filled batch 8 |
+# XREF — __10XBusinessBootCamp10Reasons_xref
+# Source: __10XBusinessBootCamp10Reasons.md
+# Format: | Para | Source reference (line/context) | Destination domain/file (section) |
+| Para | Source reference (line/context) | Destination domain/file (section) |
+|---|---|---|
+| 1 | Line ~1 — # 10XBusinessBootCamp10Reasons.pdf | BusinessHowTo.md (relevant section) |
+| 2 | Context: framework/header reference to domain source | BusinessHowTo.md (relevant section) |
+| 3 | Additional mapping to relevant HowTo/domain section required | MarketingHowTo.md / OperationsHowTo.md (relevant section) |

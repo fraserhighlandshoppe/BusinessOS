@@ -1,6 +1,8 @@
-# XREF — Dave_Dubeau_YouTube_Framework.md
-# Source guru: Dave Dubeau
-# Format: table (para by para ordered)
-| Para | Source .md file line/context | Destination (HowTo/domain) | Notes |
-|---|---|---|---|
-| YouTube framework | Source line/context: YouTube framework synthesized from source docs; video marketing / content / audience / branding | SocialMediaHowTo.md / MarketingHowTo.md / Content guides | YouTube / video / marketing / audience |
+# XREF — Dave_Dubeau_YouTube_Framework_xref
+# Source: Dave_Dubeau_YouTube_Framework.md.md
+# Format: | Para | Source reference (line/context) | Destination domain/file (section) |
+| Para | Source reference (line/context) | Destination domain/file (section) |
+|---|---|---|
+| 1 | Source file: Dave_Dubeau_YouTube_Framework.md.md (line review needed) | SocialMediaHowTo.md (Section 5 - YouTube) |
+| 2 | Context: framework/header reference to domain source | SocialMediaHowTo.md (Section 5 - YouTube) |
+| 3 | Additional mapping to relevant HowTo/domain section required | MarketingHowTo.md / OperationsHowTo.md (relevant section) |

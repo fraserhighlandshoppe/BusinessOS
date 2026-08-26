@@ -1,6 +1,8 @@
-# XREF — ads(1).md
-# Source guru/file: ads(1).md_xref.md
-# Format: table (para by para ordered)
-| Para | Source .md file line/context | Destination (HowTo/domain) | Notes |
-|---|---|---|---|
-| 4 | Line ~4 — AdPro Infographic DesignersDesign PickleInfographics are great and all, but how do you actually make | MarketingHowTo.md (Section 2 - Traffic/Ads) | Auto-filled batch 8 |
+# XREF — ads(1)_xref
+# Source: ads(1).md
+# Format: | Para | Source reference (line/context) | Destination domain/file (section) |
+| Para | Source reference (line/context) | Destination domain/file (section) |
+|---|---|---|
+| 1 | Line ~1 — # ads(1).html | MarketingHowTo.md (Section 2 - Ads) |
+| 4 | Line ~4 — AdPro Infographic DesignersDesign PickleInfographics are great and all, but how do you actually make one? | MarketingHowTo.md (Section 2 - Ads) |
+| 2 | Context: framework/header reference to domain source | MarketingHowTo.md (Section 2 - Ads) |

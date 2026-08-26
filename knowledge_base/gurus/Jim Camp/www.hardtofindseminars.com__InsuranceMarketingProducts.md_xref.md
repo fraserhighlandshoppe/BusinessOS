@@ -1,6 +1,8 @@
-# XREF — www.hardtofindseminars.com__InsuranceMarketingProducts.md
-# Source guru/file: www.hardtofindseminars.com__InsuranceMarketingProducts.md_xref.md
-# Format: table (para by para ordered)
-| Para | Source .md file line/context | Destination (HowTo/domain) | Notes |
-|---|---|---|---|
-| 1 | Line ~1 — # InsuranceMarketingProducts.html | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Auto-filled batch 8 |
+# XREF — www.hardtofindseminars.com__InsuranceMarketingProducts_xref
+# Source: www.hardtofindseminars.com__InsuranceMarketingProducts.md
+# Format: | Para | Source reference (line/context) | Destination domain/file (section) |
+| Para | Source reference (line/context) | Destination domain/file (section) |
+|---|---|---|
+| 1 | Line ~1 — # InsuranceMarketingProducts.html | MarketingHowTo.md (relevant section) |
+| 2 | Context: framework/header reference to domain source | MarketingHowTo.md (relevant section) |
+| 3 | Additional mapping to relevant HowTo/domain section required | MarketingHowTo.md / OperationsHowTo.md (relevant section) |

@@ -1,9 +1,8 @@
-# ABC — DigitalMarketer — 0_Brand_Branding Blueprint to build authority__InstantAuthorityFramework — XREF
+# XREF — 0_Brand_Branding Blueprint to build authority__InstantAuthorityFramework_xref
 # Source: 0_Brand_Branding Blueprint to build authority__InstantAuthorityFramework.md
-# Format: table ordered by paragraph / section
-
-| Paragraph / Section | Topic / Key Phrase | Relevance to Domain | Destination (HowTo / Domain) |
-|---|---|---|---|
-| Framework / Implementation | DigitalMarketer framework / 0_Brand_Branding Blueprint to build authority__InstantAuthorityFramework | Marketing / operations / framework / process | MarketingHowTo.md; OperationsHowTo.md; SocialMediaHowTo.md |
-
-Notes: MEDIUM-HIGH relevance. Framework file mapped to domain guides.
+# Format: | Para | Source reference (line/context) | Destination domain/file (section) |
+| Para | Source reference (line/context) | Destination domain/file (section) |
+|---|---|---|
+| 1 | Line ~1 — # InstantAuthorityFramework.pdf | MarketingHowTo.md (Section 1 - Brand/Positioning) |
+| 2 | Context: framework/header reference to domain source | MarketingHowTo.md (Section 1 - Brand/Positioning) |
+| 3 | Additional mapping to relevant HowTo/domain section required | MarketingHowTo.md / OperationsHowTo.md (relevant section) |

@@ -1,0 +1,17 @@
+# XREF — consolidated_Social-Media-Scorecards_Final_xref
+# Source: consolidated_Social-Media-Scorecards_Final.md
+# Format: | Para | Source reference (line/context) | Destination domain/file (section) |
+| Para | Source reference (line/context) | Destination domain/file (section) |
+|---|---|---|
+| 1 | Line ~1 — # Content from Social-Media-Scorecards_Final.md | SocialMediaHowTo.md (Section 2 - Social Strategy) |
+| 3 | Line ~3 — ## Topic: Sales | SocialMediaHowTo.md (Section 2 - Social Strategy) |
+| 5 | Line ~5 — # Social-Media-Scorecards_Final.pdf | SocialMediaHowTo.md (Section 2 - Social Strategy) |
+| 13 | Line ~13 — DigitalMarketer combines the largest community of | SocialMediaHowTo.md (Section 2 - Social Strategy) |
+| 14 | Line ~14 — digital marketing pros on planet Earth with the best dang | SocialMediaHowTo.md (Section 2 - Social Strategy) |
+| 15 | Line ~15 — digital marketing training you’ll find anywhere. | SocialMediaHowTo.md (Section 2 - Social Strategy) |
+| 16 | Line ~16 — We’re on a mission to double the size of 10,000 | SocialMediaHowTo.md (Section 2 - Social Strategy) |
+| 17 | Line ~17 — businesses and want to help you: | SocialMediaHowTo.md (Section 2 - Social Strategy) |
+| 21 | Line ~21 — Write Emails That Generate Clicks, | SocialMediaHowTo.md (Section 2 - Social Strategy) |
+| 24 | Line ~24 — Become the Smartest Marketer in the Room. | SocialMediaHowTo.md (Section 2 - Social Strategy) |
+| 26 | Line ~26 — DigitalMarketer Headquarters | SocialMediaHowTo.md (Section 2 - Social Strategy) |
+| 27 | Line ~27 — 4330 Gaines Ranch Loop, Suite 120 | SocialMediaHowTo.md (Section 2 - Social Strategy) |

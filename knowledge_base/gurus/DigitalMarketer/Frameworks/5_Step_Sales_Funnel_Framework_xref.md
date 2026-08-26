@@ -1,14 +1,17 @@
-# ABC — DigitalMarketer — 5 Step Sales Funnel — Guru XREF
-# Source: Frameworks/5_Step_Sales_Funnel_Framework.md
-# Format: table (para by para ordered)
-
-| Paragraph / Section | Topic / Key Phrase | Relevance to Domain | Destination (HowTo / Domain) |
-|---|---|---|---|
-| Funnel Overview | Traffic / conversion / value optimization | Core funnel / CVO | MarketingHowTo.md; SalesHowTo.md |
-| Step 1: Traffic Temperature | Cold / warm / hot audience segmentation | Audience targeting / ad strategy | MarketingHowTo.md; domains/sales/SalesHowTo.md |
-| Step 2: Entry Point Offer | Lead magnet / tripwire / core offer sequence | Offer design / product funnel | MarketingHowTo.md; domains/business/BusinessHowTo.md |
-| Step 3: Conversion Path | Landing page / sales page / checkout optimization | Conversion rate optimization | domains/web/WebConversionHowTo.md; MarketingHowTo.md |
-| Step 4: Email Nurture | Welcome series / automation / segmentation | Email automation / series | EmailHowTo.md; domains/email/BCD_Email_Marketing_Playbook_xref.md |
-| Step 5: Measurement & Scale | Metrics / A/B testing / scaling | Analytics / optimization | OperationsHowTo.md; MarketingHowTo.md |
-
-Notes: HIGH relevance. Cross-references SalesHowTo.md (conversion/funnel sections) and EmailHowTo.md (nurture/automation).
+# XREF — 5_Step_Sales_Funnel_Framework_xref
+# Source: 5_Step_Sales_Funnel_Framework.md
+# Format: | Para | Source reference (line/context) | Destination domain/file (section) |
+| Para | Source reference (line/context) | Destination domain/file (section) |
+|---|---|---|
+| 2 | Line ~2 — title: "5-Step Sales Funnel Framework" | SalesHowTo.md (Section 4 - Closing/Negotiation) |
+| 3 | Line ~3 — description: "Digital Marketer's 5-step sales funnel process with detailed implementation steps and funnel mat | SalesHowTo.md (Section 4 - Closing/Negotiation) |
+| 5 | Line ~5 — source: "Digital Marketer - Diving Deeper Into The 5-Step Sales Funnel" | SalesHowTo.md (Section 4 - Closing/Negotiation) |
+| 8 | Line ~8 — - domain:funnel-building | SalesHowTo.md (Section 4 - Closing/Negotiation) |
+| 9 | Line ~9 — - type:framework | SalesHowTo.md (Section 4 - Closing/Negotiation) |
+| 10 | Line ~10 — - confidence:high | SalesHowTo.md (Section 4 - Closing/Negotiation) |
+| 11 | Line ~11 — - skill:funnel-architecture | SalesHowTo.md (Section 4 - Closing/Negotiation) |
+| 12 | Line ~12 — - skill:5-step-funnel | SalesHowTo.md (Section 4 - Closing/Negotiation) |
+| 13 | Line ~13 — - skill:sales-funnel-math | SalesHowTo.md (Section 4 - Closing/Negotiation) |
+| 15 | Line ~15 — - Marketing | SalesHowTo.md (Section 4 - Closing/Negotiation) |
+| 16 | Line ~16 — - Sales Funnel | SalesHowTo.md (Section 4 - Closing/Negotiation) |
+| 17 | Line ~17 — - Conversion Optimization | SalesHowTo.md (Section 4 - Closing/Negotiation) |

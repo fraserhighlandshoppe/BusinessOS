@@ -1,11 +1,9 @@
-# ABC — Joe Sugarman — Small Display Ads / Seminar Brochure — Guru XREF
-# Source: SmallDisplayAds.md; smalldisplayads.md; __joe_sugarman_ad.md; __sugarman_seminar_brochure.md
-# Format: table (para by para ordered)
-
-| Paragraph / Section | Topic / Key Phrase | Relevance to Domain | Destination (HowTo / Domain) |
-|---|---|---|---|
-| Small Display Ads | Ad design / copy / display advertising | Copywriting / advertising / marketing | MarketingHowTo.md; EmailHowTo.md |
-| Seminar Brochure / Ad Copy | Brochure / seminar promotion / direct response | Direct response / promotion / event | MarketingHowTo.md; SalesHowTo.md |
-| Joe Sugarman Ad / Copy Principles | Copy / persuasion / direct response | Copywriting / conversion / sales | SalesHowTo.md; MarketingHowTo.md |
-
-Notes: HIGH relevance. Direct response / display ad copy framework relates directly to MarketingHowTo.md (copy, advertising) and SalesHowTo.md (conversion, direct response).
+# XREF — Sugarman_Small_Display_Ads_xref
+# Source: Sugarman_Small_Display_Ads_xref.md
+# Format: | Para | Source reference (line/context) | Destination domain/file (section) |
+| Para | Source reference (line/context) | Destination domain/file (section) |
+|---|---|---|
+| 1 | Line ~1 — # ABC — Joe Sugarman — Small Display Ads / Seminar Brochure — Guru XREF | MarketingHowTo.md (Section 2 - Ads) |
+| 2 | Line ~2 — # Source: SmallDisplayAds.md; smalldisplayads.md; __joe_sugarman_ad.md; __sugarman_seminar_brochure. | MarketingHowTo.md (Section 2 - Ads) |
+| 3 | Line ~3 — # Format: table (para by para ordered) | MarketingHowTo.md (Section 2 - Ads) |
+| 11 | Line ~11 — Notes: HIGH relevance. Direct response / display ad copy framework relates directly to MarketingHowTo.md (copy | MarketingHowTo.md (Section 2 - Ads) |

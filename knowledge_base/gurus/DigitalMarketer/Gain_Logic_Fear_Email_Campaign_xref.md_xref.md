@@ -1,6 +1,8 @@
-# XREF — Gain_Logic_Fear_Email_Campaign_xref.md
-# Source guru/file: Gain_Logic_Fear_Email_Campaign_xref.md_xref.md
-# Format: table (para by para ordered)
-| Para | Source .md file line/context | Destination (HowTo/domain) | Notes |
-|---|---|---|---|
-| 1 | Line ~1 — No extractable paragraph claims in first 50 lines; manual review needed | EmailHowTo.md (Section 3 - Sequences) | Auto-filled batch 8 |
+# XREF — Gain_Logic_Fear_Email_Campaign_xref_xref
+# Source: Gain_Logic_Fear_Email_Campaign_Framework.md_xref.md
+# Format: | Para | Source reference (line/context) | Destination domain/file (section) |
+| Para | Source reference (line/context) | Destination domain/file (section) |
+|---|---|---|
+| 1 | Line ~1 — # XREF — Gain_Logic_Fear_Email_Campaign_Framework.md | EmailHowTo.md (Section 3 - Email Sequences) |
+| 2 | Line ~2 — # Source guru: DigitalMarketer | EmailHowTo.md (Section 3 - Email Sequences) |
+| 3 | Line ~3 — # Format: table (para by para ordered) | EmailHowTo.md (Section 3 - Email Sequences) |

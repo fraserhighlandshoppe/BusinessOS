@@ -1,6 +1,8 @@
-# XREF — Dave_Dubeau_Traffic_Framework.md
-# Source guru: Dave Dubeau
-# Format: table (para by para ordered)
-| Para | Source .md file line/context | Destination (HowTo/domain) | Notes |
-|---|---|---|---|
-| Traffic framework | Source line/context: Traffic framework synthesized from source docs; traffic generation / marketing / audience / lead flow | MarketingHowTo.md / OperationsHowTo.md | Traffic / audience / lead flow |
+# XREF — Dave_Dubeau_Traffic_Framework_xref
+# Source: Dave_Dubeau_Traffic_Framework.md.md
+# Format: | Para | Source reference (line/context) | Destination domain/file (section) |
+| Para | Source reference (line/context) | Destination domain/file (section) |
+|---|---|---|
+| 1 | Source file: Dave_Dubeau_Traffic_Framework.md.md (line review needed) | MarketingHowTo.md (Section 2 - Traffic/Ads) |
+| 2 | Context: framework/header reference to domain source | MarketingHowTo.md (Section 2 - Traffic/Ads) |
+| 3 | Additional mapping to relevant HowTo/domain section required | MarketingHowTo.md / OperationsHowTo.md (relevant section) |

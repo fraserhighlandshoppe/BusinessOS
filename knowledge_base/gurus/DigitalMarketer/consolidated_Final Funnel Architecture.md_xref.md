@@ -1,6 +1,8 @@
-# XREF — consolidated_Final Funnel Architecture.md
-# Source guru/file: consolidated_Final Funnel Architecture.md_xref.md
-# Format: table (para by para ordered)
-| Para | Source .md file line/context | Destination (HowTo/domain) | Notes |
-|---|---|---|---|
-| 1 | Line ~1 — No extractable paragraph claims in first 50 lines; manual review needed | MarketingHowTo.md (Section 5 - Funnels) | Auto-filled batch 8 |
+# XREF — consolidated_Final Funnel Architecture_xref
+# Source: consolidated_Final Funnel Architecture.md.md
+# Format: | Para | Source reference (line/context) | Destination domain/file (section) |
+| Para | Source reference (line/context) | Destination domain/file (section) |
+|---|---|---|
+| 1 | Source file: consolidated_Final Funnel Architecture.md.md (line review needed) | MarketingHowTo.md (Section 5 - Funnels) |
+| 2 | Context: framework/header reference to domain source | MarketingHowTo.md (Section 5 - Funnels) |
+| 3 | Additional mapping to relevant HowTo/domain section required | MarketingHowTo.md / OperationsHowTo.md (relevant section) |

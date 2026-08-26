@@ -1,9 +1,8 @@
-# ABC — Christian Mickelsen — GetClients — XREF
+# XREF — GetClients_xref
 # Source: GetClients.md
-# Format: table ordered by paragraph / section
-
-| Paragraph / Section | Topic / Key Phrase | Relevance to Domain | Destination (HowTo / Domain) |
-|---|---|---|---|
-| Intro / Framework | Get clients / client attraction / framework / sales process | Client attraction / marketing / sales / mindset / pricing | SalesHowTo.md; MarketingHowTo.md; OperationsHowTo.md |
-
-Notes: MEDIUM-HIGH relevance. Client attraction / mindset / pricing framework maps to domain guides.
+# Format: | Para | Source reference (line/context) | Destination domain/file (section) |
+| Para | Source reference (line/context) | Destination domain/file (section) |
+|---|---|---|
+| 1 | Line ~1 — # GetClients.pdf | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) |
+| 2 | Context: framework/header reference to domain source | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) |
+| 3 | Additional mapping to relevant HowTo/domain section required | MarketingHowTo.md / OperationsHowTo.md (relevant section) |

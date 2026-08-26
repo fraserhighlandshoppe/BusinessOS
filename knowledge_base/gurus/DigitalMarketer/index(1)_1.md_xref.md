@@ -1,6 +1,8 @@
-# XREF — index(1)_1.md
-# Source guru/file: index(1)_1.md_xref.md
-# Format: table (para by para ordered)
-| Para | Source .md file line/context | Destination (HowTo/domain) | Notes |
-|---|---|---|---|
-| 5 | Line ~5 — Like This & Want More? Enter your email address and you'll join 700,000 other digital marketers gett | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Auto-filled batch 8 |
+# XREF — index(1)_1_xref
+# Source: index(1)_1.md
+# Format: | Para | Source reference (line/context) | Destination domain/file (section) |
+| Para | Source reference (line/context) | Destination domain/file (section) |
+|---|---|---|
+| 1 | Line ~1 — # index(1).html | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) |
+| 2 | Context: framework/header reference to domain source | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) |
+| 3 | Additional mapping to relevant HowTo/domain section required | MarketingHowTo.md / OperationsHowTo.md (relevant section) |

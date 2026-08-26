@@ -1,6 +1,8 @@
-# XREF — 21 Day Launch__napkinproject_worksheet2.md
-# Source guru/file: 21 Day Launch__napkinproject_worksheet2.md_xref.md
-# Format: table (para by para ordered)
-| Para | Source .md file line/context | Destination (HowTo/domain) | Notes |
-|---|---|---|---|
-| 1 | Line ~1 — # napkinproject_worksheet2.pdf | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Auto-filled batch 8 |
+# XREF — 21 Day Launch__napkinproject_worksheet2_xref
+# Source: 21 Day Launch__napkinproject_worksheet2.md
+# Format: | Para | Source reference (line/context) | Destination domain/file (section) |
+| Para | Source reference (line/context) | Destination domain/file (section) |
+|---|---|---|
+| 1 | Line ~1 — # napkinproject_worksheet2.pdf | MarketingHowTo.md (Section 5 - Launch) |
+| 2 | Context: framework/header reference to domain source | MarketingHowTo.md (Section 5 - Launch) |
+| 3 | Additional mapping to relevant HowTo/domain section required | MarketingHowTo.md / OperationsHowTo.md (relevant section) |

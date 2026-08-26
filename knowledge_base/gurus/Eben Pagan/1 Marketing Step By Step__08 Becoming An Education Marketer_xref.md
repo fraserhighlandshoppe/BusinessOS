@@ -1,10 +1,17 @@
-# XREF — 08 Becoming An Education Marketer.md Tracking
-# Source file: 1 Marketing Step By Step__08 Becoming An Education Marketer.md
-
-| Para | Source reference (line/section) | Destination domain/file (para/section) |
+# XREF — 1 Marketing Step By Step__08 Becoming An Education Marketer_xref
+# Source: 1 Marketing Step By Step__08 Becoming An Education Marketer.md
+# Format: | Para | Source reference (line/context) | Destination domain/file (section) |
+| Para | Source reference (line/context) | Destination domain/file (section) |
 |---|---|---|
-| 1 | Uneducated prospects; educate to build credibility (line 5-8) | MarketingHowTo.md Section 6; Education Marketing.md Section 1 |
-| 2 | Education must lead to sale (line 8) | MarketingHowTo.md Section 6.1; SalesHowTo.md Section 5 |
-| 3 | Dangerous misinformation (line 10-11) | MarketingHowTo.md Section 6.2; Customer Avatar Guide.md Section 3 |
-| 4 | Information creating urgency (line 13-14) | MarketingHowTo.md Section 6.3; EmailHowTo.md Section 4 |
-| 5 | Educational materials that educate and sell (line 16-17) | Content Marketing.md Section 2; MarketingHowTo.md Section 6.4 |
+| 1 | Line ~1 — # 08 Becoming An Education Marketer.pdf | MarketingHowTo.md (relevant section) |
+| 4 | Line ~4 — Becoming An Education Marketer | MarketingHowTo.md (relevant section) |
+| 5 | Line ~5 — Most Prospective Customers are relatively uneducated about how to solve their challenges in the best way. One  | MarketingHowTo.md (relevant section) |
+| 6 | Line ~6 — credibility and trust... as well as create motivation in your prospects and advantage for yourself... is to ED | MarketingHowTo.md (relevant section) |
+| 7 | Line ~7 — Market and Sell. The key to using Education successfully in your Marketing is to make sure that the education  | MarketingHowTo.md (relevant section) |
+| 8 | Line ~8 — delivering leads to a sale - not just to more knowledge. | MarketingHowTo.md (relevant section) |
+| 10 | Line ~10 — Where does my Prospective Customer have mis-information or lack | MarketingHowTo.md (relevant section) |
+| 11 | Line ~11 — of information that is DANGEROUS to them? | MarketingHowTo.md (relevant section) |
+| 13 | Line ~13 — What information, if my Prospective Customer were to learn it, would | MarketingHowTo.md (relevant section) |
+| 14 | Line ~14 — help them see how important it is to solve their challenge NOW instead of waiting? | MarketingHowTo.md (relevant section) |
+| 16 | Line ~16 — What types of educational materials can I create that would both | MarketingHowTo.md (relevant section) |
+| 17 | Line ~17 — educate and sell my products and services? | MarketingHowTo.md (relevant section) |

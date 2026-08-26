@@ -1,12 +1,17 @@
-# ABC — 101 Best Email Subject Lines Framework — Guru XREF
+# XREF — 101_Best_Email_Subject_Lines_xref
 # Source: 101_Best_Email_Subject_Lines_Framework.md
-# Table format, ordered by paragraph. References domain and HowTo.
-
-| Paragraph / Section | Topic / Key Phrase | Relevance to Email | XREF to Domain / HowTo |
-|---|---|---|---|
-| Para 1-6 (front matter) | Framework title / tags (email, subject-lines, copywriting, engagement) | Core framework definition; relates directly to domain Email Marketing Playbook.md | domains/email/BCD_Email_Marketing_Playbook_xref.md; EmailHowTo.md |
-| Para 14-18 (Implementation) | Implementation Sequence (Review, A/B Test, Measure, Iterate) | Direct operational steps; relates to domain Amplify.md A/B testing and Automation.md metrics | domains/email/BCD_Automation_xref.md; BCD_Amplify_Your_Email_Marketing_xref.md; EmailHowTo.md |
-| Para 20-23 (Key Principles) | Relevance, Personalization, Urgency | Principles mapped in Email Playbook emotional triggers and cold email best practices | domains/email/BCD_Email_Marketing_Playbook_xref.md; BCD_Cold_Email_Marketing_xref.md |
-| Para 25-28 (Metrics) | Open rate, Click-through, Revenue Lift | Metrics align with Automation.md targets and Ultimate Email Marketing Metrics framework | domains/email/BCD_Automation_xref.md; EmailHowTo.md |
-
-Notes: HIGH relevance. Do not modify EmailHowTo.md. Cross-references Automation and Series frameworks.
+# Format: | Para | Source reference (line/context) | Destination domain/file (section) |
+| Para | Source reference (line/context) | Destination domain/file (section) |
+|---|---|---|
+| 4 | Line ~4 — framework_title: "101 Best Email Subject Lines 2015" | EmailHowTo.md (Section 3 - Email Sequences) |
+| 5 | Line ~5 — author: "Digital Marketer Team" | EmailHowTo.md (Section 3 - Email Sequences) |
+| 7 | Line ~7 — maintained_by: "BusinessOS Team" | EmailHowTo.md (Section 3 - Email Sequences) |
+| 9 | Line ~9 — - [[Email_Marketing_Automation_Framework]] | EmailHowTo.md (Section 3 - Email Sequences) |
+| 10 | Line ~10 — - [[Email_Marketing_Series_Framework]] | EmailHowTo.md (Section 3 - Email Sequences) |
+| 11 | Line ~11 — tags: [email, subject-lines, copywriting, engagement] | EmailHowTo.md (Section 3 - Email Sequences) |
+| 14 | Line ~14 — ## Implementation Sequence: | EmailHowTo.md (Section 3 - Email Sequences) |
+| 15 | Line ~15 — 1. **Review Top 101 Lines** – Categorize by intent (sales, engagement, urgency). | EmailHowTo.md (Section 3 - Email Sequences) |
+| 16 | Line ~16 — 2. **Test in Campaign** – Run A/B tests across segments. | EmailHowTo.md (Section 3 - Email Sequences) |
+| 17 | Line ~17 — 3. **Measure Results** – Track open rates, click‑through rates, conversions. | EmailHowTo.md (Section 3 - Email Sequences) |
+| 18 | Line ~18 — 4icions.**Iterate** – Refine based on data. | EmailHowTo.md (Section 3 - Email Sequences) |
+| 20 | Line ~20 — ## Key Principles | EmailHowTo.md (Section 3 - Email Sequences) |

@@ -1,6 +1,8 @@
-# XREF — Customer Value Journey__BeforeAfterGrid-FINAL.md
-# Source guru/file: Customer Value Journey__BeforeAfterGrid-FINAL.md_xref.md
-# Format: table (para by para ordered)
-| Para | Source .md file line/context | Destination (HowTo/domain) | Notes |
-|---|---|---|---|
-| 1 | Line ~1 — # BeforeAfterGrid-FINAL.pdf | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Auto-filled batch 8 |
+# XREF — Customer Value Journey__BeforeAfterGrid-FINAL_xref
+# Source: Customer Value Journey__BeforeAfterGrid-FINAL.md
+# Format: | Para | Source reference (line/context) | Destination domain/file (section) |
+| Para | Source reference (line/context) | Destination domain/file (section) |
+|---|---|---|
+| 1 | Line ~1 — # BeforeAfterGrid-FINAL.pdf | MarketingHowTo.md (Section 1 - Customer Avatar) |
+| 2 | Context: framework/header reference to domain source | MarketingHowTo.md (Section 1 - Customer Avatar) |
+| 3 | Additional mapping to relevant HowTo/domain section required | MarketingHowTo.md / OperationsHowTo.md (relevant section) |

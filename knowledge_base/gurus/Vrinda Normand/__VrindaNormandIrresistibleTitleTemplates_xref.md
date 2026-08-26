@@ -1,9 +1,8 @@
-# ABC — Vrinda Normand — Irresistible Title Templates — XREF
+# XREF — __VrindaNormandIrresistibleTitleTemplates_xref
 # Source: __VrindaNormandIrresistibleTitleTemplates.md
-# Format: table ordered by paragraph / section
-
-| Paragraph / Section | Topic / Key Phrase | Relevance to Domain | Destination (HowTo / Domain) |
-|---|---|---|---|
-| Title / Template | Irresistible title templates / marketing titles / copy | Marketing copy / titles / email / content | MarketingHowTo.md; EmailHowTo.md |
-
-Notes: LOW relevance (minimal content). Title framework for MarketingHowTo.md and EmailHowTo.md.
+# Format: | Para | Source reference (line/context) | Destination domain/file (section) |
+| Para | Source reference (line/context) | Destination domain/file (section) |
+|---|---|---|
+| 1 | Line ~1 — # VrindaNormandIrresistibleTitleTemplates.pdf | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) |
+| 2 | Context: framework/header reference to domain source | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) |
+| 3 | Additional mapping to relevant HowTo/domain section required | MarketingHowTo.md / OperationsHowTo.md (relevant section) |

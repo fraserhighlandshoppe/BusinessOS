@@ -1,11 +1,17 @@
-# ABC — Email Marketing Series Framework — Guru XREF
+# XREF — Email_Marketing_Series_xref
 # Source: Email_Marketing_Series_Framework.md
-# Table format, ordered by paragraph. References domain and HowTo.
-
-| Paragraph / Section | Topic / Key Phrase | Relevance to Email | XREF to Domain / HowTo |
-|---|---|---|---|
-| Para 1-6 (front matter) | Framework title / tags (domain:email-marketing, type:framework) | Defines series framework; relates to domain Welcome Series.md and Email Playbook.md | domains/email/BCD_Welcome_Series_xref.md; BCD_Email_Marketing_Playbook_xref.md; EmailHowTo.md |
-| Para 14-20 (Core Philosophy / Fundamentals) | Email remains powerful channel; integrates 101 Subject Lines and White Labeling Guide | Philosophy supporting all email framework applications; relates to domain Amplify.md tools and Email Playbook.md | domains/email/BCD_Amplify_Your_Email_Marketing_xref.md; BCD_Email_Marketing_Playbook_xref.md |
-| Para 20-28 (Fundamentals sections) | Email Marketing Fundamentals / Implementation sequence | Direct operational guide; relates to domain Automation.md sequence setup and Welcome Series.md timing | domains/email/BCD_Automation_xref.md; BCD_Welcome_Series_xref.md; EmailHowTo.md |
-
-Notes: HIGH relevance. Series framework connects automation, welcome series, and playbook execution. Do not modify EmailHowTo.md.
+# Format: | Para | Source reference (line/context) | Destination domain/file (section) |
+| Para | Source reference (line/context) | Destination domain/file (section) |
+|---|---|---|
+| 2 | Line ~2 — title: "Email Marketing Series Framework" | EmailHowTo.md (Section 3 - Email Sequences) |
+| 3 | Line ~3 — description: "Comprehensive email marketing strategy framework using Digital Marketer's 101 Email Subject Line | EmailHowTo.md (Section 3 - Email Sequences) |
+| 4 | Line ~4 — author: "Justin Rondeau / Fraser Highland" | EmailHowTo.md (Section 3 - Email Sequences) |
+| 5 | Line ~5 — source: "Digital Marketer Email Subject Lines Series & Email White Labeling Guide" | EmailHowTo.md (Section 3 - Email Sequences) |
+| 8 | Line ~8 — - domain:email-marketing | EmailHowTo.md (Section 3 - Email Sequences) |
+| 9 | Line ~9 — - type:framework | EmailHowTo.md (Section 3 - Email Sequences) |
+| 10 | Line ~10 — - confidence:high | EmailHowTo.md (Section 3 - Email Sequences) |
+| 11 | Line ~11 — - skill:email-copywriting | EmailHowTo.md (Section 3 - Email Sequences) |
+| 12 | Line ~12 — - skill:list-management | EmailHowTo.md (Section 3 - Email Sequences) |
+| 13 | Line ~13 — - skill:deliverability | EmailHowTo.md (Section 3 - Email Sequences) |
+| 14 | Line ~14 — - legacy:2015-series | EmailHowTo.md (Section 3 - Email Sequences) |
+| 16 | Line ~16 — - Marketing | EmailHowTo.md (Section 3 - Email Sequences) |

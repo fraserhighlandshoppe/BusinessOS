@@ -1,6 +1,8 @@
-# XREF — consolidated_10-Point-LinkedIn-Audit (1).md
-# Source guru/file: consolidated_10-Point-LinkedIn-Audit (1).md_xref.md
-# Format: table (para by para ordered)
-| Para | Source .md file line/context | Destination (HowTo/domain) | Notes |
-|---|---|---|---|
-| 1 | Line ~1 — No extractable paragraph claims in first 50 lines; manual review needed | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Auto-filled batch 8 |
+# XREF — consolidated_10-Point-LinkedIn-Audit (1)_xref
+# Source: consolidated_10-Point-LinkedIn-Audit (1).md.md
+# Format: | Para | Source reference (line/context) | Destination domain/file (section) |
+| Para | Source reference (line/context) | Destination domain/file (section) |
+|---|---|---|
+| 1 | Source file: consolidated_10-Point-LinkedIn-Audit (1).md.md (line review needed) | LinkedInHowTo.md (Section 2 - Profile/Outreach) |
+| 2 | Context: framework/header reference to domain source | LinkedInHowTo.md (Section 2 - Profile/Outreach) |
+| 3 | Additional mapping to relevant HowTo/domain section required | MarketingHowTo.md / OperationsHowTo.md (relevant section) |

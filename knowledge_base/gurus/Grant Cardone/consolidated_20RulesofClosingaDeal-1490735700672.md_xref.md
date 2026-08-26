@@ -1,6 +1,8 @@
-# XREF — consolidated_20RulesofClosingaDeal-1490735700672.md
-# Source guru/file: consolidated_20RulesofClosingaDeal-1490735700672.md_xref.md
-# Format: table (para by para ordered)
-| Para | Source .md file line/context | Destination (HowTo/domain) | Notes |
-|---|---|---|---|
-| 1 | Line ~1 — No extractable paragraph claims in first 50 lines; manual review needed | SalesHowTo.md (Section 4 - Closing/Negotiation) | Auto-filled batch 8 |
+# XREF — consolidated_20RulesofClosingaDeal-1490735700672_xref
+# Source: consolidated_20RulesofClosingaDeal-1490735700672.md.md
+# Format: | Para | Source reference (line/context) | Destination domain/file (section) |
+| Para | Source reference (line/context) | Destination domain/file (section) |
+|---|---|---|
+| 1 | Source file: consolidated_20RulesofClosingaDeal-1490735700672.md.md (line review needed) | SalesHowTo.md (Section 4 - Closing) |
+| 2 | Context: framework/header reference to domain source | SalesHowTo.md (Section 4 - Closing) |
+| 3 | Additional mapping to relevant HowTo/domain section required | MarketingHowTo.md / OperationsHowTo.md (relevant section) |

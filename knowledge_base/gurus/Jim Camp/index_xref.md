@@ -1,8 +1,8 @@
-# XREF — Jim Camp index.md Tracking
-# Source guru: Jim Camp (knowledge_base/gurus/Jim Camp/)
-# Destination: SalesHowTo.md + domain/sales/ files
-# Relevance: Low — Articulate Presenter copyright page; no sales content
-
-| Para | Source reference (line/section) | Destination domain/file (para/section) |
+# XREF — index_xref
+# Source: index.md
+# Format: | Para | Source reference (line/context) | Destination domain/file (section) |
+| Para | Source reference (line/context) | Destination domain/file (section) |
 |---|---|---|
-| 1 | index.md Articulate Presenter copyright | None — no sales mapping |
+| 1 | Line ~1 — # index.html | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) |
+| 6 | Line ~6 — © 2003 Articulate Global, Inc. All rights reserved. | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) |
+| 7 | Line ~7 — Visit us on the Web at www.ArticulateGlobal.com. | WebConversionHowTo.md (Section 2 - Web Strategy) |

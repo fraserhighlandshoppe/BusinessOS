@@ -1,18 +1,17 @@
-# ABC — Greg Habstritt — Authority Formula — XREF
+# XREF — Authority Formula  - Greg Hasbrit_xref
 # Source: Authority Formula  - Greg Hasbrit.md
-# Format: table (para ordered by paragraph / section)
-
-| Paragraph / Section | Topic / Key Phrase | Relevance to Domain | Destination (HowTo / Domain) |
-|---|---|---|---|
-| Intro / DNA Detector | Success DNA / 5 markers (Family, Happiness, Fairness, Creativity, Freedom) | Mindset / values alignment | MindsetHowTo.md; OperationsHowTo.md |
-| Module 1 (Prepare) | Authority mindset / genius / profile / 4 obstacles | Leadership / preparation / mindset | MindsetHowTo.md; OperationsHowTo.md |
-| Module 2 (Position) | Authentic vulnerability / credibility cluster / story of authority | Brand / positioning / storytelling | MarketingHowTo.md; Brand framework |
-| Module 3 (Story) | Kryptonite story / public persona / positioning triad | Brand / messaging / marketing | MarketingHowTo.md; SalesHowTo.md |
-| Module 4 (Audience) | Ideal audience / market evaluation / value creation questions | Customer avatar / targeting / research | MarketingHowTo.md; SalesHowTo.md |
-| Module 5 (Package) | Create new category / co-creation / outcomes not hours | Offer design / productization | BusinessHowTo.md; OperationsHowTo.md |
-| Module 6 (Price) | Visibility / accessibility / bundle / purchase chain / guarantee | Pricing / negotiation / value | SalesHowTo.md; OperationsHowTo.md |
-| Module 7 (Product) | Rapid product creation / knowledge products / testing | Content / product creation | MarketingHowTo.md; OperationsHowTo.md |
-| Module 8-10 (Marketing) | Intimate conversations / conversation piece / authority model / social media | Marketing / traffic / engagement | MarketingHowTo.md; SocialMediaHowTo.md |
-| Module 11-12 (Prosper) | HBAs / leverage / outsourcing / affiliate / team | Productivity / scaling / team | OperationsHowTo.md; HRHowTo.md |
-
-Notes: HIGH relevance. Authority framework maps to MarketingHowTo.md (positioning, brand), SalesHowTo.md (pricing, offer), MindsetHowTo.md (DNA, obstacles), OperationsHowTo.md (systems, productivity), HRHowTo.md (team).
+# Format: | Para | Source reference (line/context) | Destination domain/file (section) |
+| Para | Source reference (line/context) | Destination domain/file (section) |
+|---|---|---|
+| 1 | Line ~1 — # Authority Formula  - Greg Hasbrit.pdf | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) |
+| 4 | Line ~4 — S u c c e s s D N A D e t e c t o r Q u i z \|\| B r o u g h t t o y o u b y E n g a g e d E n t r e p r e n e | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) |
+| 21 | Line ~21 — Thank you for completing the Success DNA Detector! | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) |
+| 22 | Line ~22 — Based on the selections that you made, your Personal " 5 S u c c e s s Markers' | MarketingHowTo.md (Section 2 - Ads) |
+| 31 | Line ~31 — Being with family - both quality and quantity of | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) |
+| 36 | Line ~36 — Good fortune, pleasure, contentment, joy | MarketingHowTo.md (Section 2 - Content) |
+| 40 | Line ~40 — Treating people and being treated equally, | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) |
+| 41 | Line ~41 — equitable, moral T i g h t n e s s | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) |
+| 45 | Line ~45 — Being imaginative, innovative, inventive, | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) |
+| 50 | Line ~50 — Able to move about without bounds or restraints, | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) |
+| 54 | Line ~54 — What this exercise has done is reveal to you the underlying v a l u e s that h a v e a | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) |
+| 55 | Line ~55 — great deal of influence on the decisions you m a k e . | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) |

@@ -1,16 +1,17 @@
-# ABC — Eben Pagan Email Framework — Guru XREF
-# Source: Eben_Pagan_Email_Framework.md (118 synthesized source docs)
-# Table format, ordered by paragraph. References domain and HowTo (not modified).
-
-| Paragraph / Section | Topic / Key Phrase | Relevance to Email | XREF to Domain / HowTo |
-|---|---|---|---|
-| Para 1-5 (Title / Source count) | 118 source docs synthesized; framework summary file | Confirms framework synthesis scope; relates to all domain email files processed | domains/email/*.md; EmailHowTo.md |
-| Para 6-124 (Source file list) | Source docs spanning Dating, Marketing Step By Step, Digital Product Blueprint, Virtual CEO, Traffic Intensive, Marketing Mindsets, Copywriting, Content Summit, Ignition, etc. | Source diversity shows framework integrates customer avatar, product sequencing, content frameworks, copy, traffic, and launch — all relevant to email execution | domains/marketing/BCD_Customer_Avatar_Template_xref.md; BCD_DM_21_Day_Launch_xref.md; domains/email/BCD_Email_Marketing_Playbook_xref.md; EmailHowTo.md |
-| Para 125-189 (Key Concepts & Frameworks) | 10-step curriculum / system, 10x10x4 Formula, Launch Formula, Product Blueprint, Marketing Strategy, Basic Framework, Building System, etc. | Core frameworks support email automation design and series creation; relates to Email Marketing Automation and Series framework files | guru: Email_Marketing_Automation_Framework.md; Email_Marketing_Series_Framework.md; EmailHowTo.md |
-| Para 317-344 (Actionable Insights) | Launch event / conversation building, affiliate partners, content partners, webinar/interview design | Launch insights relate to launch framework and welcome/engagement series; relates to domain Launch.md and Welcome Series.md | domains/marketing/BCD_DM_21_Day_Launch_xref.md; domains/email/BCD_Welcome_Series_xref.md; EmailHowTo.md |
-| Para 317-334 (Sample Subject Line / Numbers Plus 1 / Power Headlines formulas) | Subject line formulas, headline formulas, emotional triggers (Gain/Logic/Fear patterns embedded in content) | Direct overlap with 101 Best Subject Lines and Gain-Logic-Fear framework; relates to Email Playbook.md emotional triggers | domains/email/BCD_Email_Marketing_Playbook_xref.md; guru: 101_Best_Email_Subject_Lines_Framework.md; Gain_Logic_Fear_Email_Campaign_Framework.md |
-| Para 495-533 (Email Marketing / Autoresponders / Surveys / Metrics / Q&A Events) | Email campaigns / autoresponders / surveys / metrics / Q&A events | Direct mapping to automation framework (indoctrination, engagement, metrics) and domain Automation.md / Segments.md / Amplify.md | domains/email/BCD_Automation_xref.md; BCD_Segments_xref.md; BCD_Amplify_Your_Email_Marketing_xref.md |
-| Para 779-846 (5 Step Fast-Start / Customer Avatar / Offer / Follow-up) | Customer Avatar identification, Free Line / opt-in, follow-up sequence based on emotional needs, 3-step sequence | Direct match to Email Playbook.md follow-up checklist, Welcome Series.md 3-email flow, and Customer Avatar Template.md | domains/email/BCD_Email_Marketing_Playbook_xref.md; BCD_Welcome_Series_xref.md; domains/marketing/BCD_Customer_Avatar_Template_xref.md; EmailHowTo.md |
-| Para 847-1017 (Content / Email / Social / Video / Blog / Frameworks / Tools) | Email as content application; framework-based content creation; video → audio → text repurposing | Content strategy relates to email series framework (content planning, serialization) and Amplify.md content creation | guru: Email_Marketing_Series_Framework.md; domains/email/BCD_Amplify_Your_Email_Marketing_xref.md; EmailHowTo.md |
-
-Notes: HIGH relevance. This synthesized framework connects all email-related guru sources. Processed framework summary file as instructed. Do not modify EmailHowTo.md.
+# XREF — Eben_Pagan_Email_Framework_xref
+# Source: Eben_Pagan_Email_Framework.md
+# Format: | Para | Source reference (line/context) | Destination domain/file (section) |
+| Para | Source reference (line/context) | Destination domain/file (section) |
+|---|---|---|
+| 1 | Line ~1 — # Eben Pagan - Email Framework | EmailHowTo.md (Section 3 - Email Sequences) |
+| 3 | Line ~3 — ## Source Files Analyzed | EmailHowTo.md (Section 3 - Email Sequences) |
+| 4 | Line ~4 — This framework was synthesized from 118 source documents: | EmailHowTo.md (Section 3 - Email Sequences) |
+| 6 | Line ~6 — - `Dating Younger Women l Meeting Younger Women l Approaching Younger Women l Approaching Younger Women.md` (E | EmailHowTo.md (Section 3 - Email Sequences) |
+| 7 | Line ~7 — - `How to Attract Women - How to Meet Women.md` (Eben Pagan/How to Attract Women - How to Meet Women.md) | EmailHowTo.md (Section 3 - Email Sequences) |
+| 8 | Line ~8 — - `OPPORTUNITY By Eben Pagan.md` (Eben Pagan/OPPORTUNITY By Eben Pagan.md) | EmailHowTo.md (Section 3 - Email Sequences) |
+| 9 | Line ~9 — - `The Virtual CEO 7 Modules Summary.md` (Eben Pagan/The Virtual CEO 7 Modules Summary.md) | EmailHowTo.md (Section 3 - Email Sequences) |
+| 10 | Line ~10 — - `Info Product 06 How To Create A Piece Of Content.md` (Eben Pagan/How To Create Information Products/Info Pr | EmailHowTo.md (Section 3 - Email Sequences) |
+| 11 | Line ~11 — - `innercircle_yoursystems_summary08.md` (Eben Pagan/Inner Circle/Systems/innercircle_yoursystems_summary08.md | EmailHowTo.md (Section 3 - Email Sequences) |
+| 12 | Line ~12 — - `innercircle_yoursystems_summary06.md` (Eben Pagan/Inner Circle/Systems/innercircle_yoursystems_summary06.md | EmailHowTo.md (Section 3 - Email Sequences) |
+| 13 | Line ~13 — - `innercircle_yoursystems_summary04.md` (Eben Pagan/Inner Circle/Systems/innercircle_yoursystems_summary04.md | EmailHowTo.md (Section 3 - Email Sequences) |
+| 14 | Line ~14 — - `innercircle_yourmarket_summary02.md` (Eben Pagan/Inner Circle/Your Market/innercircle_yourmarket_summary02. | EmailHowTo.md (Section 3 - Email Sequences) |

@@ -1,6 +1,8 @@
-# XREF — ads(2).md
-# Source guru/file: ads(2).md_xref.md
-# Format: table (para by para ordered)
-| Para | Source .md file line/context | Destination (HowTo/domain) | Notes |
-|---|---|---|---|
-| 4 | Line ~4 — How to Start a Blog 2019Start your first blog today in 3 easy steps. Have a blog in 20 minutes. The  | MarketingHowTo.md (Section 2 - Traffic/Ads) | Auto-filled batch 8 |
+# XREF — ads(2)_xref
+# Source: ads(2).md
+# Format: | Para | Source reference (line/context) | Destination domain/file (section) |
+| Para | Source reference (line/context) | Destination domain/file (section) |
+|---|---|---|
+| 1 | Line ~1 — # ads(2).html | MarketingHowTo.md (Section 2 - Ads) |
+| 4 | Line ~4 — How to Start a Blog 2019Start your first blog today in 3 easy steps. Have a blog in 20 minutes. The Blog Start | MarketingHowTo.md (Section 2 - Ads) |
+| 2 | Context: framework/header reference to domain source | MarketingHowTo.md (Section 2 - Ads) |

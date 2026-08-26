@@ -1,7 +1,8 @@
-# XREF — Dave_Dubeau_Lead_Framework.md
-# Source guru: Dave Dubeau
-# Format: table (para by para ordered)
-| Para | Source .md file line/context | Destination (HowTo/domain) | Notes |
-|---|---|---|---|
-| 1 | Line 4: Lead framework synthesized from 35 source docs; lead generation / acquisition / marketing | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md | Lead framework / acquisition / marketing |
-|---|---|---|---|
+# XREF — Dave_Dubeau_Lead_Framework_xref
+# Source: Dave_Dubeau_Lead_Framework.md.md
+# Format: | Para | Source reference (line/context) | Destination domain/file (section) |
+| Para | Source reference (line/context) | Destination domain/file (section) |
+|---|---|---|
+| 1 | Source file: Dave_Dubeau_Lead_Framework.md.md (line review needed) | MarketingHowTo.md (Section 3 - Lead Gen) |
+| 2 | Context: framework/header reference to domain source | MarketingHowTo.md (Section 3 - Lead Gen) |
+| 3 | Additional mapping to relevant HowTo/domain section required | MarketingHowTo.md / OperationsHowTo.md (relevant section) |

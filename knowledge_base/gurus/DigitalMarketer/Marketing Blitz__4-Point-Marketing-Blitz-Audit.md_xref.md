@@ -1,6 +1,8 @@
-# XREF — Marketing Blitz__4-Point-Marketing-Blitz-Audit.md
-# Source guru/file: Marketing Blitz__4-Point-Marketing-Blitz-Audit.md_xref.md
-# Format: table (para by para ordered)
-| Para | Source .md file line/context | Destination (HowTo/domain) | Notes |
-|---|---|---|---|
-| 1 | Line ~1 — # 4-Point-Marketing-Blitz-Audit.pdf | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Auto-filled batch 8 |
+# XREF — Marketing Blitz__4-Point-Marketing-Blitz-Audit_xref
+# Source: Marketing Blitz__4-Point-Marketing-Blitz-Audit.md
+# Format: | Para | Source reference (line/context) | Destination domain/file (section) |
+| Para | Source reference (line/context) | Destination domain/file (section) |
+|---|---|---|
+| 1 | Line ~1 — # 4-Point-Marketing-Blitz-Audit.pdf | MarketingHowTo.md (relevant section) |
+| 2 | Context: framework/header reference to domain source | MarketingHowTo.md (relevant section) |
+| 3 | Additional mapping to relevant HowTo/domain section required | MarketingHowTo.md / OperationsHowTo.md (relevant section) |

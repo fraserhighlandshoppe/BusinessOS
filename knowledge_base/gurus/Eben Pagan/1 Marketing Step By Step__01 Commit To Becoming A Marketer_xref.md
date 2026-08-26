@@ -1,11 +1,17 @@
-# XREF — 01 Commit To Becoming A Marketer.md Tracking (table format)
-# Source file: 1 Marketing Step By Step__01 Commit To Becoming A Marketer.md
-# Each row: para # → source reference → destination(s) in domain guides
-
-| Para | Source reference (line/section) | Destination domain/file (para/section) |
+# XREF — 1 Marketing Step By Step__01 Commit To Becoming A Marketer_xref
+# Source: 1 Marketing Step By Step__01 Commit To Becoming A Marketer.md
+# Format: | Para | Source reference (line/context) | Destination domain/file (section) |
+| Para | Source reference (line/context) | Destination domain/file (section) |
 |---|---|---|
-| 1 | Commit to identity shift (line 5-9) | MarketingHowTo.md Section 1; MindsetHowTo.md Section 1 |
-| 2 | Avoided marketing identity (line 11-12) | MarketingHowTo.md Section 1b; BusinessHowTo.md Section 1 |
-| 3 | Pro-active marketing mentality (line 14-15) | MarketingHowTo.md Section 1b; SalesHowTo.md Section 1 |
-| 4 | Overcoming fear (line 17-18) | MarketingHowTo.md Section 2; MindsetHowTo.md Section 2 |
-| Note | Exercise section (line 63-72) | No direct marketing incorporation — mindset exercise only |
+| 1 | Line ~1 — # 01 Commit To Becoming A Marketer.pdf | MarketingHowTo.md (relevant section) |
+| 4 | Line ~4 — Commit To Becoming A Marketer | MarketingHowTo.md (relevant section) |
+| 5 | Line ~5 — We tend to behave in relationship to how we see ourselves and how we define ourselves in the world. To succeed | MarketingHowTo.md (relevant section) |
+| 6 | Line ~6 — business, it’s important to identify yourself mentally as a Marketer - as someone who pro-actively goes out an | MarketingHowTo.md (relevant section) |
+| 7 | Line ~7 — tools you’re learning in this program to get Customers for your business. If you have unconsciously avoided le | MarketingHowTo.md (relevant section) |
+| 8 | Line ~8 — Marketing or Sales because you had biases or prejudices against these professions, now is the time to change t | MarketingHowTo.md (relevant section) |
+| 11 | Line ~11 — Where have I avoided the identify of “Marketer” in my life and in my | MarketingHowTo.md (relevant section) |
+| 14 | Line ~14 — What can I do today to begin shifting my identity from a reactive | MarketingHowTo.md (relevant section) |
+| 15 | Line ~15 — “job” mentality to a pro-active Marketing mentality? | MarketingHowTo.md (relevant section) |
+| 17 | Line ~17 — What fear will I need to overcome to succeed as a Marketer, and | MarketingHowTo.md (relevant section) |
+| 18 | Line ~18 — what will I have to do in order to overcome it? | MarketingHowTo.md (relevant section) |
+| 20 | Line ~20 — ©2011, All Rights Reserved. MARKETING Step By Step is a Trademark of Get Altitude, LLC. | MarketingHowTo.md (relevant section) |

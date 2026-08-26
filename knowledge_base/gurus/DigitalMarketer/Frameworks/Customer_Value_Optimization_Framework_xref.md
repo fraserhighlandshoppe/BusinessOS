@@ -1,12 +1,17 @@
-# ABC — DigitalMarketer — Customer Value Optimization — Guru XREF
-# Source: Frameworks/Customer_Value_Optimization_Framework.md
-# Format: table (para by para ordered)
-
-| Paragraph / Section | Topic / Key Phrase | Relevance to Domain | Destination (HowTo / Domain) |
-|---|---|---|---|
-| CVO Overview | Customer lifetime value / value ladder / funnel stages | Value optimization / funnel design | MarketingHowTo.md; SalesHowTo.md |
-| Traffic Temperature Integration | Cold / warm / hot audience targeting | Traffic segmentation / audience strategy | MarketingHowTo.md; TrafficHowTo.md (if exists) |
-| Offer Sequence (Lead Magnet → Tripwire → Core → Profit Maximizer) | Offer ladder / upsell / cross-sell | Product funnel / revenue optimization | BusinessHowTo.md; SalesHowTo.md |
-| Metrics & Tracking | Customer value / acquisition cost / ROI | Performance / analytics | OperationsHowTo.md; MarketingHowTo.md |
-
-Notes: HIGH relevance. Core framework linking MarketingHowTo.md (funnel/traffic) and SalesHowTo.md (conversion/offer ladder).
+# XREF — Customer_Value_Optimization_Framework_xref
+# Source: Customer_Value_Optimization_Framework.md
+# Format: | Para | Source reference (line/context) | Destination domain/file (section) |
+| Para | Source reference (line/context) | Destination domain/file (section) |
+|---|---|---|
+| 2 | Line ~2 — name: "Customer Value Optimization (CVO)" | OperationsHowTo.md / MarketingHowTo.md (relevant framework section) |
+| 4 | Line ~4 — category: "Offer Development" | OperationsHowTo.md / MarketingHowTo.md (relevant framework section) |
+| 5 | Line ~5 — purpose: "Build scalable, profitable business model through strategic value optimization" | OperationsHowTo.md / MarketingHowTo.md (relevant framework section) |
+| 7 | Line ~7 — - Value Drivers System (psychology + segmentation) | OperationsHowTo.md / MarketingHowTo.md (relevant framework section) |
+| 8 | Line ~8 — - CVO Flowchart Process | OperationsHowTo.md / MarketingHowTo.md (relevant framework section) |
+| 9 | Line ~9 — - Profit Optimization Calculator | OperationsHowTo.md / MarketingHowTo.md (relevant framework section) |
+| 10 | Line ~10 — - Customer Journey Mapping | OperationsHowTo.md / MarketingHowTo.md (relevant framework section) |
+| 12 | Line ~12 — 1. "Download and study CVO Process graphic from [[/Digital_Marketer_CVO_Process.pdf]]" | OperationsHowTo.md / MarketingHowTo.md (relevant framework section) |
+| 13 | Line ~13 — 2. "Pin CVO Flowchart to workstation wall" | OperationsHowTo.md / MarketingHowTo.md (relevant framework section) |
+| 14 | Line ~14 — 3. "Map your current offer against CVO framework" | OperationsHowTo.md / MarketingHowTo.md (relevant framework section) |
+| 15 | Line ~15 — 4. "Identify value optimization gaps and opportunities" | OperationsHowTo.md / MarketingHowTo.md (relevant framework section) |
+| 16 | Line ~16 — 5. "Run quarterly CVO reviews using [[/Digital_Marketer_Offer_Optimization_Checklist.pdf]]" | OperationsHowTo.md / MarketingHowTo.md (relevant framework section) |

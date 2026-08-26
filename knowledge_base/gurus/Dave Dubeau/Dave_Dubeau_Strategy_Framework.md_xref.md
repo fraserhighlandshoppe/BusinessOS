@@ -1,6 +1,8 @@
-# XREF — Dave_Dubeau_Strategy_Framework.md
-# Source guru: Dave Dubeau
-# Format: table (para by para ordered)
-| Para | Source .md file line/context | Destination (HowTo/domain) | Notes |
-|---|---|---|---|
-| Strategy framework | Source line/context: Strategy framework synthesized from source docs; strategic planning / business direction / growth | BusinessHowTo.md / MarketingHowTo.md / OperationsHowTo.md | Strategy framework / planning / direction |
+# XREF — Dave_Dubeau_Strategy_Framework_xref
+# Source: Dave_Dubeau_Strategy_Framework.md.md
+# Format: | Para | Source reference (line/context) | Destination domain/file (section) |
+| Para | Source reference (line/context) | Destination domain/file (section) |
+|---|---|---|
+| 1 | Source file: Dave_Dubeau_Strategy_Framework.md.md (line review needed) | OperationsHowTo.md / MarketingHowTo.md (relevant framework section) |
+| 2 | Context: framework/header reference to domain source | OperationsHowTo.md / MarketingHowTo.md (relevant framework section) |
+| 3 | Additional mapping to relevant HowTo/domain section required | MarketingHowTo.md / OperationsHowTo.md (relevant section) |

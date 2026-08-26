@@ -1,0 +1,8 @@
+# XREF — Selling System - predictable__PerpetualWebinarOffer_xref
+# Source: Selling System - predictable__PerpetualWebinarOffer.md
+# Format: | Para | Source reference (line/context) | Destination domain/file (section) |
+| Para | Source reference (line/context) | Destination domain/file (section) |
+|---|---|---|
+| 1 | Line ~1 — # PerpetualWebinarOffer.pdf | WebConversionHowTo.md (Section 2 - Web Strategy) |
+| 2 | Context: framework/header reference to domain source | WebConversionHowTo.md (Section 2 - Web Strategy) |
+| 3 | Additional mapping to relevant HowTo/domain section required | MarketingHowTo.md / OperationsHowTo.md (relevant section) |

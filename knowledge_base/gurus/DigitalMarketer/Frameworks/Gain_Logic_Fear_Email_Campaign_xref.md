@@ -1,12 +1,17 @@
-# ABC — Gain, Logic, Fear Email Campaign Framework — Guru XREF
+# XREF — Gain_Logic_Fear_Email_Campaign_xref
 # Source: Gain_Logic_Fear_Email_Campaign_Framework.md
-# Table format, ordered by paragraph. References domain and HowTo.
-
-| Paragraph / Section | Topic / Key Phrase | Relevance to Email | XREF to Domain / HowTo |
-|---|---|---|---|
-| Para 1-6 (front matter) | Framework title / tags (psychological-triggers, engagement, follow-up) | Defines emotional trigger framework; relates directly to Email Playbook.md emotional triggers section | domains/email/BCD_Email_Marketing_Playbook_xref.md; EmailHowTo.md |
-| Para 15-19 (Implementation Sequence) | Lead Magnet Integration → Email #1 Gain → Email #2 Logic → Email #3 Fear → A/B Testing | Sequence structure; aligns with Welcome Series.md 3-email flow and Automation.md sequence timing | domains/email/BCD_Welcome_Series_xref.md; BCD_Automation_xref.md; EmailHowTo.md |
-| Para 20-32 (Key Principles) | Gain / Logic / Fear / Generic Applicability | Principles mapped in Email Playbook.md (4 Emotional Triggers) and Cold Email Marketing.md best practices | domains/email/BCD_Email_Marketing_Playbook_xref.md; BCD_Cold_Email_Marketing_xref.md; EmailHowTo.md |
-| Para 33-44 (Cross-Reference Mapping) | Tripwire Offer, Sales Funnel, Email Automation | Cross-references Launch.md tripwire, Launch New Product framework, and automation framework | domains/marketing/BCD_DM_21_Day_Launch_xref.md; knowledge_base/gurus/DigitalMarketer/Frameworks/Launch_New_Product_Framework.md; EmailHowTo.md |
-
-Notes: HIGH relevance. Emotional trigger framework is foundational for EmailHowTo.md copy and follow-up sections. Do not modify EmailHowTo.md.
+# Format: | Para | Source reference (line/context) | Destination domain/file (section) |
+| Para | Source reference (line/context) | Destination domain/file (section) |
+|---|---|---|
+| 4 | Line ~4 — framework_title: "Gain, Logic, Fear Email Campaign Framework" | EmailHowTo.md (Section 3 - Email Sequences) |
+| 5 | Line ~5 — author: "Digital Marketer Team" | EmailHowTo.md (Section 3 - Email Sequences) |
+| 7 | Line ~7 — maintained_by: "BusinessOS Team" | EmailHowTo.md (Section 3 - Email Sequences) |
+| 9 | Line ~9 — - [[Tripwire_Offer_Framework]] | EmailHowTo.md (Section 3 - Email Sequences) |
+| 10 | Line ~10 — - [[5_Step_Sales_Funnel_Framework]] | EmailHowTo.md (Section 3 - Email Sequences) |
+| 11 | Line ~11 — - [[Email_Marketing_Automation_Framework]] | EmailHowTo.md (Section 3 - Email Sequences) |
+| 12 | Line ~12 — tags: [email-marketing, psychological-triggers, engagement, follow-up, psychology] | EmailHowTo.md (Section 3 - Email Sequences) |
+| 15 | Line ~15 — ## Implementation Sequence: | EmailHowTo.md (Section 3 - Email Sequences) |
+| 16 | Line ~16 — 1. **Lead Magnet Integration** – Use an opt-in that leads naturally to a tripwire offer. | EmailHowTo.md (Section 3 - Email Sequences) |
+| 17 | Line ~17 — 2. **Email #1: The Gain (Day 1)** – Highlight the positive outcomes of taking action. | EmailHowTo.md (Section 3 - Email Sequences) |
+| 18 | Line ~18 — 3. **Email #2: The Logic (Day 3)** – Provide rational justification for the purchase. | EmailHowTo.md (Section 3 - Email Sequences) |
+| 19 | Line ~19 — 4. **Email #3: The Fear (Day 5)** – Highlight the cost of inaction. | EmailHowTo.md (Section 3 - Email Sequences) |

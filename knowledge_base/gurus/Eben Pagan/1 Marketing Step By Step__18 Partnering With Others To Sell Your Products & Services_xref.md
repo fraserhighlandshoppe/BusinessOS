@@ -1,10 +1,14 @@
-# XREF — 18 Partnering With Others To Sell Your Products & Services.md Tracking
-# Source file: 1 Marketing Step By Step__18 Partnering With Others To Sell Your Products & Services.md
-
-| Para | Source reference (line/section) | Destination domain/file (para/section) |
+# XREF — 1 Marketing Step By Step__18 Partnering With Others To Sell Your Products & Services_xref
+# Source: 1 Marketing Step By Step__18 Partnering With Others To Sell Your Products & Services.md
+# Format: | Para | Source reference (line/context) | Destination domain/file (section) |
+| Para | Source reference (line/context) | Destination domain/file (section) |
 |---|---|---|
-| 1 | Other businesses invested to find perfect customers (line 6-8) | MarketingHowTo.md Section 15; Partnership Marketing.md Section 1 |
-| 2 | Offer value to partners (line 7-8) | MarketingHowTo.md Section 15.1; Affiliate Marketing.md Section 2 |
-| 3 | Customer journey before/after purchase (line 10-11) | MarketingHowTo.md Section 15.2; Customer Journey.md Section 1 |
-| 4 | Who has your customer already (line 13) | MarketingHowTo.md Section 15.3; Customer Avatar Template.md Section 9 |
-| 5 | Offer to partners for marketing help (line 15-16) | MarketingHowTo.md Section 15.4; Partnership Marketing.md Section 2 |
+| 1 | Line ~1 — # 18 Partnering With Others To Sell Your Products & Services.pdf | MarketingHowTo.md (relevant section) |
+| 4 | Line ~4 — Partnering With Others To Sell | MarketingHowTo.md (relevant section) |
+| 6 | Line ~6 — Other businesses have already invested a tremendous amount of time, effort, energy and money to find customers | MarketingHowTo.md (relevant section) |
+| 7 | Line ~7 — PERFECT for your business. Target and approach these businesses, then offer to create value for them - and in  | MarketingHowTo.md (relevant section) |
+| 8 | Line ~8 — tell their customers about YOU. | MarketingHowTo.md (relevant section) |
+| 10 | Line ~10 — What does a customer have to do both before and after they buy | MarketingHowTo.md (relevant section) |
+| 13 | Line ~13 — Who would be likely to have your customer already? | MarketingHowTo.md (relevant section) |
+| 15 | Line ~15 — What can you offer these partners to help them with their marketing | MarketingHowTo.md (relevant section) |
+| 18 | Line ~18 — ©2011, All Rights Reserved. MARKETING Step By Step is a Trademark of Get Altitude, LLC. | MarketingHowTo.md (relevant section) |

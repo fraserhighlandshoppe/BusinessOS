@@ -1,14 +1,17 @@
-# XREF — 16 Marketing Message Formula.md Tracking
-# Source file: 1 Marketing Step By Step__16 Marketing Message Formula.md
-
-| Para | Source reference (line/section) | Destination domain/file (para/section) |
+# XREF — 1 Marketing Step By Step__16 Marketing Message Formula_xref
+# Source: 1 Marketing Step By Step__16 Marketing Message Formula.md
+# Format: | Para | Source reference (line/context) | Destination domain/file (section) |
+| Para | Source reference (line/context) | Destination domain/file (section) |
 |---|---|---|
-| 1 | Marketing Message Formula intro (line 4-7) | MarketingHowTo.md Section 13; MarketingHowTo.md Section 12 |
-| 2 | Headline that promises benefit (line 9) | MarketingHowTo.md Section 13.1; Headline Formulas.md Section 1 |
-| 3 | Set up problem/challenge/opportunity (line 11) | MarketingHowTo.md Section 13.2; Customer Avatar Guide.md Section 4 |
-| 4 | Story builds credibility/trust (line 13) | MarketingHowTo.md Section 13.3; Storytelling.md Section 3 |
-| 5 | Introduce solution/result (line 15) | MarketingHowTo.md Section 13.4; SalesHowTo.md Section 9 |
-| 6 | Build value/add bonuses/frame price (line 17) | MarketingHowTo.md Section 13.5; SalesHowTo.md Section 10 |
-| 7 | Remove risk (line 19) | MarketingHowTo.md Section 13.6; SalesHowTo.md Section 11 |
-| 8 | Summarize offer (line 21) | MarketingHowTo.md Section 13.7; MarketingHowTo.md Section 8 |
-| 9 | Direct to action now (line 23) | MarketingHowTo.md Section 13.8; Call To Action.md Section 1 |
+| 1 | Line ~1 — # 16 Marketing Message Formula.pdf | MarketingHowTo.md (relevant section) |
+| 4 | Line ~4 — Use This Marketing Message Formula | MarketingHowTo.md (relevant section) |
+| 5 | Line ~5 — To Create Your Marketing Pieces | MarketingHowTo.md (relevant section) |
+| 6 | Line ~6 — Create an outline of your Marketing Message using this formula - then “flesh it out” to create your entire adv | MarketingHowTo.md (relevant section) |
+| 7 | Line ~7 — video, website or other Marketing piece. | MarketingHowTo.md (relevant section) |
+| 9 | Line ~9 — 1. Headline that promises a benefit | MarketingHowTo.md (relevant section) |
+| 11 | Line ~11 — 2. Set up problem, challenge or opportunity | MarketingHowTo.md (relevant section) |
+| 13 | Line ~13 — 3. Story that builds credibility & trust | MarketingHowTo.md (relevant section) |
+| 15 | Line ~15 — 4. Introduce solution/result in form of your product | MarketingHowTo.md (relevant section) |
+| 17 | Line ~17 — 5. Build value, add bonuses, frame price | MarketingHowTo.md (relevant section) |
+| 19 | Line ~19 — 6. Remove risk | MarketingHowTo.md (relevant section) |
+| 21 | Line ~21 — 7. Summarize offer | MarketingHowTo.md (relevant section) |

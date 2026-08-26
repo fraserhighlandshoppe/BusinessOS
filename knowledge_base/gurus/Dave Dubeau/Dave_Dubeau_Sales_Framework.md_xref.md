@@ -1,7 +1,8 @@
-# XREF — Dave_Dubeau_Sales_Framework.md
-# Source guru: Dave Dubeau
-# Format: table (para by para ordered)
-| Para | Source .md file line/context | Destination (HowTo/domain) | Notes |
-|---|---|---|---|
-| 1 | Line 4: Sales framework synthesized from source docs; sales methodology / closing / presentation / negotiation | SalesHowTo.md / MarketingHowTo.md / OperationsHowTo.md | Sales framework / methodology / process |
-|---|---|---|---|
+# XREF — Dave_Dubeau_Sales_Framework_xref
+# Source: Dave_Dubeau_Sales_Framework.md.md
+# Format: | Para | Source reference (line/context) | Destination domain/file (section) |
+| Para | Source reference (line/context) | Destination domain/file (section) |
+|---|---|---|
+| 1 | Source file: Dave_Dubeau_Sales_Framework.md.md (line review needed) | SalesHowTo.md (Section 4 - Closing/Negotiation) |
+| 2 | Context: framework/header reference to domain source | SalesHowTo.md (Section 4 - Closing/Negotiation) |
+| 3 | Additional mapping to relevant HowTo/domain section required | MarketingHowTo.md / OperationsHowTo.md (relevant section) |
