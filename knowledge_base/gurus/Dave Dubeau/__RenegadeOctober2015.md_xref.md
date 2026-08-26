@@ -3,8 +3,6 @@
 # Format: | Para | Source reference (line/context) | Destination domain/file (section) |
 | Para | Source reference (line/context) | Destination domain/file (section) |
 |---|---|---|
-| 1 | Line ~1 — # RenegadeOctober2015.pdf | MarketingHowTo.md (Section 2 - Ads) |
-| 8 | Line ~8 — Our Blades Are F***ing Great | MarketingHowTo.md (Section 2 - Ads) |
-| 9 | Line ~9 — ( the story that built an empire) | MarketingHowTo.md (Section 2 - Ads) |
-| 10 | Line ~10 — - by Troy White | MarketingHowTo.md (Section 2 - Ads) |
-| 65 | Line ~65 — www.blog.smallbusinesscopywriter.com/dollarshave | MarketingHowTo.md (Section 2 - Ads) |
+| 1 | Former business journalist, Neil Godin (a.k.a. The Turnaround Guy®) is publisher of “Marketing Dangerously,” the world’s only marketing and sales “idea | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Actual claim from source paragraph |
+| 2 | Zone” (available at Amazon and other outlets). As a speaker Neil has | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Actual claim from source paragraph |
+| 3 | Canada and the United States. As a marketing and sales consultant and | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Actual claim from source paragraph |

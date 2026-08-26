@@ -3,13 +3,6 @@
 # Format: table (para by para ordered)
 | Para | Source .md file line/context | Destination (HowTo/domain) | Notes |
 |---|---|---|---|
-| 1 | Line ~1 — # How to Write Blog Posts that Sell _ DigitalMarketer.html | MarketingHowTo.md (Section 2 - Traffic/Ads) | Auto-filled batch 8 |
-| 4 | Line ~4 — How to Write Blog Posts that Sell \| DigitalMarketer | MarketingHowTo.md (Section 2 - Traffic/Ads) | Auto-filled batch 8 |
-| 7 | Line ~7 — Ultimate Guide to Digital Marketing | MarketingHowTo.md (Section 2 - Traffic/Ads) | Auto-filled batch 8 |
-| 8 | Line ~8 — Content Marketing Resources | MarketingHowTo.md (Section 2 - Traffic/Ads) | Auto-filled batch 8 |
-| 9 | Line ~9 — Email Marketing Resources | MarketingHowTo.md (Section 2 - Traffic/Ads) | Auto-filled batch 8 |
-| 10 | Line ~10 — Paid Traffic Resources | MarketingHowTo.md (Section 2 - Traffic/Ads) | Auto-filled batch 8 |
-| 11 | Line ~11 — Ultimate Digital Marketing Toolbox | MarketingHowTo.md (Section 2 - Traffic/Ads) | Auto-filled batch 8 |
-| 16 | Line ~16 — Certified Partners (Agencies ONLY) | MarketingHowTo.md (Section 2 - Traffic/Ads) | Auto-filled batch 8 |
-| 19 | Line ~19 — Certifications & Master Classes | MarketingHowTo.md (Section 2 - Traffic/Ads) | Auto-filled batch 8 |
-| 25 | Line ~25 — DigitalMarketer Podcast | MarketingHowTo.md (Section 2 - Traffic/Ads) | Auto-filled batch 8 |
+| 1 | Want to be a content marketing master? Get our step-by-step plan for turning content into free, organic traffic and get certified as a Content Marketing Specialist! | MarketingHowTo.md (relevant section) | Actual claim from source paragraph |
+| 2 | According to WordPress, 75.7 million new posts are published every month. | MarketingHowTo.md (relevant section) | Actual claim from source paragraph |
+| 3 | But even more OPPORTUNITY for YOU to publish posts that will convert your readers. | MarketingHowTo.md (relevant section) | Actual claim from source paragraph |

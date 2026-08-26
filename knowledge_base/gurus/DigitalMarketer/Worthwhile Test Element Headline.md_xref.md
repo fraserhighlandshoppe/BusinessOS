@@ -3,18 +3,6 @@
 # Format: table (para by para ordered)
 | Para | Source .md file line/context | Destination (HowTo/domain) | Notes |
 |---|---|---|---|
-| 1 | Line ~1 — # Worthwhile Test Element Headline.html | MarketingHowTo.md (Section 2 - Traffic/Ads) | Auto-filled batch 8 |
-| 9 | Line ~9 — kevin@fraserhighlandshoppe.ca | MarketingHowTo.md (Section 2 - Traffic/Ads) | Auto-filled batch 8 |
-| 30 | Line ~30 — Landing Page Testing Formula | MarketingHowTo.md (Section 2 - Traffic/Ads) | Auto-filled batch 8 |
-| 33 | Line ~33 — 1. Start Here | MarketingHowTo.md (Section 2 - Traffic/Ads) | Auto-filled batch 8 |
-| 35 | Line ~35 — How to Use This Execution Plan | MarketingHowTo.md (Section 2 - Traffic/Ads) | Auto-filled batch 8 |
-| 36 | Line ~36 — Where We Are Testing In The CVO Process | MarketingHowTo.md (Section 2 - Traffic/Ads) | Auto-filled batch 8 |
-| 37 | Line ~37 — 2. Pick Your Landing Page | MarketingHowTo.md (Section 2 - Traffic/Ads) | Auto-filled batch 8 |
-| 38 | Line ~38 — Identifying The Lead Magnet | MarketingHowTo.md (Section 2 - Traffic/Ads) | Auto-filled batch 8 |
-| 39 | Line ~39 — Qualify Your Test Worthy Landing Page | MarketingHowTo.md (Section 2 - Traffic/Ads) | Auto-filled batch 8 |
-| 40 | Line ~40 — Prioritizing Your Split Tests | MarketingHowTo.md (Section 2 - Traffic/Ads) | Auto-filled batch 8 |
-| 41 | Line ~41 — 3. Identify Testable Elements | MarketingHowTo.md (Section 2 - Traffic/Ads) | Auto-filled batch 8 |
-| 45 | Line ~45 — Worthwhile Test Element: Call To Action | MarketingHowTo.md (Section 2 - Traffic/Ads) | Auto-filled batch 8 |
-| 46 | Line ~46 — Worthwhile Test Element: Headline | MarketingHowTo.md (Section 2 - Traffic/Ads) | Auto-filled batch 8 |
-| 47 | Line ~47 — Worthwhile Test Element: Images | MarketingHowTo.md (Section 2 - Traffic/Ads) | Auto-filled batch 8 |
-| 48 | Line ~48 — Worthwhile Test Element: Trust Indicators | MarketingHowTo.md (Section 2 - Traffic/Ads) | Auto-filled batch 8 |
+| 1 | Worthwhile Test Element: Call To Action | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Actual claim from source paragraph |
+| 2 | Worthwhile Test Element: Trust Indicators | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Actual claim from source paragraph |
+| 3 | Your headline can make or break your landing page! I know a lot of copywriters will like to get cutesy with their headlines, but do yourself a favor - don’t! | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Actual claim from source paragraph |

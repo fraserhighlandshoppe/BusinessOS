@@ -3,6 +3,6 @@
 # Format: table (para by para ordered)
 | Para | Source .md file line/context | Destination (HowTo/domain) | Notes |
 |---|---|---|---|
-| 1 | Line ~1 — # YouTube Cards_ How To Double Your Leads and Sales From YouTube With One Simple Tweak.pdf | SalesHowTo.md (Section 4 - Closing/Negotiation) | Auto-filled batch 8 |
-| 4 | Line ~4 — YouTube Cards: How To Double Your Leads and Sales From YouTube W... | SalesHowTo.md (Section 4 - Closing/Negotiation) | Auto-filled batch 8 |
-| 8 | Line ~8 — http://www.digitalmarketer.com/youtube-cards/ | SalesHowTo.md (Section 4 - Closing/Negotiation) | Auto-filled batch 8 |
+| 1 | YouTube Cards: How To Double Your Leads and Sales From YouTube W... | SalesHowTo.md (relevant section) | Actual claim from source paragraph |
+| 2 | YouTube Cards: How To Double Your Leads and Sales From YouTube W... | SalesHowTo.md (relevant section) | Actual claim from source paragraph |
+| 3 | YouTube Cards: How To Double Your Leads and Sales From YouTube W... | SalesHowTo.md (relevant section) | Actual claim from source paragraph |

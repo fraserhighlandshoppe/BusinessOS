@@ -3,18 +3,6 @@
 # Format: table (para by para ordered)
 | Para | Source .md file line/context | Destination (HowTo/domain) | Notes |
 |---|---|---|---|
-| 1 | Line ~1 — # Write a How-To Headline.html | MarketingHowTo.md (Section 2 - Traffic/Ads) | Auto-filled batch 8 |
-| 9 | Line ~9 — kevin@fraserhighlandshoppe.ca | MarketingHowTo.md (Section 2 - Traffic/Ads) | Auto-filled batch 8 |
-| 30 | Line ~30 — How To Build and Write Your First Landing Page | MarketingHowTo.md (Section 2 - Traffic/Ads) | Auto-filled batch 8 |
-| 33 | Line ~33 — 1. Start Here | MarketingHowTo.md (Section 2 - Traffic/Ads) | Auto-filled batch 8 |
-| 35 | Line ~35 — How to Get The Most Out of Your Execution Plan | MarketingHowTo.md (Section 2 - Traffic/Ads) | Auto-filled batch 8 |
-| 36 | Line ~36 — What are Landing Pages? | MarketingHowTo.md (Section 2 - Traffic/Ads) | Auto-filled batch 8 |
-| 37 | Line ~37 — Why are Landing Pages Important? | MarketingHowTo.md (Section 2 - Traffic/Ads) | Auto-filled batch 8 |
-| 39 | Line ~39 — Choose a Landing Page Type | MarketingHowTo.md (Section 2 - Traffic/Ads) | Auto-filled batch 8 |
-| 40 | Line ~40 — 2. Create a Squeeze Page | MarketingHowTo.md (Section 2 - Traffic/Ads) | Auto-filled batch 8 |
-| 41 | Line ~41 — When To Use a Squeeze Page | MarketingHowTo.md (Section 2 - Traffic/Ads) | Auto-filled batch 8 |
-| 42 | Line ~42 — Choose a Squeeze Page Template | MarketingHowTo.md (Section 2 - Traffic/Ads) | Auto-filled batch 8 |
-| 43 | Line ~43 — Write the Squeeze Page Copy | MarketingHowTo.md (Section 2 - Traffic/Ads) | Auto-filled batch 8 |
-| 44 | Line ~44 — Build Your Squeeze Page | MarketingHowTo.md (Section 2 - Traffic/Ads) | Auto-filled batch 8 |
-| 45 | Line ~45 — 3. Create a Long Form Sales Letter | MarketingHowTo.md (Section 2 - Traffic/Ads) | Auto-filled batch 8 |
-| 46 | Line ~46 — When To Use a Long Form Sales Letter | MarketingHowTo.md (Section 2 - Traffic/Ads) | Auto-filled batch 8 |
+| 1 | 3. Create a Long Form Sales Letter | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Actual claim from source paragraph |
+| 2 | In this step, we’ll write the headline that will appear at the top of your long form sales letter. | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Actual claim from source paragraph |
+| 3 | The headline is the first thing that will be read and is, therefore, the most critical piece of copy on the page. | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Actual claim from source paragraph |

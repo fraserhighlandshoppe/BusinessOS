@@ -3,10 +3,6 @@
 # Format: table (para by para ordered)
 | Para | Source .md file line/context | Destination (HowTo/domain) | Notes |
 |---|---|---|---|
-| 7 | Line ~7 — Sold On eBay AHairBall | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Auto-filled batch 8 |
-| 9 | Line ~9 — and breakfastsA Secret Loophole | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Auto-filled batch 8 |
-| 16 | Line ~16 — hotels and country inns | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Auto-filled batch 8 |
-| 18 | Line ~18 — Corrective eye surgery | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Auto-filled batch 8 |
-| 22 | Line ~22 — Advertising (TV, radio, Print) | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Auto-filled batch 8 |
-| 26 | Line ~26 — VitaminsInterviews Florida Man | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Auto-filled batch 8 |
-| 36 | Line ~36 — DVD and CD duplication | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Auto-filled batch 8 |
+| 1 | I’m Michael Senoff, founder and CEO of HardToFindSeminars.com. | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Actual claim from source paragraph |
+| 2 | For the last five years, I’ve interviewed the world’s best business and marketing minds. | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Actual claim from source paragraph |
+| 3 | a business that I could operate from home. | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Actual claim from source paragraph |

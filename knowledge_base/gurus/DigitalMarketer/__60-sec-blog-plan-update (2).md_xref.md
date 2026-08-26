@@ -3,5 +3,6 @@
 # Format: table (para by para ordered)
 | Para | Source .md file line/context | Destination (HowTo/domain) | Notes |
 |---|---|---|---|
-| 1 | Line ~1 — # 60-sec-blog-plan-update (2).pdf | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Auto-filled batch 8 |
-| 26 | Line ~26 — Increase Engagement Series | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Auto-filled batch 8 |
+| 1 | Digital Marketer LLC. All Rights Reserved. | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Actual claim from source paragraph |
+| 2 | DigitalMarketer.com is a community where marketers, growth | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Actual claim from source paragraph |
+| 3 | NOTE: If you’re new to DM, you can click one of the links below | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Actual claim from source paragraph |

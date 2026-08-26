@@ -3,6 +3,6 @@
 # Format: table (para by para ordered)
 | Para | Source .md file line/context | Destination (HowTo/domain) | Notes |
 |---|---|---|---|
-| 1 | Line ~1 — # Customer Value Optimization_ How to Build an Unstoppable Business.pdf | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Auto-filled batch 8 |
-| 4 | Line ~4 — Customer Value Optimization: How to Build an Unstoppable Business | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Auto-filled batch 8 |
-| 8 | Line ~8 — http://www.digitalmarketer.com/customer-value-optimization/ | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Auto-filled batch 8 |
+| 1 | Customer Value Optimization: How to Build an Unstoppable Business | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Actual claim from source paragraph |
+| 2 | Customer Value Optimization: How to Build an Unstoppable Business | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Actual claim from source paragraph |
+| 3 | Customer Value Optimization: How to Build an Unstoppable Business | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Actual claim from source paragraph |

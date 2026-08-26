@@ -3,18 +3,6 @@
 # Format: table (para by para ordered)
 | Para | Source .md file line/context | Destination (HowTo/domain) | Notes |
 |---|---|---|---|
-| 1 | Line ~1 — # Distribute the Podcast.html | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Auto-filled batch 8 |
-| 9 | Line ~9 — kevin@fraserhighlandshoppe.ca | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Auto-filled batch 8 |
-| 30 | Line ~30 — 9-Step Podcast Launch Plan | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Auto-filled batch 8 |
-| 33 | Line ~33 — 1. Start Here | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Auto-filled batch 8 |
-| 35 | Line ~35 — How to Get the Most Out Of Your Execution Plan | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Auto-filled batch 8 |
-| 36 | Line ~36 — Download the Essential List of Podcasting Tools | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Auto-filled batch 8 |
-| 37 | Line ~37 — 2. Launch Your Podcast | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Auto-filled batch 8 |
-| 38 | Line ~38 — How to Use This Section | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Auto-filled batch 8 |
-| 39 | Line ~39 — Define Your Concept and Your Style | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Auto-filled batch 8 |
-| 40 | Line ~40 — Record Pillar Episodes | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Auto-filled batch 8 |
-| 41 | Line ~41 — Launch with a Contest | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Auto-filled batch 8 |
-| 42 | Line ~42 — Continue to Generate Buzz | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Auto-filled batch 8 |
-| 44 | Line ~44 — 3. Maintain Your Podcast | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Auto-filled batch 8 |
-| 50 | Line ~50 — Distribute the Podcast | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Auto-filled batch 8 |
-| 52 | Line ~52 — Give Us Your Feedback | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Auto-filled batch 8 |
+| 1 | We briefly talked about our podcast distribution schedule in the first module – now we’re going to go into more detail and show you how we generated over 10,000 clicks in six month | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Actual claim from source paragraph |
+| 2 | Before we distribute the podcast throughout our channels, we take the URL to the episode’s show notes page on our site and use Bitly to shorten the link. We will include this Bitly | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Actual claim from source paragraph |
+| 3 | Besides being able to shorten a link, Bitly has great tracking features you can use including number of clicks, the time of day people are clicking, and what platform the clicks ar | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Actual claim from source paragraph |

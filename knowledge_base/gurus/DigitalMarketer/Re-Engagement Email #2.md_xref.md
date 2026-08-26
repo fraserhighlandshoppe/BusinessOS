@@ -3,18 +3,6 @@
 # Format: table (para by para ordered)
 | Para | Source .md file line/context | Destination (HowTo/domain) | Notes |
 |---|---|---|---|
-| 1 | Line ~1 — # Re-Engagement Email #2.html | EmailHowTo.md (Section 3 - Sequences) | Auto-filled batch 8 |
-| 9 | Line ~9 — kevin@fraserhighlandshoppe.ca | EmailHowTo.md (Section 3 - Sequences) | Auto-filled batch 8 |
-| 30 | Line ~30 — 9-Part Email Subscriber Win Back Campaign | EmailHowTo.md (Section 3 - Sequences) | Auto-filled batch 8 |
-| 33 | Line ~33 — 1. Start Here | EmailHowTo.md (Section 3 - Sequences) | Auto-filled batch 8 |
-| 34 | Line ~34 — How To Get The Most Out of Your Execution Plan | EmailHowTo.md (Section 3 - Sequences) | Auto-filled batch 8 |
-| 35 | Line ~35 — How to Use This Execution Plan | EmailHowTo.md (Section 3 - Sequences) | Auto-filled batch 8 |
-| 36 | Line ~36 — 2. Re-Engagement Emails | EmailHowTo.md (Section 3 - Sequences) | Auto-filled batch 8 |
-| 37 | Line ~37 — How to Use This Section | EmailHowTo.md (Section 3 - Sequences) | Auto-filled batch 8 |
-| 38 | Line ~38 — Re-Engagement Email #1 | EmailHowTo.md (Section 3 - Sequences) | Auto-filled batch 8 |
-| 39 | Line ~39 — Re-Engagement Email #2 | EmailHowTo.md (Section 3 - Sequences) | Auto-filled batch 8 |
-| 40 | Line ~40 — Re-Engagement Email #3 | EmailHowTo.md (Section 3 - Sequences) | Auto-filled batch 8 |
-| 41 | Line ~41 — Re-Engagement Email #4 | EmailHowTo.md (Section 3 - Sequences) | Auto-filled batch 8 |
-| 42 | Line ~42 — 3. Win-Back Emails | EmailHowTo.md (Section 3 - Sequences) | Auto-filled batch 8 |
-| 49 | Line ~49 — 4. Welcome Back Email | EmailHowTo.md (Section 3 - Sequences) | Auto-filled batch 8 |
-| 52 | Line ~52 — Give Us Your Feedback | EmailHowTo.md (Section 3 - Sequences) | Auto-filled batch 8 |
+| 1 | This email is a bit less subtle (note that it references it’s been over 30 days since they opened an email) but still puts the blame on outside forces. | EmailHowTo.md (relevant section) | Actual claim from source paragraph |
+| 2 | Subj: Is this your best email address? | EmailHowTo.md (relevant section) | Actual claim from source paragraph |
+| 3 | Sorry if I’m bugging you, but it’s been over 30 days since you’ve opened or clicked on a link in one of my emails, and I’m starting to think that you’ve moved on. | EmailHowTo.md (relevant section) | Actual claim from source paragraph |

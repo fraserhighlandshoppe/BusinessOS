@@ -3,13 +3,6 @@
 # Format: table (para by para ordered)
 | Para | Source .md file line/context | Destination (HowTo/domain) | Notes |
 |---|---|---|---|
-| 1 | Line ~1 — # How to Write Landing Page Bullets that Sell.html | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Auto-filled batch 8 |
-| 4 | Line ~4 — How to Write Landing Page Bullets that Sell | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Auto-filled batch 8 |
-| 7 | Line ~7 — Ultimate Guide to Digital Marketing | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Auto-filled batch 8 |
-| 8 | Line ~8 — Content Marketing Resources | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Auto-filled batch 8 |
-| 9 | Line ~9 — Email Marketing Resources | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Auto-filled batch 8 |
-| 10 | Line ~10 — Paid Traffic Resources | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Auto-filled batch 8 |
-| 11 | Line ~11 — Ultimate Digital Marketing Toolbox | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Auto-filled batch 8 |
-| 16 | Line ~16 — Certified Partners (Agencies ONLY) | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Auto-filled batch 8 |
-| 19 | Line ~19 — Certifications & Master Classes | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Auto-filled batch 8 |
-| 25 | Line ~25 — DigitalMarketer Podcast | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Auto-filled batch 8 |
+| 1 | … when writing sales copy, you have to picture your prospect as a lazy bum to grasp how hard your sales copy has to work to motivate them to BUY. | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Actual claim from source paragraph |
+| 2 | You must approach them as a lazy 70’s stoner and assume that they have the attention span of a 4 year old (about 2 seconds). | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Actual claim from source paragraph |
+| 3 | …unless it’s CLEARLY demonstrated that it’s worth it for them to do so. | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Actual claim from source paragraph |

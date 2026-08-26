@@ -3,6 +3,6 @@
 # Format: | Para | Source reference (line/context) | Destination domain/file (section) |
 | Para | Source reference (line/context) | Destination domain/file (section) |
 |---|---|---|
-| 1 | Line ~1 — # 2014CashflowCalendar-Supplement.pdf | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) |
-| 2 | Context: framework/header reference to domain source | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) |
-| 3 | Additional mapping to relevant HowTo/domain section required | MarketingHowTo.md / OperationsHowTo.md (relevant section) |
+| 1 | Local Business Celebrates the Power of Sucking Up To Your Spouse. | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Actual claim from source paragraph |
+| 2 | For MEN ONLY: Leveraging the Power of a Frying Pan This Valentines | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Actual claim from source paragraph |
+| 3 | community a special class for men who want to woo their spouse this Valentines day. | MarketingHowTo.md / SalesHowTo.md / OperationsHowTo.md (relevant section) | Actual claim from source paragraph |
