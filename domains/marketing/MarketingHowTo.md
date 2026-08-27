@@ -158,6 +158,7 @@ The avatar worksheet (`domains/marketing/Customer Avatar Template.md`, `Customer
 - Pagan: audience/value prop before mechanics; everything is a test; value creation.
 - Cardone: spend aggressively; act fast; promote constantly; build team early.
 - Both agree: marketing is an ongoing process; measurement required; documentation required; audience understanding is critical.
+- Inkling (`knowledge_base/gurus/Inkling/`): framework design (`XREF_Framework.md`), batch processing rules (`Batch_Processing.md`), manual OS (`Manual_OS_Design.md`), conflict resolution patterns (`Conflict_Resolution.md`), cross-campaign branding vocabulary (`Cross_Campaign_Branding.md`). See `Cross_Campaign_Branding.md` for unified vocabulary links across long copy, email, blog, landing page, and Instagram graphic assets.
 
 ---
 
@@ -171,4 +172,5 @@ The avatar worksheet (`domains/marketing/Customer Avatar Template.md`, `Customer
 - Levis, D. - 5R Web Conversion (fhsws002 wiki)
 - Hopk(i)ns, C. - Scientific Advertising (headline purpose; gurus/Troy White/)
 - Singer, B. - Branding; Dubeau, D. - Web TV (domains/marketing)
+- Inkling (AI Assistant) - XREF Framework; Batch Processing; Manual OS Design; Conflict Resolution; Cross-Campaign Branding Vocabulary (`knowledge_base/gurus/Inkling/`)
 - FHS Wiki - Customer Avatar Template, Crafting the Headline, Swipe Files framework
