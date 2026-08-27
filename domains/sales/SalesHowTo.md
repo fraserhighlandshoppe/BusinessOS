@@ -116,3 +116,4 @@ Sales runs on a simple cycle: find the person who can buy, has power, is interes
 - Ruta, J. - Friends & Family selling
 - Tracy, B. - Sales Prospecting Checklist (domains/business/Brian Tracy Success Principles.md)
 - FHS Wiki - FHS Sales Process, FHS Sales Objectives, Perfect Sales System
+- Inkling (AI Assistant) - Sales Director; Sales Manager; Salesman; Account Manager / Copywriter references; Conflict Resolution framework (`knowledge_base/gurus/Inkling/`)

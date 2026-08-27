@@ -152,3 +152,4 @@ Tags: #finance #operations #howto #masterguide
 
 ---
 *This guide links to source files, wiki pages, and SOP references. Where guru sources don't cover infrastructure, the wiki and SOP files provide the authoritative procedure. For shareholder-level strategy, see the wiki Owner Docs and the rebuilt `BusinessHowTo.md` (shareholder / C-suite version).*
+- Inkling (AI Assistant) - IT Director; Developer; Web Designer; Project Manager; Business Analyst; Framework Design; Batch Processing (`knowledge_base/gurus/Inkling/`)

@@ -174,3 +174,4 @@ The avatar worksheet (`domains/marketing/Customer Avatar Template.md`, `Customer
 - Singer, B. - Branding; Dubeau, D. - Web TV (domains/marketing)
 - Inkling (AI Assistant) - XREF Framework; Batch Processing; Manual OS Design; Conflict Resolution; Cross-Campaign Branding Vocabulary (`knowledge_base/gurus/Inkling/`)
 - FHS Wiki - Customer Avatar Template, Crafting the Headline, Swipe Files framework
+- Inkling (AI Assistant) - Cross-Campaign Branding Vocabulary; Web Designer; Marketer; Copywriter; Marketing Director (`knowledge_base/gurus/Inkling/`)

@@ -229,3 +229,4 @@ Every conflict note above links back to the source `.md` files in `knowledge_bas
 
 ---
 *Every claim above links to a source file. If a claim is missing a source link, the link is implied by the Bibliography entry and the domain file path. This guide is intended to be complete enough for a new employee or AI agent to execute without additional context.*
+- Inkling (AI Assistant / Business Roles) - CEO, COO, CFO, Marketing Director, Sales Director, IT Director, Project Manager, Business Analyst, Developer, Sales Manager, Salesman, Marketer, Copywriter, HR Manager, Accountant, Web Designer (`knowledge_base/gurus/Inkling/`); framework design (`XREF_Framework.md`); cross-campaign branding vocabulary (`Cross_Campaign_Branding.md`)
